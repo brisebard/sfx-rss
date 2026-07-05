@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Génère un flux RSS à partir du flux d'actualités Satellifacts.
+Génère un flux RSS à partir du flux d'actualités Sfx.
 
 Pour chaque nouvel article détecté sur /api/news-feed, va chercher les
 métadonnées complètes (titre, description, date, image) sur la page de
