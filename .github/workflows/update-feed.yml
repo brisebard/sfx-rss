@@ -1,4 +1,4 @@
-name: Update Satellifacts RSS feed
+name: Update Sfx RSS feed
 
 on:
   schedule:
