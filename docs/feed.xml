@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 05 Jul 2026 18:46:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 20:00:49 +0000</lastBuildDate>
 
+    <item>
+      <title>Box-office monde : « Minions &amp; Monsters » à la première place - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/box-office-monde-minions-monsters-a-la-premiere-place</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/box-office-monde-minions-monsters-a-la-premiere-place</guid>
+      <description>Avec une sortie internationale lancée fin juin, puis une sortie aux Etats-Unis début juillet, le film d'animation Minions &amp; Monsters (Universal Pictures International) occupe cette semaine la première position du box-office international. Exploité dans 72 territoires, le film enregistre 121,4 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 05 Jul 2026 21:29:56 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/4/6/9/7129647-1-fre-FR/b5c63f73d037-Screenshot-2026-06-24-18.03.36.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Box-office Etats-Unis &amp; Canada : « Minions &amp; Monsters » s'impose pour sa première semaine - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-minions-monsters-s-impose-pour-sa-premiere-semaine</link>
