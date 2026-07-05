@@ -1,7 +1,7 @@
-# Satellifacts RSS (non officiel)
+# Sfx RSS (non officiel)
 
 Génère un flux RSS enrichi (titre complet, description, date, image) à partir
-de `https://www.satellifacts.com/api/news-feed`, en allant chercher les
+de `/api/news-feed`, en allant chercher les
 métadonnées Open Graph de chaque nouvel article.
 
 ## Mise en place
@@ -37,7 +37,7 @@ métadonnées Open Graph de chaque nouvel article.
 - Un workflow planifié est automatiquement désactivé après 60 jours sans
   activité sur le dépôt. Comme ce projet committe à chaque nouvel article,
   ça ne devrait pas arriver tant que le site est actif.
-- Certains articles Satellifacts sont réservés aux abonnés : le script
+- Certains articles Sfx sont réservés aux abonnés : le script
   n'essaie pas de contourner ça, il lit uniquement les balises meta déjà
   publiques dans le `<head>` de la page (prévues pour le partage social),
   ce qui donne un titre et un résumé même pour les articles payants.
