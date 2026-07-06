@@ -6,8 +6,19 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 06 Jul 2026 18:33:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 20:31:28 +0000</lastBuildDate>
 
+    <item>
+      <title>Agenda : mardi 7 et mercredi 8 juillet - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/agenda/agenda-mardi-7-et-mercredi-8-juillet2</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/agenda/agenda-mardi-7-et-mercredi-8-juillet2</guid>
+      <description>Du 7 au 9 juillet : 12e édition du Forum Entreprendre dans la cultureMardi 7 juillet
+Aucun événement programméMercredi 8 juillet
+16h30, France Télévisions, conférence de rentrée au Pathé Palace (Paris)
+  © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 06 Jul 2026 22:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>LFP Media : officialisation de la nomination d'Olivier Bramly à la direction générale - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/lfp-media-officialisation-de-la-nomination-d-olivier-bramly-a-la-direction-generale</link>
