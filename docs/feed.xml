@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 06 Jul 2026 20:31:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 21:59:59 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : dernière, patriotisme, leader, météo... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-derniere-patriotisme-leader-meteo</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-derniere-patriotisme-leader-meteo</guid>
+      <description>ACCÈS LIBRE | Paul Melun @PaulMelun Au revoir @franceinfo ! C’était la dernière émission avec @na_devers et @ce_beaufort Merci à tous pour votre confiance ! Je quitte cette chaîne le cœur léger et le sentiment du devoir accompli. De beaux projets sont à ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 06 Jul 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Agenda : mardi 7 et mercredi 8 juillet - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/agenda/agenda-mardi-7-et-mercredi-8-juillet2</link>
