@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 06 Jul 2026 01:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 05:41:59 +0000</lastBuildDate>
 
+    <item>
+      <title>EXCLU - Taxes sur les services vidéo gratuits :  YouTube a payé un peu plus de 15 millions d'euros en 2025 - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/exclu-taxes-sur-les-services-video-gratuits-youtube-a-paye-un-peu-plus-de-15-millions-d-euros-en-2025</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/exclu-taxes-sur-les-services-video-gratuits-youtube-a-paye-un-peu-plus-de-15-millions-d-euros-en-2025</guid>
+      <description>Selon nos informations, sur les 44,4 millions d'euros générés en 2025 par la taxe sur la publicité des vidéos en ligne appliquée aux plateformes gratuites et de partage de contenus ("TSV-G" ou taxe dite "YouTube"), la contribution de YouTube (Google) ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 06 Jul 2026 04:25:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/1/7/4/7124711-1-fre-FR/84c6d3dce07f-AdobeStock_389011180_Editorial_Use_Only.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : Chabat, douane, Inde, patron, enneigés, Boyard... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-chabat-douane-inde-patron-enneiges-boyard</link>
