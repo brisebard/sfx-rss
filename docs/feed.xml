@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 07 Jul 2026 11:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 13:39:38 +0000</lastBuildDate>
 
+    <item>
+      <title>ADMTV / Publicité télévisée : recours à Bruxelles pour lever l'interdiction visant la grande distribution - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/admtv-publicite-televisee-recours-a-bruxelles-pour-lever-l-interdiction-visant-la-grande-distribution</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/admtv-publicite-televisee-recours-a-bruxelles-pour-lever-l-interdiction-visant-la-grande-distribution</guid>
+      <description>L'ADMTV a déposé une plainte auprès de la Commission européenne contre l'interdiction de la publicité pour la promotion de la distribution fixée par un décret de 1992, a annoncé l'Alliance des Médias TV et Vidéo mardi 7 juillet, fustigeant "une ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 07 Jul 2026 15:29:03 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/1/4/5/7145410-1-fre-FR/25ffc75b913c-Screenshot-2026-07-07-12.12.52.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Molotov : nouvelle interface valorisant la personnalisation de plateformes et les recommandations humaines - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/molotov-nouvelle-interface-valorisant-la-personnalisation-de-plateformes-et-les-recommandations-humaines</link>
