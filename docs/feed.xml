@@ -6,8 +6,17 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 07 Jul 2026 20:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:48:31 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : IA, BBC, clim, fauteuils... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-ia-bbc-clim-fauteuils</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-ia-bbc-clim-fauteuils</guid>
+      <description>ACCÈS LIBRE | Capucine Cousin @Capucine_Cousin Les émissions de gaz à effet de serre de Google et Amazon, portés par l'IA, explosent https://t.co/uR2gF95IAq
+Pascal Rogard @fandoetlis L’IA ce n’est pas uniquement le pillage des droits d’auteur.Michael Savage @michaelsavage NEW: England's victory against Mexico attracted ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 07 Jul 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Agenda : mercredi 8 et jeudi 9 juillet - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/agenda/agenda-mercredi-8-et-jeudi-9-juillet2</link>
