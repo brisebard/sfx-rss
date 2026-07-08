@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 08 Jul 2026 04:34:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:11:53 +0000</lastBuildDate>
 
+    <item>
+      <title>BNP Paribas / Creator economy : "Notre dispositif permet de capter l'intégralité de l'écosystème" - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/bnp-paribas-creator-economy-notre-dispositif-permet-de-capter-l-integralite-de-l-ecosysteme</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/bnp-paribas-creator-economy-notre-dispositif-permet-de-capter-l-integralite-de-l-ecosysteme</guid>
+      <description>Partenaire historique des industries culturelles et créatives, BNP Paribas accompagne les acteurs de la creator economy via une verticale dédiée, copilotée par Claire-Hélène Massot, directrice adjointe du centre d’affaire Images et Médias et Alexandre Jacquemin, directeur commercial du centre d’affaire ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 08 Jul 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/1/3/7/7137316-1-fre-FR/32c31e4f2dbd-Screenshot-2026-07-01-11.35.46.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : IA, BBC, clim, fauteuils... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-ia-bbc-clim-fauteuils</link>
