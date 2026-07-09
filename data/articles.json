@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-oeuvre-soanne-rtbf-concession-camion-studio": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-oeuvre-soanne-rtbf-concession-camion-studio",
+    "fallback_title": "Au fil des (e)X (tweets) :  oeuvre, SoAnne, RTBF, concession, camion-studio ...",
+    "title": "Au fil des (e)X (tweets) :  oeuvre, SoAnne, RTBF, concession, camion-studio ... - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | Jérôme Rabenou @rabenou Droit d’auteur dans l’Union et géoblocage : une œuvre tombée dans le domaine public peut être gratuitement mise en ligne dans un État membre même si elle demeure protégée dans un autre État membre : https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260098fr.pdfSacha Nokovitch ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-07-09CEST23:00:00",
+    "published_iso": "2026-07-09T23:00:00+02:00",
+    "fetched_at": "2026-07-09T21:58:10.283819+00:00"
+  },
   "https://www.satellifacts.com/news/agenda/agenda-des-prochaines-semaines-et-des-prochains-mois-a-partir-du-vendredi-10-juillet2": {
     "url": "https://www.satellifacts.com/news/agenda/agenda-des-prochaines-semaines-et-des-prochains-mois-a-partir-du-vendredi-10-juillet2",
     "fallback_title": "Agenda des prochaines semaines et des prochains mois : à ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-06CEST17:07:33",
     "published_iso": "2026-07-06T17:07:33+02:00",
     "fetched_at": "2026-07-06T16:43:18.081253+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/rtl-avec-son-nouveau-top-france-rtl-la-station-veut-renforcer-sa-place-de-partenaire-referent-sur-la-variete-francaise": {
-    "url": "https://www.satellifacts.com/news/actualite/rtl-avec-son-nouveau-top-france-rtl-la-station-veut-renforcer-sa-place-de-partenaire-referent-sur-la-variete-francaise",
-    "fallback_title": "RTL : avec son nouveau « Top France RTL », la station veut ...",
-    "title": "RTL : avec son nouveau « Top France RTL », la station veut renforcer sa place de « partenaire référent » sur la variété française - SATELLIFACTS",
-    "description": "A la rentrée, RTL lancera un nouveau classement de la variété française, le Top France RTL programmé le samedi à 20h30, a annoncé la station du groupe M6 lundi 6 juillet, quelques jours après la présentation des travaux de l’Arcom et du ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/4/1/8/3/7143814-1-fre-FR/5b6c0f7b0af8-Screenshot-2026-07-06-16.06.08.png",
-    "published_raw": "2026-07-06CEST16:58:25",
-    "published_iso": "2026-07-06T16:58:25+02:00",
-    "fetched_at": "2026-07-06T16:43:20.059919+00:00"
   }
 }

@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 09 Jul 2026 20:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 21:58:11 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) :  oeuvre, SoAnne, RTBF, concession, camion-studio ... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-oeuvre-soanne-rtbf-concession-camion-studio</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-oeuvre-soanne-rtbf-concession-camion-studio</guid>
+      <description>ACCÈS LIBRE | Jérôme Rabenou @rabenou Droit d’auteur dans l’Union et géoblocage : une œuvre tombée dans le domaine public peut être gratuitement mise en ligne dans un État membre même si elle demeure protégée dans un autre État membre : https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260098fr.pdfSacha Nokovitch ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 09 Jul 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Agenda des prochaines semaines et des prochains mois : à partir du vendredi 10 juillet - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/agenda/agenda-des-prochaines-semaines-et-des-prochains-mois-a-partir-du-vendredi-10-juillet2</link>
@@ -811,14 +819,6 @@ Aucun événement programméMercredi 8 juillet
       <description>Les 54 spots publicitaires diffusés sur M6 par 48 annonceurs autour du 8e de finale France/Paraguay (1-0) de la Coupe du monde de la Fifa, diffusé samedi 4 juillet à partir de 23h, ont représenté des investissements de 11,8 millions ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 06 Jul 2026 17:07:33 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/6/5/2/7142562-1-fre-FR/c63db5bf9910-France-Parag.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>RTL : avec son nouveau « Top France RTL », la station veut renforcer sa place de « partenaire référent » sur la variété française - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/rtl-avec-son-nouveau-top-france-rtl-la-station-veut-renforcer-sa-place-de-partenaire-referent-sur-la-variete-francaise</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/rtl-avec-son-nouveau-top-france-rtl-la-station-veut-renforcer-sa-place-de-partenaire-referent-sur-la-variete-francaise</guid>
-      <description>A la rentrée, RTL lancera un nouveau classement de la variété française, le Top France RTL programmé le samedi à 20h30, a annoncé la station du groupe M6 lundi 6 juillet, quelques jours après la présentation des travaux de l’Arcom et du ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 06 Jul 2026 16:58:25 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/1/8/3/7143814-1-fre-FR/5b6c0f7b0af8-Screenshot-2026-07-06-16.06.08.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
