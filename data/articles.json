@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/mfe-mediaforeurope-berlusconi-lancement-en-2027-d-une-plateforme-de-streaming-sur-ses-marches-europeens": {
+    "url": "https://www.satellifacts.com/news/actualite/mfe-mediaforeurope-berlusconi-lancement-en-2027-d-une-plateforme-de-streaming-sur-ses-marches-europeens",
+    "fallback_title": "MFE-MediaForEurope (Berlusconi) : lancement en 2027 d'une plateforme de streaming ...",
+    "title": "MFE-MediaForEurope (Berlusconi) : lancement en 2027 d'une plateforme de streaming sur ses marchés européens - SATELLIFACTS",
+    "description": "Le groupe MFE-MediaForEurope prévoit de lancer en 2027 une plateforme de streaming unique sur l'ensemble de ses marchés européens en combinant les technologies développées par ses filiales italienne et allemande, a annoncé le PDG Pier Silvio Berlusconi, mercredi 8 juillet ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/4/1/4/0/7150414-1-fre-FR/6a03c8b2242b-Screenshot-2026-07-10-20.18.02.png",
+    "published_raw": "2026-07-10CEST20:22:29",
+    "published_iso": "2026-07-10T20:22:29+02:00",
+    "fetched_at": "2026-07-10T19:23:28.686567+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/france-tv-distribution-essor-de-son-offre-avod-avec-trois-nouvelles-chaines-sur-youtube": {
     "url": "https://www.satellifacts.com/news/actualite/france-tv-distribution-essor-de-son-offre-avod-avec-trois-nouvelles-chaines-sur-youtube",
     "fallback_title": "France tv distribution : essor de son offre AVOD avec ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-07CEST15:29:03",
     "published_iso": "2026-07-07T15:29:03+02:00",
     "fetched_at": "2026-07-07T13:39:37.495137+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/molotov-nouvelle-interface-valorisant-la-personnalisation-de-plateformes-et-les-recommandations-humaines": {
-    "url": "https://www.satellifacts.com/news/actualite/molotov-nouvelle-interface-valorisant-la-personnalisation-de-plateformes-et-les-recommandations-humaines",
-    "fallback_title": "Molotov : nouvelle interface valorisant la personnalisation de plateformes et ...",
-    "title": "Molotov : nouvelle interface valorisant la personnalisation de plateformes et les recommandations humaines - SATELLIFACTS",
-    "description": "Molotov déploie une nouvelle ergonomie pour sa plateforme d'accès à la télévision, offrant à ses utilisateurs une navigation \"plus fluide, plus rapide, plus personnalisée\", a annoncé la filiale de l'américain fubo, mardi 7 juillet. L'interface modernisée repose sur une \"architecture ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/6/1/4/5/7145416-1-fre-FR/3f6895c3a40f-Screenshot-2026-07-07-12.45.09.png",
-    "published_raw": "2026-07-07CEST13:10:05",
-    "published_iso": "2026-07-07T13:10:05+02:00",
-    "fetched_at": "2026-07-07T11:31:01.927607+00:00"
   }
 }

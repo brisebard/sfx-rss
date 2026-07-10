@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 10 Jul 2026 17:54:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 19:23:29 +0000</lastBuildDate>
 
+    <item>
+      <title>MFE-MediaForEurope (Berlusconi) : lancement en 2027 d'une plateforme de streaming sur ses marchés européens - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/mfe-mediaforeurope-berlusconi-lancement-en-2027-d-une-plateforme-de-streaming-sur-ses-marches-europeens</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/mfe-mediaforeurope-berlusconi-lancement-en-2027-d-une-plateforme-de-streaming-sur-ses-marches-europeens</guid>
+      <description>Le groupe MFE-MediaForEurope prévoit de lancer en 2027 une plateforme de streaming unique sur l'ensemble de ses marchés européens en combinant les technologies développées par ses filiales italienne et allemande, a annoncé le PDG Pier Silvio Berlusconi, mercredi 8 juillet ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Fri, 10 Jul 2026 20:22:29 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/1/4/0/7150414-1-fre-FR/6a03c8b2242b-Screenshot-2026-07-10-20.18.02.png" type="image/jpeg" />
+    </item>
     <item>
       <title>France tv distribution : essor de son offre AVOD avec trois nouvelles chaînes sur YouTube - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/france-tv-distribution-essor-de-son-offre-avod-avec-trois-nouvelles-chaines-sur-youtube</link>
@@ -808,14 +816,6 @@ Pascal Rogard @fandoetlis L’IA ce n’est pas uniquement le pillage des droits
       <description>L'ADMTV a déposé une plainte auprès de la Commission européenne contre l'interdiction de la publicité pour la promotion de la distribution fixée par un décret de 1992, a annoncé l'Alliance des Médias TV et Vidéo mardi 7 juillet, fustigeant "une ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 07 Jul 2026 15:29:03 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/1/4/5/7145410-1-fre-FR/25ffc75b913c-Screenshot-2026-07-07-12.12.52.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Molotov : nouvelle interface valorisant la personnalisation de plateformes et les recommandations humaines - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/molotov-nouvelle-interface-valorisant-la-personnalisation-de-plateformes-et-les-recommandations-humaines</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/molotov-nouvelle-interface-valorisant-la-personnalisation-de-plateformes-et-les-recommandations-humaines</guid>
-      <description>Molotov déploie une nouvelle ergonomie pour sa plateforme d'accès à la télévision, offrant à ses utilisateurs une navigation "plus fluide, plus rapide, plus personnalisée", a annoncé la filiale de l'américain fubo, mardi 7 juillet. L'interface modernisée repose sur une "architecture ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 07 Jul 2026 13:10:05 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/1/4/5/7145416-1-fre-FR/3f6895c3a40f-Screenshot-2026-07-07-12.45.09.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
