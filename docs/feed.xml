@@ -6,8 +6,17 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 12 Jul 2026 20:29:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 21:26:45 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : stratégie, boulot, Cauet, fidélité, De Gaulle, Triet, Legend ... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-strategie-boulot-cauet-fidelite-de-gaulle-triet-legend</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-strategie-boulot-cauet-fidelite-de-gaulle-triet-legend</guid>
+      <description>ACCÈS LIBRE | Anaël @anael_tw #Netflix envisage sérieusement d'agréger des chaînes en direct et des offres de streaming concurrentes pour contrer la baisse de l'engagement de ses abonnés. Une stratégie qui aurait pour but aussi de stimuler ses recettes publicitaires.
+Raphael Grably @GrablyR Il ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 12 Jul 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Box-office monde : le live action « Vaiana : La Légende du bout du monde » en tête - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/box-office-monde-le-live-action-vaiana-la-legende-du-bout-du-monde-en-tete</link>
@@ -808,14 +817,6 @@ Pascal Rogard @fandoetlis L’IA ce n’est pas uniquement le pillage des droits
       <description>Avec 7,8 % de part d’audience, RTL9, qui avait détrôné Paris Première de la 1re place lors de la vague précédente (septembre 2025-février 2026), conserve la tête des chaînes thématiques, selon les résultats de la vague 51 de l’étude Médiamat’Thématik ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 07 Jul 2026 19:35:20 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/0/2/8/6778206-3-fre-FR/6d51e09a5b36-LOGO-MEDIAMETRIE-SIGNATURE-VDEF-fond-fonce.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>T18 : après un an de diffusion, la chaîne « est déjà un média de masse » (Christopher Baldelli) - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/t18-apres-un-an-de-diffusion-la-chaine-a-atteint-deux-tiers-du-reach-de-youtube-christopher-baldelli</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/t18-apres-un-an-de-diffusion-la-chaine-a-atteint-deux-tiers-du-reach-de-youtube-christopher-baldelli</guid>
-      <description>C’est avec une équipe « soudée, confiante et ambitieuse » que T18, chaîne lancée le 6 juin 2025 sur la TNT nationale par CMI Media, aborde sa deuxième saison, a assuré son président Christopher Baldelli, mardi 7 juillet, lors d’une conférence de rentrée, qui a ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 07 Jul 2026 18:27:55 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/6/4/5/7145464-1-fre-FR/a7b89c27c221-f3314e59-ed93-4940-89e8-552360b1d9ca.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
