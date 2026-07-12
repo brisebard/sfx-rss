@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 12 Jul 2026 16:29:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 17:35:53 +0000</lastBuildDate>
 
+    <item>
+      <title>Box-office Etats-Unis &amp; Canada : « Moana » domine, « Minions &amp; Monsters » en deuxième position - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-moana-domine-minions-monsters-en-deuxieme-position</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-moana-domine-minions-monsters-en-deuxieme-position</guid>
+      <description>Pour son premier week-end de sortie en Amérique du Nord, Moana (Disney), l'adaptation en live action du film d'animation du même nom sorti en 2016, s'impose au sommet du box-office nord-américain. Porté par les acteurs Dwayne Johnson et Catherine Laga'aia ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 12 Jul 2026 19:25:14 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/0/8/0/7150807-1-fre-FR/07cac4dea405-Moana.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Audiovisuel public : les pistes de réforme de deux sénateurs LR, en réponse à Charles Alloncle - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/revue-de-presse/audiovisuel-public-les-pistes-de-reforme-de-deux-senateurs-lr-en-reponse-a-charles-alloncle</link>
@@ -808,14 +816,6 @@ Pascal Rogard @fandoetlis L’IA ce n’est pas uniquement le pillage des droits
       <description>La chaîne d’information publique hongroise M1, pro-Orban, a cessé d'émettre mardi 7 juillet dans l’après-midi, a annoncé le nouveau Premier ministre, Peter Magyar, saluant une « journée historique ». « Aujourd'hui, la propagande a cessé d'être diffusée sur les antennes ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 07 Jul 2026 18:22:36 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/1/0/6/7146019-1-fre-FR/6312360f1935-AdobeStock_68414931.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Public des salles : 62,9 % de la population française est allée au moins une fois au cinéma en 2025 (CNC) - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/public-des-salles-62-9-de-la-population-francaise-est-allee-au-moins-une-fois-au-cinema-en-2025-cnc</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/public-des-salles-62-9-de-la-population-francaise-est-allee-au-moins-une-fois-au-cinema-en-2025-cnc</guid>
-      <description>En 2025, 40,9 millions de spectateurs âgés de 3 ans et plus se sont rendus au moins une fois au cinéma, selon l’étude du CNC sur le public du cinéma, publiée mardi 7 juillet. Cette population cinématographique représente 62,9 % de la population totale, en ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 07 Jul 2026 18:13:55 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/1/9/6/7066910-1-fre-FR/9dabab94847b-AdobeStock_13717365.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

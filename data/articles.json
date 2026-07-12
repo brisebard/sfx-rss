@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-moana-domine-minions-monsters-en-deuxieme-position": {
+    "url": "https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-moana-domine-minions-monsters-en-deuxieme-position",
+    "fallback_title": "Box-office Etats-Unis & Canada : « Moana » domine, « ...",
+    "title": "Box-office Etats-Unis & Canada : « Moana » domine, « Minions & Monsters » en deuxième position - SATELLIFACTS",
+    "description": "Pour son premier week-end de sortie en Amérique du Nord, Moana (Disney), l'adaptation en live action du film d'animation du même nom sorti en 2016, s'impose au sommet du box-office nord-américain. Porté par les acteurs Dwayne Johnson et Catherine Laga'aia ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/0/8/0/7150807-1-fre-FR/07cac4dea405-Moana.jpg",
+    "published_raw": "2026-07-12CEST19:25:14",
+    "published_iso": "2026-07-12T19:25:14+02:00",
+    "fetched_at": "2026-07-12T17:35:52.489883+00:00"
+  },
   "https://www.satellifacts.com/news/revue-de-presse/audiovisuel-public-les-pistes-de-reforme-de-deux-senateurs-lr-en-reponse-a-charles-alloncle": {
     "url": "https://www.satellifacts.com/news/revue-de-presse/audiovisuel-public-les-pistes-de-reforme-de-deux-senateurs-lr-en-reponse-a-charles-alloncle",
     "fallback_title": "Audiovisuel public : les pistes de réforme de deux sénateurs ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-07CEST18:22:36",
     "published_iso": "2026-07-07T18:22:36+02:00",
     "fetched_at": "2026-07-07T18:21:12.929963+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/public-des-salles-62-9-de-la-population-francaise-est-allee-au-moins-une-fois-au-cinema-en-2025-cnc": {
-    "url": "https://www.satellifacts.com/news/actualite/public-des-salles-62-9-de-la-population-francaise-est-allee-au-moins-une-fois-au-cinema-en-2025-cnc",
-    "fallback_title": "Public des salles : 62,9 % de la population française est allée ...",
-    "title": "Public des salles : 62,9 % de la population française est allée au moins une fois au cinéma en 2025 (CNC) - SATELLIFACTS",
-    "description": "En 2025, 40,9 millions de spectateurs âgés de 3 ans et plus se sont rendus au moins une fois au cinéma, selon l’étude du CNC sur le public du cinéma, publiée mardi 7 juillet. Cette population cinématographique représente 62,9 % de la population totale, en ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/1/9/6/7066910-1-fre-FR/9dabab94847b-AdobeStock_13717365.jpeg",
-    "published_raw": "2026-07-07CEST18:13:55",
-    "published_iso": "2026-07-07T18:13:55+02:00",
-    "fetched_at": "2026-07-07T18:21:14.894729+00:00"
   }
 }
