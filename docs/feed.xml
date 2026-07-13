@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 13 Jul 2026 04:40:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 07:54:35 +0000</lastBuildDate>
 
+    <item>
+      <title>Audiences 12/07/2026 : « Inestimable » rassemble sur TF1 - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/audiences-12-07-2026-inestimable-rassemble-sur-tf1</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-12-07-2026-inestimable-rassemble-sur-tf1</guid>
+      <description>TF1 arrive en tête des audiences dimanche soir avec le film inédit Inestimable d'Eric Fraticelli. La comédie mettant en scène Didier Bourdon et Philippe Corti réunit 3,66 millions de téléspectateurs pour une pda de 26,5 %. Dimanche dernier, la rediffusion ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 13 Jul 2026 09:20:45 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/9/8/0/7150894-1-fre-FR/d951cd1dc341-inestimable-connaissez-vous-l-incroyable-histoire-vraie-derriere-le-nouveau-film-d-eric-fraticelli.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : stratégie, boulot, Cauet, fidélité, De Gaulle, Triet, Legend ... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-strategie-boulot-cauet-fidelite-de-gaulle-triet-legend</link>
@@ -809,14 +817,6 @@ Pascal Rogard @fandoetlis L’IA ce n’est pas uniquement le pillage des droits
       <description>Comme cela avait été évoqué par Caroline Behar, directrice Coproductions internationales et acquisitions (CIA) au sein de la direction éditoriale des savoirs de France Télévisions, en marge de la présentation Global Doc au Sunny Side of the Doc (Satellifacts, 26 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 07 Jul 2026 19:37:41 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/1/1/6/7146116-1-fre-FR/fd6125664733-unnamed-20-.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Médiamat semestriel / vague 51 : RTL 9 conserve la tête du classement devant Paris Première et TV Breizh - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/mediamat-semestriel-vague-51-rtl-9-conserve-la-tete-du-classement-devant-paris-premiere-et-tv-breizh</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/mediamat-semestriel-vague-51-rtl-9-conserve-la-tete-du-classement-devant-paris-premiere-et-tv-breizh</guid>
-      <description>Avec 7,8 % de part d’audience, RTL9, qui avait détrôné Paris Première de la 1re place lors de la vague précédente (septembre 2025-février 2026), conserve la tête des chaînes thématiques, selon les résultats de la vague 51 de l’étude Médiamat’Thématik ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 07 Jul 2026 19:35:20 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/0/2/8/6778206-3-fre-FR/6d51e09a5b36-LOGO-MEDIAMETRIE-SIGNATURE-VDEF-fond-fonce.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
