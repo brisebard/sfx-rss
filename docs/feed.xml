@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 13 Jul 2026 16:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 18:04:40 +0000</lastBuildDate>
 
+    <item>
+      <title>Warner Bros. Discovery : douze Etats américains s'opposent en justice à son rachat par Paramount - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/warner-bros.-discovery-douze-etats-americains-s-opposent-en-justice-a-son-rachat-par-paramount</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/warner-bros.-discovery-douze-etats-americains-s-opposent-en-justice-a-son-rachat-par-paramount</guid>
+      <description>Douze Etats américains ont lancé des poursuites contre le projet de rachat de Warner Bros. Discovery (WBD) par le groupe américain Paramount Skydance, pour environ 110 milliards de dollars, a annoncé lundi 13 juillet le procureur général de Californie, chef ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 13 Jul 2026 19:37:36 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/4/8/3/6733845-1-fre-FR/3dddb20a3dc7-AdobeStock_1016572099_Editorial_Use_Only.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Netflix / Adventure Line Productions : une version française de « 100 % Physique » en préparation - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/netflix-adventure-line-productions-une-version-francaise-de-100-physique-en-preparation</link>
@@ -804,14 +812,6 @@ Aucun événement programméDu 5 au 15 août : 79e Festival international du fil
       <description>Le syndicat SNJ de France Télévisions a dénoncé mercredi 8 juillet la "mort de Dimanche en politique", sur France 3, qualifiée de "dernier acte d’un dépeçage en règle mené par la direction, après l’arrêt du Soir 3 en 2019 et ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 08 Jul 2026 13:48:47 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/8/6/4/5924686-1-fre-FR/6eef7395afb5-francis_letellier_dimanche_en_politique.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Arcom / CNM : radios et filière musicale renvoyées à des "discussions interprofessionnelles" sur les quotas de chansons - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/arcom-cnm-radios-et-filiere-musicale-renvoyees-a-des-discussions-interprofessionnelles-sur-les-quotas-de-chansons</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/arcom-cnm-radios-et-filiere-musicale-renvoyees-a-des-discussions-interprofessionnelles-sur-les-quotas-de-chansons</guid>
-      <description>La question des quotas de chansons francophones n'a pas fini d'animer les éditeurs de radios et la filière musicale. L'Arcom et le Centre national de la musique (CNM) se gardent bien de proposer des évolutions, renvoyant les acteurs à des ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 08 Jul 2026 13:34:27 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/1/0/5/6735012-1-fre-FR/c3dc30ea45d9-Screenshot-2025-11-24-12.38.24.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
