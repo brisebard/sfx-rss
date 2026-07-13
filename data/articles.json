@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-poussif-england-coupure-streaming": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-poussif-england-coupure-streaming",
+    "fallback_title": "Au fil des (e)X (tweets) : poussif, England, coupure, streaming...",
+    "title": "Au fil des (e)X (tweets) : poussif, England, coupure, streaming... - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | Le Box-Office des films en France et dans le Monde @boxofficefr Démarrage très poussif pour #Vaiana qui cumule seulement 95M$ de recettes Monde au terme de son 1er week-end, dont 43M$ aux US et 5,2M$ en France (3e marché mondial ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-07-13CEST23:00:00",
+    "published_iso": "2026-07-13T23:00:00+02:00",
+    "fetched_at": "2026-07-13T21:37:26.890841+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/warner-bros.-discovery-douze-etats-americains-s-opposent-en-justice-a-son-rachat-par-paramount": {
     "url": "https://www.satellifacts.com/news/actualite/warner-bros.-discovery-douze-etats-americains-s-opposent-en-justice-a-son-rachat-par-paramount",
     "fallback_title": "Warner Bros. Discovery : douze Etats américains s'opposent en justice ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-08CEST15:53:46",
     "published_iso": "2026-07-08T15:53:46+02:00",
     "fetched_at": "2026-07-08T15:35:47.832493+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/france-tv-le-snj-denonce-la-mort-de-dimanche-en-politique-dernier-acte-d-un-depecage-en-regle-mene-par-la-direction": {
-    "url": "https://www.satellifacts.com/news/actualite/france-tv-le-snj-denonce-la-mort-de-dimanche-en-politique-dernier-acte-d-un-depecage-en-regle-mene-par-la-direction",
-    "fallback_title": "France TV : le SNJ dénonce la \"mort\" de \"Dimanche ...",
-    "title": "France TV : le SNJ dénonce la \"mort\" de \"Dimanche en politique\", \"dernier acte d’un dépeçage en règle mené par la direction\" - SATELLIFACTS",
-    "description": "Le syndicat SNJ de France Télévisions a dénoncé mercredi 8 juillet la \"mort de Dimanche en politique\", sur France 3, qualifiée de \"dernier acte d’un dépeçage en règle mené par la direction, après l’arrêt du Soir 3 en 2019 et ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/6/8/6/4/5924686-1-fre-FR/6eef7395afb5-francis_letellier_dimanche_en_politique.png",
-    "published_raw": "2026-07-08CEST13:48:47",
-    "published_iso": "2026-07-08T13:48:47+02:00",
-    "fetched_at": "2026-07-08T13:11:31.081244+00:00"
   }
 }

@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 21:37:27 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : poussif, England, coupure, streaming... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-poussif-england-coupure-streaming</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-poussif-england-coupure-streaming</guid>
+      <description>ACCÈS LIBRE | Le Box-Office des films en France et dans le Monde @boxofficefr Démarrage très poussif pour #Vaiana qui cumule seulement 95M$ de recettes Monde au terme de son 1er week-end, dont 43M$ aux US et 5,2M$ en France (3e marché mondial ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 13 Jul 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Warner Bros. Discovery : douze Etats américains s'opposent en justice à son rachat par Paramount - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/warner-bros.-discovery-douze-etats-americains-s-opposent-en-justice-a-son-rachat-par-paramount</link>
@@ -804,14 +812,6 @@ Aucun événement programméDu 5 au 15 août : 79e Festival international du fil
       <description>Webedia Brand Xperiences (WBX), régie publicitaire du groupe Webedia-Elephant, a dévoilé mercredi 8 juillet un partenariat avec la start-up française BEM afin de développer des campagnes publicitaires au sein des plateformes de jeu vidéo UGC (user-generated content) comme Fortnite ou Roblox pour ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 08 Jul 2026 15:53:46 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/5/0/7/7147052-1-fre-FR/7e07a5f7e9d0-Film_Review_-_Backrooms_99911-1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>France TV : le SNJ dénonce la "mort" de "Dimanche en politique", "dernier acte d’un dépeçage en règle mené par la direction" - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/france-tv-le-snj-denonce-la-mort-de-dimanche-en-politique-dernier-acte-d-un-depecage-en-regle-mene-par-la-direction</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/france-tv-le-snj-denonce-la-mort-de-dimanche-en-politique-dernier-acte-d-un-depecage-en-regle-mene-par-la-direction</guid>
-      <description>Le syndicat SNJ de France Télévisions a dénoncé mercredi 8 juillet la "mort de Dimanche en politique", sur France 3, qualifiée de "dernier acte d’un dépeçage en règle mené par la direction, après l’arrêt du Soir 3 en 2019 et ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 08 Jul 2026 13:48:47 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/8/6/4/5924686-1-fre-FR/6eef7395afb5-francis_letellier_dimanche_en_politique.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
