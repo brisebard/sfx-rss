@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 14 Jul 2026 16:23:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 17:39:25 +0000</lastBuildDate>
 
+    <item>
+      <title>Légion d’honneur : la promotion du 14-Juillet 2026 - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/legion-d-honneur-la-promotion-du-14-juillet-2026</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/legion-d-honneur-la-promotion-du-14-juillet-2026</guid>
+      <description>Plusieurs personnalités du monde des médias et du cinéma ont été distinguées dans la promotion du 14-Juillet 2026 de l’ordre de la Légion d’honneur, selon un décret publié au Journal officiel du 13 juillet. L'actrice et productrice israélo-américaine Natalie Portman figure parmi les personnalités distinguées cette ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 14 Jul 2026 18:51:35 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/9/4/4/3194496-2-fre-FR/88af42d5ab36-legion-d-honneur-page-d-accueil-copie-2.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : poussif, England, coupure, streaming... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-poussif-england-coupure-streaming</link>
@@ -804,14 +812,6 @@ Aucun événement programméDu 5 au 15 août : 79e Festival international du fil
       <description>France Télévisions diffusera la première adaptation internationale du format d'aventures belge The Expedition, a indiqué la société de distribution internationale Primitives TV. sur son site mercredi 8 juillet. "Après trois saisons couronnées de succès en Belgique, la version française produite ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 08 Jul 2026 15:54:17 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/0/0/7/7147007-1-fre-FR/0bb4cdde33fd-Screenshot-2026-07-08-15.06.01.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Webedia Brand Xperiences : partenariat avec la start-up BEM pour des campagnes publicitaires dans « Fortnite » ou « Roblox » - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/webedia-brand-xperiences-partenariat-avec-la-start-up-bem-pour-des-campagnes-publicitaires-dans-fortnite-ou-roblox</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/webedia-brand-xperiences-partenariat-avec-la-start-up-bem-pour-des-campagnes-publicitaires-dans-fortnite-ou-roblox</guid>
-      <description>Webedia Brand Xperiences (WBX), régie publicitaire du groupe Webedia-Elephant, a dévoilé mercredi 8 juillet un partenariat avec la start-up française BEM afin de développer des campagnes publicitaires au sein des plateformes de jeu vidéo UGC (user-generated content) comme Fortnite ou Roblox pour ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 08 Jul 2026 15:53:46 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/5/0/7/7147052-1-fre-FR/7e07a5f7e9d0-Film_Review_-_Backrooms_99911-1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
