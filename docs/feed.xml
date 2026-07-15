@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 15 Jul 2026 20:18:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:26:42 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : 9h, coïncidence, perte, naturisme, mécène, Ulysse... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-coincidence-perte-naturisme-mecene-ulysse</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-coincidence-perte-naturisme-mecene-ulysse</guid>
+      <description>ACCÈS LIBRE | UGC @UGCcinemas 502 spectateurs matinaux pour ce #9hdeshalles du 15 juillet [Parmi les nouveautés, 172 entrées pour L'Odysée, 37 pour The Last viking]Boris Bastide @BorisBastide Emmanuel Macron et son gouvernement font de nouvelles coupes budgétaires dans la culture et on ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 15 Jul 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Agenda : jeudi 16 et vendredi 17 juillet - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/agenda/agenda-jeudi-16-et-vendredi-17-juillet2</link>
@@ -808,14 +816,6 @@ Aucun événement programméDu 5 au 15 août : 79e Festival international du fil
   Dans ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 09 Jul 2026 16:10:22 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/1/4/2/4522410-1-fre-FR/396640ad842c-cour_de_justice_de_l_union_europeenne_cjue.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Arcom : fin de la prise en compte des prises de parole politique diffusées la nuit (minuit/6h) à partir du 1er octobre - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/arcom-fin-de-la-prise-en-compte-des-prises-de-parole-politique-diffusees-la-nuit-minuit-6h-a-partir-du-1er-octobre</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/arcom-fin-de-la-prise-en-compte-des-prises-de-parole-politique-diffusees-la-nuit-minuit-6h-a-partir-du-1er-octobre</guid>
-      <description>L'Arcom fait évoluer son contrôle du pluralisme politique : à partir du 1er octobre, l'Autorité cessera de comptabiliser les prises de parole des personnalités politiques diffusées la nuit, a-t-elle annoncé jeudi 9 juillet, à l'occasion de la publication de son ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 09 Jul 2026 15:51:20 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/9/4/8/5258495-3-fre-FR/0ff3382e0c9d-arcom.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
