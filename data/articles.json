@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/content-partners-ed-simpson-creation-de-wonderloom-media-plateforme-creator-first": {
+    "url": "https://www.satellifacts.com/news/actualite/content-partners-ed-simpson-creation-de-wonderloom-media-plateforme-creator-first",
+    "fallback_title": "Content Partners / Ed Simpson : création de Wonderloom Media, plateforme ...",
+    "title": "Content Partners / Ed Simpson : création de Wonderloom Media, plateforme « creator-first » - SATELLIFACTS",
+    "description": "Le fonds d’investissement Content Partners et Ed Simpson (ex-ITV America et Wheelhouse) ont annoncé le 14 juillet la création de Wonderloom Media. La nouvelle société, plateforme « creator-first », a pour objectif d’acquérir et de développer des entreprises et des contenus nés sur YouTube ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/9/3/4/7154398-1-fre-FR/0d131c8f7964-1784055282204.png",
+    "published_raw": "2026-07-15CEST19:05:11",
+    "published_iso": "2026-07-15T19:05:11+02:00",
+    "fetched_at": "2026-07-15T17:55:55.162647+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/radio-france-le-lancement-de-mon-petit-france-inter-sur-les-ondes-se-concretise": {
     "url": "https://www.satellifacts.com/news/actualite/radio-france-le-lancement-de-mon-petit-france-inter-sur-les-ondes-se-concretise",
     "fallback_title": "Radio France : le lancement de Mon Petit France Inter ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-09CEST15:13:53",
     "published_iso": "2026-07-09T15:13:53+02:00",
     "fetched_at": "2026-07-09T14:16:11.855298+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/senat-zones-grises-de-l-information-un-rapport-propose-d-etendre-le-perimetre-de-l-arcom-a-certains-influenceurs": {
-    "url": "https://www.satellifacts.com/news/actualite/senat-zones-grises-de-l-information-un-rapport-propose-d-etendre-le-perimetre-de-l-arcom-a-certains-influenceurs",
-    "fallback_title": "Sénat / « Zones grises de l’information » : un rapport propose d’étendre ...",
-    "title": "Sénat / « Zones grises de l’information » : un rapport propose d’étendre le périmètre de l’Arcom à certains influenceurs - SATELLIFACTS",
-    "description": "Après quatre mois de travaux, la mission d’information sur « les zones grises de l’information », conduite par les sénateurs Laurent Lafon (UC), Sylvie Robert (SER) et Agnès Evren (LR) au nom de la commission de la Culture, a présenté son rapport ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/4/4/8/7148443-1-fre-FR/68633b07d26e-Screenshot-2026-07-09-11.39.16.png",
-    "published_raw": "2026-07-09CEST15:12:09",
-    "published_iso": "2026-07-09T15:12:09+02:00",
-    "fetched_at": "2026-07-09T14:16:13.518563+00:00"
   }
 }

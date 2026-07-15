@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 15 Jul 2026 16:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 17:55:56 +0000</lastBuildDate>
 
+    <item>
+      <title>Content Partners / Ed Simpson : création de Wonderloom Media, plateforme « creator-first » - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/content-partners-ed-simpson-creation-de-wonderloom-media-plateforme-creator-first</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/content-partners-ed-simpson-creation-de-wonderloom-media-plateforme-creator-first</guid>
+      <description>Le fonds d’investissement Content Partners et Ed Simpson (ex-ITV America et Wheelhouse) ont annoncé le 14 juillet la création de Wonderloom Media. La nouvelle société, plateforme « creator-first », a pour objectif d’acquérir et de développer des entreprises et des contenus nés sur YouTube ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 15 Jul 2026 19:05:11 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/9/3/4/7154398-1-fre-FR/0d131c8f7964-1784055282204.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Radio France : le lancement de Mon Petit France Inter sur les ondes se concrétise - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/radio-france-le-lancement-de-mon-petit-france-inter-sur-les-ondes-se-concretise</link>
@@ -806,14 +814,6 @@ Aucun événement programméDu 5 au 15 août : 79e Festival international du fil
       <description>Le Pathé Ile Seguin ouvre ses portes le 15 juillet, a annoncé le groupe, jeudi 9 juillet. L'établissement est doté de huit salles premium, dont une Imax, pour 881 fauteuils (262 pour la salle Imax et de 83 à 103 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 09 Jul 2026 15:13:53 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/9/3/8/7148398-1-fre-FR/97541d56c4c9-unnamed.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sénat / « Zones grises de l’information » : un rapport propose d’étendre le périmètre de l’Arcom à certains influenceurs - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/senat-zones-grises-de-l-information-un-rapport-propose-d-etendre-le-perimetre-de-l-arcom-a-certains-influenceurs</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/senat-zones-grises-de-l-information-un-rapport-propose-d-etendre-le-perimetre-de-l-arcom-a-certains-influenceurs</guid>
-      <description>Après quatre mois de travaux, la mission d’information sur « les zones grises de l’information », conduite par les sénateurs Laurent Lafon (UC), Sylvie Robert (SER) et Agnès Evren (LR) au nom de la commission de la Culture, a présenté son rapport ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 09 Jul 2026 15:12:09 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/4/4/8/7148443-1-fre-FR/68633b07d26e-Screenshot-2026-07-09-11.39.16.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
