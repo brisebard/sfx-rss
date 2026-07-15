@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/bbc-en-deficit-pour-la-3e-annee-consecutive-solides-performances-pour-bbc-studios": {
+    "url": "https://www.satellifacts.com/news/actualite/bbc-en-deficit-pour-la-3e-annee-consecutive-solides-performances-pour-bbc-studios",
+    "fallback_title": "BBC : en déficit pour la 3e année consécutive ; ...",
+    "title": "BBC : en déficit pour la 3e année consécutive ;  solides performances pour BBC Studios - SATELLIFACTS",
+    "description": "La BBC a enregistré un déficit de 121 millions de livres sterling (143 M€) sur l'exercice 2025-2026, un montant légèrement supérieur à celui de l'exercice précédent (112 M£ pour 2024/2025), selon son rapport annuel publié mardi 14 juillet.  Le chiffre ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/6/8/0/6970861-1-fre-FR/03548d1b9623-Screenshot-2026-02-24-18.49.33.png",
+    "published_raw": "2026-07-15CEST19:56:52",
+    "published_iso": "2026-07-15T19:56:52+02:00",
+    "fetched_at": "2026-07-15T19:12:45.650677+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/content-partners-ed-simpson-creation-de-wonderloom-media-plateforme-creator-first": {
     "url": "https://www.satellifacts.com/news/actualite/content-partners-ed-simpson-creation-de-wonderloom-media-plateforme-creator-first",
     "fallback_title": "Content Partners / Ed Simpson : création de Wonderloom Media, plateforme ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-09CEST15:50:04",
     "published_iso": "2026-07-09T15:50:04+02:00",
     "fetched_at": "2026-07-09T14:16:10.339597+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/pathe-ouverture-le-15-juillet-de-son-nouveau-cinema-sur-l-ile-seguin": {
-    "url": "https://www.satellifacts.com/news/actualite/pathe-ouverture-le-15-juillet-de-son-nouveau-cinema-sur-l-ile-seguin",
-    "fallback_title": "Pathé : ouverture le 15 juillet de son nouveau cinéma ...",
-    "title": "Pathé : ouverture le 15 juillet de son nouveau cinéma sur l'île Seguin - SATELLIFACTS",
-    "description": "Le Pathé Ile Seguin ouvre ses portes le 15 juillet, a annoncé le groupe, jeudi 9 juillet. L'établissement est doté de huit salles premium, dont une Imax, pour 881 fauteuils (262 pour la salle Imax et de 83 à 103 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/9/3/8/7148398-1-fre-FR/97541d56c4c9-unnamed.jpg",
-    "published_raw": "2026-07-09CEST15:13:53",
-    "published_iso": "2026-07-09T15:13:53+02:00",
-    "fetched_at": "2026-07-09T14:16:11.855298+00:00"
   }
 }
