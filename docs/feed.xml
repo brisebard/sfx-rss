@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 15 Jul 2026 03:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 05:55:13 +0000</lastBuildDate>
 
+    <item>
+      <title>Isabelle Degeorges (Uspa) : YouTube « est devenu, a minima, un distributeur » - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/isabelle-degeorges-uspa-youtube-est-devenu-a-minima-un-distributeur</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/isabelle-degeorges-uspa-youtube-est-devenu-a-minima-un-distributeur</guid>
+      <description>Élue présidente de l’Uspa début juin (Satellifacts, 8 juin), Isabelle Degeorges, présidente de Gaumont Télévision, fixe quatre priorités urgentes sur lesquelles le syndicat entend œuvrer : le financement de France Télévisions dans la création, la défense de la préservation des ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 15 Jul 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/6/6/1/6591666-1-fre-FR/a05701f622d6-isabelle_degeorges.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Agenda : mercredi 15 et jeudi 16 juillet - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/agenda/agenda-mercredi-15-et-jeudi-16-juillet2</link>
@@ -806,14 +814,6 @@ Aucun événement programméDu 5 au 15 août : 79e Festival international du fil
       <description>Le bureau de l’Uspa pour la période 2026-2028 a été constitué, mardi 7 juillet, à l’occasion de la première réunion du conseil syndical, a annoncé le syndicat de producteurs le lendemain. Pour rappel, le conseil syndical a été renouvelé lors ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 08 Jul 2026 16:09:02 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/1/0/3/4463010-1-fre-FR/2dd4000de52c-uspa_logo.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Box-office France, semaine : « Toy Story 5 » devant « Des Minions et des monstres » et « La Bataille de Gaulle : J’écris ton nom » - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/box-office-france-semaine-toy-story-5-devant-des-minions-et-des-monstres-et-la-bataille-de-gaulle-j-ecris-ton-nom</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/box-office-france-semaine-toy-story-5-devant-des-minions-et-des-monstres-et-la-bataille-de-gaulle-j-ecris-ton-nom</guid>
-      <description>Toy Story 5 d’Andrew Stanton et McKenna Harris (Walt Disney) continue à faire la course en tête du box-office français avec 633 503 entrées sur 913 copies entre le 1er et le 7 juillet, pour un cumul de 2,7 millions de spectateurs après 3 semaines d’exploitation.En ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 08 Jul 2026 16:07:27 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/2/0/7120227-1-fre-FR/dc695aca0543-TOYSTORY5-ONLINE-USE_t765.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

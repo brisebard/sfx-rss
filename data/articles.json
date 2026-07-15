@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/isabelle-degeorges-uspa-youtube-est-devenu-a-minima-un-distributeur": {
+    "url": "https://www.satellifacts.com/news/actualite/isabelle-degeorges-uspa-youtube-est-devenu-a-minima-un-distributeur",
+    "fallback_title": "Isabelle Degeorges (Uspa) : YouTube « est devenu, a minima, ...",
+    "title": "Isabelle Degeorges (Uspa) : YouTube « est devenu, a minima, un distributeur » - SATELLIFACTS",
+    "description": "Élue présidente de l’Uspa début juin (Satellifacts, 8 juin), Isabelle Degeorges, présidente de Gaumont Télévision, fixe quatre priorités urgentes sur lesquelles le syndicat entend œuvrer : le financement de France Télévisions dans la création, la défense de la préservation des ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/6/6/6/1/6591666-1-fre-FR/a05701f622d6-isabelle_degeorges.png",
+    "published_raw": "2026-07-15CEST07:00:00",
+    "published_iso": "2026-07-15T07:00:00+02:00",
+    "fetched_at": "2026-07-15T05:55:12.837699+00:00"
+  },
   "https://www.satellifacts.com/news/agenda/agenda-mercredi-15-et-jeudi-16-juillet2": {
     "url": "https://www.satellifacts.com/news/agenda/agenda-mercredi-15-et-jeudi-16-juillet2",
     "fallback_title": "Agenda : mercredi 15 et jeudi 16 juillet",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-08CEST16:09:02",
     "published_iso": "2026-07-08T16:09:02+02:00",
     "fetched_at": "2026-07-08T15:35:42.502462+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/box-office-france-semaine-toy-story-5-devant-des-minions-et-des-monstres-et-la-bataille-de-gaulle-j-ecris-ton-nom": {
-    "url": "https://www.satellifacts.com/news/actualite/box-office-france-semaine-toy-story-5-devant-des-minions-et-des-monstres-et-la-bataille-de-gaulle-j-ecris-ton-nom",
-    "fallback_title": "Box-office France, semaine : « Toy Story 5 » devant « Des Minions et des ...",
-    "title": "Box-office France, semaine : « Toy Story 5 » devant « Des Minions et des monstres » et « La Bataille de Gaulle : J’écris ton nom » - SATELLIFACTS",
-    "description": "Toy Story 5 d’Andrew Stanton et McKenna Harris (Walt Disney) continue à faire la course en tête du box-office français avec 633 503 entrées sur 913 copies entre le 1er et le 7 juillet, pour un cumul de 2,7 millions de spectateurs après 3 semaines d’exploitation.En ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/2/0/7120227-1-fre-FR/dc695aca0543-TOYSTORY5-ONLINE-USE_t765.jpg",
-    "published_raw": "2026-07-08CEST16:07:27",
-    "published_iso": "2026-07-08T16:07:27+02:00",
-    "fetched_at": "2026-07-08T15:35:44.394703+00:00"
   }
 }
