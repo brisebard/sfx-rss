@@ -6,8 +6,18 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 15 Jul 2026 19:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:18:56 +0000</lastBuildDate>
 
+    <item>
+      <title>Agenda : jeudi 16 et vendredi 17 juillet - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/agenda/agenda-jeudi-16-et-vendredi-17-juillet2</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/agenda/agenda-jeudi-16-et-vendredi-17-juillet2</guid>
+      <description>Jeudi 16 juillet
+Aucun événement programméVendredi 17 juillet
+Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 15 Jul 2026 22:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>BBC : en déficit pour la 3e année consécutive ;  solides performances pour BBC Studios - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/bbc-en-deficit-pour-la-3e-annee-consecutive-solides-performances-pour-bbc-studios</link>
@@ -806,14 +816,6 @@ Aucun événement programméDu 5 au 15 août : 79e Festival international du fil
       <description>L'Arcom fait évoluer son contrôle du pluralisme politique : à partir du 1er octobre, l'Autorité cessera de comptabiliser les prises de parole des personnalités politiques diffusées la nuit, a-t-elle annoncé jeudi 9 juillet, à l'occasion de la publication de son ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 09 Jul 2026 15:51:20 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/9/4/8/5258495-3-fre-FR/0ff3382e0c9d-arcom.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>SRF : conseil d'administration pour 2026-2027 - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/srf-conseil-d-administration-pour-2026-2027</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/srf-conseil-d-administration-pour-2026-2027</guid>
-      <description>La SRF a procédé à l’élection de son conseil d’administration pour 2026-2027, a-t-elle annoncé, jeudi 9 juillet. L’association est coprésidée par Isabelle Brocard, Christophe Cognet et Sylvain Desclous, qui seront accompagnés d’une vice-présidente, Zoé Wittock, d’une secrétaire, Amélie Bonin, d’un trésorier, Pierre ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 09 Jul 2026 15:50:04 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/6/2/6/5706264-1-fre-FR/854a46a42671-srf_logo_a_utiliser.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

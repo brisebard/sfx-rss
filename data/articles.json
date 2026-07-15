@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/agenda/agenda-jeudi-16-et-vendredi-17-juillet2": {
+    "url": "https://www.satellifacts.com/news/agenda/agenda-jeudi-16-et-vendredi-17-juillet2",
+    "fallback_title": "Agenda : jeudi 16 et vendredi 17 juillet",
+    "title": "Agenda : jeudi 16 et vendredi 17 juillet - SATELLIFACTS",
+    "description": "Jeudi 16 juillet\nAucun événement programméVendredi 17 juillet\nAucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
+    "published_raw": "2026-07-15CEST22:00:00",
+    "published_iso": "2026-07-15T22:00:00+02:00",
+    "fetched_at": "2026-07-15T20:18:55.625176+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/bbc-en-deficit-pour-la-3e-annee-consecutive-solides-performances-pour-bbc-studios": {
     "url": "https://www.satellifacts.com/news/actualite/bbc-en-deficit-pour-la-3e-annee-consecutive-solides-performances-pour-bbc-studios",
     "fallback_title": "BBC : en déficit pour la 3e année consécutive ; ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-09CEST15:51:20",
     "published_iso": "2026-07-09T15:51:20+02:00",
     "fetched_at": "2026-07-09T14:16:08.849079+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/srf-conseil-d-administration-pour-2026-2027": {
-    "url": "https://www.satellifacts.com/news/actualite/srf-conseil-d-administration-pour-2026-2027",
-    "fallback_title": "SRF : conseil d'administration pour 2026-2027",
-    "title": "SRF : conseil d'administration pour 2026-2027 - SATELLIFACTS",
-    "description": "La SRF a procédé à l’élection de son conseil d’administration pour 2026-2027, a-t-elle annoncé, jeudi 9 juillet. L’association est coprésidée par Isabelle Brocard, Christophe Cognet et Sylvain Desclous, qui seront accompagnés d’une vice-présidente, Zoé Wittock, d’une secrétaire, Amélie Bonin, d’un trésorier, Pierre ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/4/6/2/6/5706264-1-fre-FR/854a46a42671-srf_logo_a_utiliser.jpg",
-    "published_raw": "2026-07-09CEST15:50:04",
-    "published_iso": "2026-07-09T15:50:04+02:00",
-    "fetched_at": "2026-07-09T14:16:10.339597+00:00"
   }
 }
