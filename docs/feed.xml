@@ -6,8 +6,18 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 16 Jul 2026 19:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 20:41:09 +0000</lastBuildDate>
 
+    <item>
+      <title>Agenda : à partir de vendredi 17 juillet, dans les prochaines semaines - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/agenda/agenda-a-partir-de-vendredi-17-juillet-dans-les-prochaines-semaines</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/agenda/agenda-a-partir-de-vendredi-17-juillet-dans-les-prochaines-semaines</guid>
+      <description>Du 5 au 15 août : 79e Festival international du film de LocarnoMercredi 26 août 
+9h30 : Festival de la fiction de La Rochelle, conférence de presse de l’édition 2026 à Paris (puis à 17h30 à La Rochelle)Mardi 1er septembre
+9h30  ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 16 Jul 2026 22:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Netflix : la plateforme signe plusieurs partenariats avec des créateurs de contenu - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/netflix-la-plateforme-signe-plusieurs-partenariats-avec-des-createurs-de-contenu</link>
@@ -804,14 +814,6 @@ Raphael Grably @GrablyR Il ... © 2026 FRÉQUENCES. Tous droits réservés. Cont
       <description>La Commission européenne a ordonné vendredi 10 juillet à Meta de modifier les interfaces de Facebook et Instagram, qu’elle juge beaucoup trop « addictives », sous peine d’une très lourde amende. Bruxelles reproche au groupe de Mark Zuckerberg de ne pas avoir évalué correctement ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 10 Jul 2026 16:27:55 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/9/2/4/7054299-1-fre-FR/680148412872-AdobeStock_1181370320_Editorial_Use_Only.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Rodolphe Belmer : le PDG de TF1 interpelle Sébastien Lecornu sur « l’urgence » à « réformer » le cadre réglementaire face aux Gafam - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/rodolphe-belmer-le-pdg-de-tf1-interpelle-sebastien-lecornu-sur-l-urgence-a-reformer-le-cadre-reglementaire-face-aux-gafam</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/rodolphe-belmer-le-pdg-de-tf1-interpelle-sebastien-lecornu-sur-l-urgence-a-reformer-le-cadre-reglementaire-face-aux-gafam</guid>
-      <description>« Nous lançons un appel solennel et pressant à l’exécutif. Nous ne souhaitons ni subventions, ni privilèges, seulement la possibilité de rivaliser à armes égales avec les plateformes étrangères pour continuer à proposer une offre gratuite, de qualité, au service des ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 10 Jul 2026 15:56:52 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/5/3/0/6790359-1-fre-FR/1d5203eb3923-Screenshot-2026-01-18-19.19.20.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>

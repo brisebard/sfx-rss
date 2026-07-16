@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/agenda/agenda-a-partir-de-vendredi-17-juillet-dans-les-prochaines-semaines": {
+    "url": "https://www.satellifacts.com/news/agenda/agenda-a-partir-de-vendredi-17-juillet-dans-les-prochaines-semaines",
+    "fallback_title": "Agenda : à partir de vendredi 17 juillet, dans les ...",
+    "title": "Agenda : à partir de vendredi 17 juillet, dans les prochaines semaines - SATELLIFACTS",
+    "description": "Du 5 au 15 août : 79e Festival international du film de LocarnoMercredi 26 août \n9h30 : Festival de la fiction de La Rochelle, conférence de presse de l’édition 2026 à Paris (puis à 17h30 à La Rochelle)Mardi 1er septembre\n9h30  ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
+    "published_raw": "2026-07-16CEST22:00:00",
+    "published_iso": "2026-07-16T22:00:00+02:00",
+    "fetched_at": "2026-07-16T20:41:08.129782+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/netflix-la-plateforme-signe-plusieurs-partenariats-avec-des-createurs-de-contenu": {
     "url": "https://www.satellifacts.com/news/actualite/netflix-la-plateforme-signe-plusieurs-partenariats-avec-des-createurs-de-contenu",
     "fallback_title": "Netflix : la plateforme signe plusieurs partenariats avec des créateurs ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-10CEST16:27:55",
     "published_iso": "2026-07-10T16:27:55+02:00",
     "fetched_at": "2026-07-10T15:58:52.807852+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/rodolphe-belmer-le-pdg-de-tf1-interpelle-sebastien-lecornu-sur-l-urgence-a-reformer-le-cadre-reglementaire-face-aux-gafam": {
-    "url": "https://www.satellifacts.com/news/actualite/rodolphe-belmer-le-pdg-de-tf1-interpelle-sebastien-lecornu-sur-l-urgence-a-reformer-le-cadre-reglementaire-face-aux-gafam",
-    "fallback_title": "Rodolphe Belmer : le PDG de TF1 interpelle Sébastien Lecornu sur ...",
-    "title": "Rodolphe Belmer : le PDG de TF1 interpelle Sébastien Lecornu sur « l’urgence » à « réformer » le cadre réglementaire face aux Gafam - SATELLIFACTS",
-    "description": "« Nous lançons un appel solennel et pressant à l’exécutif. Nous ne souhaitons ni subventions, ni privilèges, seulement la possibilité de rivaliser à armes égales avec les plateformes étrangères pour continuer à proposer une offre gratuite, de qualité, au service des ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/5/3/0/6790359-1-fre-FR/1d5203eb3923-Screenshot-2026-01-18-19.19.20.png",
-    "published_raw": "2026-07-10CEST15:56:52",
-    "published_iso": "2026-07-10T15:56:52+02:00",
-    "fetched_at": "2026-07-10T15:58:54.752979+00:00"
   }
 }
