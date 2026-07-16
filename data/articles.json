@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-tarifs-corruption-plage-depart-souvenirs": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-tarifs-corruption-plage-depart-souvenirs",
+    "fallback_title": "Au fil des (e)X (tweets) : tarifs, corruption, plage, départ, souvenirs...",
+    "title": "Au fil des (e)X (tweets) : tarifs, corruption, plage, départ, souvenirs... - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | Anaël @anael_tw Évolution des tarifs d'#HBOMax chez @canalplus à compter du 20 août prochain. « HBO Max Basic avec pub » passe de 5,99€/mois à 6,99€/mois, « HBO Max Standard » passe de 9,99€/mois à 10,99€/mois.Gilles Pignon @Gilles_Pignon Quand un ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-07-16CEST23:00:00",
+    "published_iso": "2026-07-16T23:00:00+02:00",
+    "fetched_at": "2026-07-16T21:46:34.651152+00:00"
+  },
   "https://www.satellifacts.com/news/agenda/agenda-a-partir-de-vendredi-17-juillet-dans-les-prochaines-semaines": {
     "url": "https://www.satellifacts.com/news/agenda/agenda-a-partir-de-vendredi-17-juillet-dans-les-prochaines-semaines",
     "fallback_title": "Agenda : à partir de vendredi 17 juillet, dans les ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-10CEST16:53:31",
     "published_iso": "2026-07-10T16:53:31+02:00",
     "fetched_at": "2026-07-10T15:58:50.855482+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/dsa-bruxelles-ordonne-a-meta-de-changer-les-interfaces-addictives-de-facebook-et-d-instagram": {
-    "url": "https://www.satellifacts.com/news/actualite/dsa-bruxelles-ordonne-a-meta-de-changer-les-interfaces-addictives-de-facebook-et-d-instagram",
-    "fallback_title": "DSA : Bruxelles ordonne à Meta de changer les « interfaces addictives » ...",
-    "title": "DSA : Bruxelles ordonne à Meta de changer les « interfaces addictives » de Facebook et d’Instagram - SATELLIFACTS",
-    "description": "La Commission européenne a ordonné vendredi 10 juillet à Meta de modifier les interfaces de Facebook et Instagram, qu’elle juge beaucoup trop « addictives », sous peine d’une très lourde amende. Bruxelles reproche au groupe de Mark Zuckerberg de ne pas avoir évalué correctement ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/9/2/4/7054299-1-fre-FR/680148412872-AdobeStock_1181370320_Editorial_Use_Only.jpeg",
-    "published_raw": "2026-07-10CEST16:27:55",
-    "published_iso": "2026-07-10T16:27:55+02:00",
-    "fetched_at": "2026-07-10T15:58:52.807852+00:00"
   }
 }

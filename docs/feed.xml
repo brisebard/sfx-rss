@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 16 Jul 2026 20:41:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:46:35 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : tarifs, corruption, plage, départ, souvenirs... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-tarifs-corruption-plage-depart-souvenirs</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-tarifs-corruption-plage-depart-souvenirs</guid>
+      <description>ACCÈS LIBRE | Anaël @anael_tw Évolution des tarifs d'#HBOMax chez @canalplus à compter du 20 août prochain. « HBO Max Basic avec pub » passe de 5,99€/mois à 6,99€/mois, « HBO Max Standard » passe de 9,99€/mois à 10,99€/mois.Gilles Pignon @Gilles_Pignon Quand un ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 16 Jul 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Agenda : à partir de vendredi 17 juillet, dans les prochaines semaines - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/agenda/agenda-a-partir-de-vendredi-17-juillet-dans-les-prochaines-semaines</link>
@@ -806,14 +814,6 @@ Raphael Grably @GrablyR Il ... © 2026 FRÉQUENCES. Tous droits réservés. Cont
       <description>Un premier départ a été annoncé après la finalisation, ce jeudi, du rapprochement de Banijay Entertainment avec le groupe de production et distribution britannique All3Media (Satellifacts, 9 juillet). Chacune des deux sociétés disposait auparavant de sa propre branche de distribution, dirigée ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 10 Jul 2026 16:53:31 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/4/9/7/4787947-1-fre-FR/6df1886a9744-cathy_payne.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>DSA : Bruxelles ordonne à Meta de changer les « interfaces addictives » de Facebook et d’Instagram - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/dsa-bruxelles-ordonne-a-meta-de-changer-les-interfaces-addictives-de-facebook-et-d-instagram</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/dsa-bruxelles-ordonne-a-meta-de-changer-les-interfaces-addictives-de-facebook-et-d-instagram</guid>
-      <description>La Commission européenne a ordonné vendredi 10 juillet à Meta de modifier les interfaces de Facebook et Instagram, qu’elle juge beaucoup trop « addictives », sous peine d’une très lourde amende. Bruxelles reproche au groupe de Mark Zuckerberg de ne pas avoir évalué correctement ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 10 Jul 2026 16:27:55 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/9/2/4/7054299-1-fre-FR/680148412872-AdobeStock_1181370320_Editorial_Use_Only.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
