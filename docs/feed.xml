@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 19 Jul 2026 20:26:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 21:26:05 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : big-bang, tournage, combo, saison, animaux, altercation... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-big-bang-tournage-combo-saison-animaux-altercation</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-big-bang-tournage-combo-saison-animaux-altercation</guid>
+      <description>ACCÈS LIBRE | Julien Pernici @JulienPernici Plus les jours passent, plus la distorsion évidente autour des audiences de Radio Nova (qui n'y est pour rien) me fait dire que ce sera peut-être l'élément déclencheur d'un big-bang de la méthodologie de mesure d'audience radio ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 19 Jul 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Box-office monde : « L'Odyssée » de Christopher Nolan au sommet - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/box-office-monde-l-odyssee-de-christopher-nolan-au-sommet</link>
@@ -808,14 +816,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Une comète traverse le ciel de Paris. Le temps de son passage, des liens réels ou invisibles se tissent entre des individus de tous horizons : deux amis (Vincent Macaigne et Samuel Achache) qui sillonnent la capitale en voiture à la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 13 Jul 2026 16:15:37 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/0/5/1/7151506-1-fre-FR/ae2b407cdb88-comete-120-def-hd-6a3bd686c66bd.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Plan de financement cinéma : « De la Comédie-Française » - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/plan-de-financement-cinema-de-la-comedie-francaise</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/plan-de-financement-cinema-de-la-comedie-francaise</guid>
-      <description>Dans 3 heures, Nina dévoile sa première mise en scène à la Comédie-Française. Mais dans l’agitation des dernières répétitions, rien ne se passe comme prévu : retards, coups de stress, problèmes techniques et problèmes d’ego secouent la troupe. Pourtant, Nina n’a ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 13 Jul 2026 16:00:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/3/7/5/7085736-1-fre-FR/6211b2aece33-C-ATELIER-DE-PRODUCTION-COMEDIE-FRANCAISE-FRANCE-2-CINEMA-2025-3-scaled.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

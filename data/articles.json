@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-big-bang-tournage-combo-saison-animaux-altercation": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-big-bang-tournage-combo-saison-animaux-altercation",
+    "fallback_title": "Au fil des (e)X (tweets) : big-bang, tournage, combo, saison, animaux, altercation...",
+    "title": "Au fil des (e)X (tweets) : big-bang, tournage, combo, saison, animaux, altercation... - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | Julien Pernici @JulienPernici Plus les jours passent, plus la distorsion évidente autour des audiences de Radio Nova (qui n'y est pour rien) me fait dire que ce sera peut-être l'élément déclencheur d'un big-bang de la méthodologie de mesure d'audience radio ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-07-19CEST23:00:00",
+    "published_iso": "2026-07-19T23:00:00+02:00",
+    "fetched_at": "2026-07-19T21:26:04.328816+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/box-office-monde-l-odyssee-de-christopher-nolan-au-sommet": {
     "url": "https://www.satellifacts.com/news/actualite/box-office-monde-l-odyssee-de-christopher-nolan-au-sommet",
     "fallback_title": "Box-office monde : « L'Odyssée » de Christopher Nolan au ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-13CEST16:15:37",
     "published_iso": "2026-07-13T16:15:37+02:00",
     "fetched_at": "2026-07-13T16:06:26.263134+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/plan-de-financement-cinema-de-la-comedie-francaise": {
-    "url": "https://www.satellifacts.com/news/actualite/plan-de-financement-cinema-de-la-comedie-francaise",
-    "fallback_title": "Plan de financement cinéma : « De la Comédie-Française »",
-    "title": "Plan de financement cinéma : « De la Comédie-Française » - SATELLIFACTS",
-    "description": "Dans 3 heures, Nina dévoile sa première mise en scène à la Comédie-Française. Mais dans l’agitation des dernières répétitions, rien ne se passe comme prévu : retards, coups de stress, problèmes techniques et problèmes d’ego secouent la troupe. Pourtant, Nina n’a ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/6/3/7/5/7085736-1-fre-FR/6211b2aece33-C-ATELIER-DE-PRODUCTION-COMEDIE-FRANCAISE-FRANCE-2-CINEMA-2025-3-scaled.jpg",
-    "published_raw": "2026-07-13CEST16:00:00",
-    "published_iso": "2026-07-13T16:00:00+02:00",
-    "fetched_at": "2026-07-13T16:06:27.832898+00:00"
   }
 }
