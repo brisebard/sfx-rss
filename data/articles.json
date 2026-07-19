@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/netflix-acquisition-des-droits-us-et-amerique-latine-de-ink-de-danny-boyle": {
+    "url": "https://www.satellifacts.com/news/actualite/netflix-acquisition-des-droits-us-et-amerique-latine-de-ink-de-danny-boyle",
+    "fallback_title": "Netflix : acquisition des droits US et Amérique latine de ...",
+    "title": "Netflix : acquisition des droits US et Amérique latine de \"Ink\" de Danny Boyle - SATELLIFACTS",
+    "description": "Netflix a acquis les droits du film Ink de Danny Boyle pour les Etats-Unis et l'Amérique latine, a rapporté la presse américaine spécialisée le 17 juillet. La veille, la Mostra de Venise avait annoncé que le long métrage ferait l'ouverture ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/9/5/5/7155598-1-fre-FR/e204f5452d76-ink-boyle-.jpg",
+    "published_raw": "2026-07-19CEST18:13:32",
+    "published_iso": "2026-07-19T18:13:32+02:00",
+    "fetched_at": "2026-07-19T17:17:10.099076+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/rtbf-trois-candidats-selectionnes-pour-succeder-a-jean-paul-philippot": {
     "url": "https://www.satellifacts.com/news/actualite/rtbf-trois-candidats-selectionnes-pour-succeder-a-jean-paul-philippot",
     "fallback_title": "RTBF : trois candidats sélectionnés pour succéder à Jean-Paul Philippot",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-13CEST14:29:24",
     "published_iso": "2026-07-13T14:29:24+02:00",
     "fetched_at": "2026-07-13T13:31:52.833289+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/focus-sur-une-start-up-baknd-guillaume-offroy-une-plateforme-pour-repondre-a-la-complexite-croissante-de-la-gestion-des-droits-et-des-reven": {
-    "url": "https://www.satellifacts.com/news/actualite/focus-sur-une-start-up-baknd-guillaume-offroy-une-plateforme-pour-repondre-a-la-complexite-croissante-de-la-gestion-des-droits-et-des-reven",
-    "fallback_title": "Focus sur une start-up – Baknd (Guillaume Offroy) : « Une plateforme ...",
-    "title": "Focus sur une start-up – Baknd (Guillaume Offroy) : « Une plateforme pour répondre à la complexité croissante de la gestion des droits et des reven... - SATELLIFACTS",
-    "description": "Fort de plus de quinze ans d’expérience dans l’audiovisuel et le cinéma, Guillaume Offroy a créé une solution SaaS collaborative, dédiée à la transparence et à l’automatisation de la gestion des droits audiovisuels et des redditions de comptes. L’enjeu est ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/6/7/2/0/7150276-1-fre-FR/e84ae3bd71e3-Capture-d-e-cran-2026-07-10-a-18.48.21.png",
-    "published_raw": "2026-07-13CEST14:00:00",
-    "published_iso": "2026-07-13T14:00:00+02:00",
-    "fetched_at": "2026-07-13T13:31:54.644921+00:00"
   }
 }

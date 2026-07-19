@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 19 Jul 2026 16:11:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 17:17:11 +0000</lastBuildDate>
 
+    <item>
+      <title>Netflix : acquisition des droits US et Amérique latine de "Ink" de Danny Boyle - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/netflix-acquisition-des-droits-us-et-amerique-latine-de-ink-de-danny-boyle</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/netflix-acquisition-des-droits-us-et-amerique-latine-de-ink-de-danny-boyle</guid>
+      <description>Netflix a acquis les droits du film Ink de Danny Boyle pour les Etats-Unis et l'Amérique latine, a rapporté la presse américaine spécialisée le 17 juillet. La veille, la Mostra de Venise avait annoncé que le long métrage ferait l'ouverture ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 19 Jul 2026 18:13:32 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/9/5/5/7155598-1-fre-FR/e204f5452d76-ink-boyle-.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>RTBF : trois candidats sélectionnés pour succéder à Jean-Paul Philippot - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/rtbf-trois-candidats-selectionnes-pour-succeder-a-jean-paul-philippot</link>
@@ -806,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Le jury de la section Orizzonti de la 83e Mostra de Venise (2 au 12 septembre) sera présidé par la comédienne, scénariste et réalisatrice française Valérie Donzelli, ont annoncé les organisateurs, lundi 13 juillet. Elle sera entourée du distributeur américain Peter Becker ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 13 Jul 2026 14:29:24 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/8/1/5/7125185-1-fre-FR/0036281455df-leone-oro-venezia-83.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Focus sur une start-up – Baknd (Guillaume Offroy) : « Une plateforme pour répondre à la complexité croissante de la gestion des droits et des reven... - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/focus-sur-une-start-up-baknd-guillaume-offroy-une-plateforme-pour-repondre-a-la-complexite-croissante-de-la-gestion-des-droits-et-des-reven</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/focus-sur-une-start-up-baknd-guillaume-offroy-une-plateforme-pour-repondre-a-la-complexite-croissante-de-la-gestion-des-droits-et-des-reven</guid>
-      <description>Fort de plus de quinze ans d’expérience dans l’audiovisuel et le cinéma, Guillaume Offroy a créé une solution SaaS collaborative, dédiée à la transparence et à l’automatisation de la gestion des droits audiovisuels et des redditions de comptes. L’enjeu est ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 13 Jul 2026 14:00:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/7/2/0/7150276-1-fre-FR/e84ae3bd71e3-Capture-d-e-cran-2026-07-10-a-18.48.21.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
