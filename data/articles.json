@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-l-odyssee-a-la-premiere-place": {
+    "url": "https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-l-odyssee-a-la-premiere-place",
+    "fallback_title": "Box-office Etats-Unis & Canada : « L’Odyssée » à la ...",
+    "title": "Box-office Etats-Unis & Canada : « L’Odyssée » à la première place - SATELLIFACTS",
+    "description": "L’Odyssée (Universal Pictures), le nouveau long métrage écrit et réalisé par Christopher Nolan et adapté de l'épopée antique L'Odyssée d'Homère, se hisse à la première position du box-office nord-américain pour sa première semaine en salles. Le blockbuster exploité sur 3 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/8/4/9/7149480-1-fre-FR/7095eaaea994-CT-04168_MSGCROP.jpg",
+    "published_raw": "2026-07-19CEST19:23:24",
+    "published_iso": "2026-07-19T19:23:24+02:00",
+    "fetched_at": "2026-07-19T18:12:28.253318+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/netflix-acquisition-des-droits-us-et-amerique-latine-de-ink-de-danny-boyle": {
     "url": "https://www.satellifacts.com/news/actualite/netflix-acquisition-des-droits-us-et-amerique-latine-de-ink-de-danny-boyle",
     "fallback_title": "Netflix : acquisition des droits US et Amérique latine de ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-13CEST14:41:45",
     "published_iso": "2026-07-13T14:41:45+02:00",
     "fetched_at": "2026-07-13T13:31:51.202679+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/mostra-2026-valerie-donzelli-presidente-du-jury-orizzonti": {
-    "url": "https://www.satellifacts.com/news/actualite/mostra-2026-valerie-donzelli-presidente-du-jury-orizzonti",
-    "fallback_title": "Mostra 2026 : Valérie Donzelli présidente du jury Orizzonti",
-    "title": "Mostra 2026 : Valérie Donzelli présidente du jury Orizzonti - SATELLIFACTS",
-    "description": "Le jury de la section Orizzonti de la 83e Mostra de Venise (2 au 12 septembre) sera présidé par la comédienne, scénariste et réalisatrice française Valérie Donzelli, ont annoncé les organisateurs, lundi 13 juillet. Elle sera entourée du distributeur américain Peter Becker ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/8/1/5/7125185-1-fre-FR/0036281455df-leone-oro-venezia-83.jpg",
-    "published_raw": "2026-07-13CEST14:29:24",
-    "published_iso": "2026-07-13T14:29:24+02:00",
-    "fetched_at": "2026-07-13T13:31:52.833289+00:00"
   }
 }
