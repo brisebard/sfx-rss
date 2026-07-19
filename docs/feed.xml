@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 19 Jul 2026 15:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:11:56 +0000</lastBuildDate>
 
+    <item>
+      <title>RTBF : trois candidats sélectionnés pour succéder à Jean-Paul Philippot - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/rtbf-trois-candidats-selectionnes-pour-succeder-a-jean-paul-philippot</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/rtbf-trois-candidats-selectionnes-pour-succeder-a-jean-paul-philippot</guid>
+      <description>Le conseil d'administration de la RTBF a désigné le 17 juillet trois candidats au poste d'administrateur général, afin de succéder à Jean-Paul Philippot, à la tête du groupe public depuis 24 ans. Les candidatures d'Emmanuel Tourpe, directeur des médias au pôle ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 19 Jul 2026 17:45:46 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/2/3/7/7157326-1-fre-FR/8ff78d20d212-Screenshot-2026-07-19-17.23.11.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Audiences 18/07/2026 : France 3 leader avec "Le secret de la grotte" ; 8,6M de téléspectateurs devant France - Angleterre à 23h sur M6 - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/audiences-18-07-2026-france-3-leader-avec-le-secret-de-la-grotte-8-6m-de-telespectateurs-devant-france-angleterre-a-23h-sur-m6</link>
@@ -806,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Fort de plus de quinze ans d’expérience dans l’audiovisuel et le cinéma, Guillaume Offroy a créé une solution SaaS collaborative, dédiée à la transparence et à l’automatisation de la gestion des droits audiovisuels et des redditions de comptes. L’enjeu est ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 13 Jul 2026 14:00:00 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/7/2/0/7150276-1-fre-FR/e84ae3bd71e3-Capture-d-e-cran-2026-07-10-a-18.48.21.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>UE / Réseaux sociaux : vers un accès « progressif et gradué » des enfants et adolescents, des propositions « après l'été » - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/ue-reseaux-sociaux-vers-un-acces-progressif-et-gradue-des-enfants-et-adolescents-des-propositions-apres-l-ete</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/ue-reseaux-sociaux-vers-un-acces-progressif-et-gradue-des-enfants-et-adolescents-des-propositions-apres-l-ete</guid>
-      <description>L'Union européenne envisage d'instaurer un accès « progressif et gradué » des enfants et adolescents aux plateformes en ligne, pour les protéger contre leurs risques, comme l'ont recommandé des experts dans un rapport lundi 13 juillet. « L'enfance est une ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 13 Jul 2026 12:35:49 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/6/5/0/7110567-1-fre-FR/d31376cd2b4f-AdobeStock_549215650_Editorial_Use_Only.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
