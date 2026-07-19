@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 19 Jul 2026 14:07:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 15:13:02 +0000</lastBuildDate>
 
+    <item>
+      <title>Audiences 18/07/2026 : France 3 leader avec "Le secret de la grotte" ; 8,6M de téléspectateurs devant France - Angleterre à 23h sur M6 - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/audiences-18-07-2026-france-3-leader-avec-le-secret-de-la-grotte-8-6m-de-telespectateurs-devant-france-angleterre-a-23h-sur-m6</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-18-07-2026-france-3-leader-avec-le-secret-de-la-grotte-8-6m-de-telespectateurs-devant-france-angleterre-a-23h-sur-m6</guid>
+      <description>France 3 domine largement le prime samedi grâce à la rediffusion de l'unitaire Le secret de la grotte (Adrénaline), avec Élodie Varlet et Samy Gharbi. Le téléfilm a séduit 3,38 millions de téléspectateurs pour 23,1 % de pda. Samedi dernier ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 19 Jul 2026 09:30:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/3/2/7/7157239-1-fre-FR/492121664458-Screenshot-2026-07-19-16.32.32.png" type="image/jpeg" />
+    </item>
     <item>
       <title>M6+ : plus de 4 millions de nouveaux comptes créés pendant la Coupe du monde de foot - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/revue-de-presse/m6-plus-de-4-millions-de-nouveaux-comptes-crees-pendant-la-coupe-du-monde-de-foot</link>
@@ -806,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>L'Union européenne envisage d'instaurer un accès « progressif et gradué » des enfants et adolescents aux plateformes en ligne, pour les protéger contre leurs risques, comme l'ont recommandé des experts dans un rapport lundi 13 juillet. « L'enfance est une ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 13 Jul 2026 12:35:49 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/6/5/0/7110567-1-fre-FR/d31376cd2b4f-AdobeStock_549215650_Editorial_Use_Only.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Festival du cinéma français de Cassis : la première édition organisée du 16 au 20 octobre 2026 - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/festival-du-cinema-francais-de-cassis-la-premiere-edition-organisee-du-16-au-20-octobre-2026</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/festival-du-cinema-francais-de-cassis-la-premiere-edition-organisee-du-16-au-20-octobre-2026</guid>
-      <description>La première édition de Plans Séquences, le Festival du cinéma français de Cassis va se tenir du 16 au 20 octobre, avec pour président d'honneur le réalisateur Claude Lelouch, ont annoncé ses organisateurs. Une vingtaine de films seront proposés, dont ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 13 Jul 2026 12:32:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/1/1/1/7151113-2-fre-FR/50268757fd94-image.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
