@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/audiences-19-07-2026-plus-de-12-millions-de-telespectateurs-devant-la-victoire-de-l-espagne-en-coupe-du-monde": {
+    "url": "https://www.satellifacts.com/news/actualite/audiences-19-07-2026-plus-de-12-millions-de-telespectateurs-devant-la-victoire-de-l-espagne-en-coupe-du-monde",
+    "fallback_title": "Audiences 19/07/2026 : Plus de 12 millions de téléspectateurs devant la ...",
+    "title": "Audiences 19/07/2026 : Plus de 12 millions de téléspectateurs devant la victoire de l’Espagne en Coupe du monde - SATELLIFACTS",
+    "description": "M6 domine les audiences de la soirée de dimanche avec la finale de la Coupe du monde de foot de la Fifa, remportée par l’Espagne face à l’Argentine (1-0) dans les prolongations, qui rassemble 12,24 millions de téléspectateurs pour une ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/9/4/7/7157497-1-fre-FR/d6f0c164a581-Finale.png",
+    "published_raw": "2026-07-20CEST09:26:50",
+    "published_iso": "2026-07-20T09:26:50+02:00",
+    "fetched_at": "2026-07-20T07:48:33.060893+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-big-bang-tournage-combo-saison-animaux-altercation": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-big-bang-tournage-combo-saison-animaux-altercation",
     "fallback_title": "Au fil des (e)X (tweets) : big-bang, tournage, combo, saison, animaux, altercation...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-13CEST16:17:48",
     "published_iso": "2026-07-13T16:17:48+02:00",
     "fetched_at": "2026-07-13T16:06:24.767434+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/dans-les-coulisses-des-films-comete-d-elie-wajeman-sortie-le-15-juillet": {
-    "url": "https://www.satellifacts.com/news/actualite/dans-les-coulisses-des-films-comete-d-elie-wajeman-sortie-le-15-juillet",
-    "fallback_title": "Dans les coulisses des films : « Comète » d’Elie Wajeman (Sortie le ...",
-    "title": "Dans les coulisses des films : « Comète » d’Elie Wajeman (Sortie le 15 juillet) - SATELLIFACTS",
-    "description": "Une comète traverse le ciel de Paris. Le temps de son passage, des liens réels ou invisibles se tissent entre des individus de tous horizons : deux amis (Vincent Macaigne et Samuel Achache) qui sillonnent la capitale en voiture à la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/6/0/5/1/7151506-1-fre-FR/ae2b407cdb88-comete-120-def-hd-6a3bd686c66bd.jpg",
-    "published_raw": "2026-07-13CEST16:15:37",
-    "published_iso": "2026-07-13T16:15:37+02:00",
-    "fetched_at": "2026-07-13T16:06:26.263134+00:00"
   }
 }

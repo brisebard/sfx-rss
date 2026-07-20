@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 20 Jul 2026 04:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 07:48:34 +0000</lastBuildDate>
 
+    <item>
+      <title>Audiences 19/07/2026 : Plus de 12 millions de téléspectateurs devant la victoire de l’Espagne en Coupe du monde - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/audiences-19-07-2026-plus-de-12-millions-de-telespectateurs-devant-la-victoire-de-l-espagne-en-coupe-du-monde</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-19-07-2026-plus-de-12-millions-de-telespectateurs-devant-la-victoire-de-l-espagne-en-coupe-du-monde</guid>
+      <description>M6 domine les audiences de la soirée de dimanche avec la finale de la Coupe du monde de foot de la Fifa, remportée par l’Espagne face à l’Argentine (1-0) dans les prolongations, qui rassemble 12,24 millions de téléspectateurs pour une ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 20 Jul 2026 09:26:50 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/9/4/7/7157497-1-fre-FR/d6f0c164a581-Finale.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : big-bang, tournage, combo, saison, animaux, altercation... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-big-bang-tournage-combo-saison-animaux-altercation</link>
@@ -808,14 +816,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>France 2 profite pleinement du Tour de France cette semaine, puisque la chaîne se classe en tête des audiences hebdomadaires, avec une pda de 17,5 %, selon les résultats du Médiamat hebdo portant sur la période du 6 au 12 juillet, publiés lundi 13 juillet ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 13 Jul 2026 16:17:48 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/2/7/1/7151728-1-fre-FR/87e608c34eb2-visuel-offre-tour-de-france-bon.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Dans les coulisses des films : « Comète » d’Elie Wajeman (Sortie le 15 juillet) - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/dans-les-coulisses-des-films-comete-d-elie-wajeman-sortie-le-15-juillet</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/dans-les-coulisses-des-films-comete-d-elie-wajeman-sortie-le-15-juillet</guid>
-      <description>Une comète traverse le ciel de Paris. Le temps de son passage, des liens réels ou invisibles se tissent entre des individus de tous horizons : deux amis (Vincent Macaigne et Samuel Achache) qui sillonnent la capitale en voiture à la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 13 Jul 2026 16:15:37 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/0/5/1/7151506-1-fre-FR/ae2b407cdb88-comete-120-def-hd-6a3bd686c66bd.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
