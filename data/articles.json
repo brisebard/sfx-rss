@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/fortunes-de-france-bernard-arnault-domine-le-classement-l-acteur-george-clooney-en-500e-position": {
+    "url": "https://www.satellifacts.com/news/actualite/fortunes-de-france-bernard-arnault-domine-le-classement-l-acteur-george-clooney-en-500e-position",
+    "fallback_title": "Fortunes de France : Bernard Arnault domine le classement ; ...",
+    "title": "Fortunes de France : Bernard Arnault domine le classement ; l'acteur George Clooney en 500e position - SATELLIFACTS",
+    "description": "Le magazine Challenges a dévoilé jeudi 9 juillet la 31e édition de son classement annuel des 500 premières fortunes françaises, dans lequel figurent plusieurs personnalités du secteur de l'audiovisuel et du cinéma. Bernard Arnault retrouve la première place du classement ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/2/1/4/4274121-1-fre-FR/253c677e2399-500_fortunes_de_france_de_challenges.jpg",
+    "published_raw": "2026-07-20CEST13:38:38",
+    "published_iso": "2026-07-20T13:38:38+02:00",
+    "fetched_at": "2026-07-20T12:37:44.640117+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/culture-le-chiffre-d-affaires-en-recul-pour-la-6e-fois-consecutive-au-4e-trimestre-2025": {
     "url": "https://www.satellifacts.com/news/actualite/culture-le-chiffre-d-affaires-en-recul-pour-la-6e-fois-consecutive-au-4e-trimestre-2025",
     "fallback_title": "Culture : le chiffre d’affaires en recul pour la 6e fois ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-15CEST07:00:00",
     "published_iso": "2026-07-15T07:00:00+02:00",
     "fetched_at": "2026-07-15T05:55:12.837699+00:00"
-  },
-  "https://www.satellifacts.com/news/agenda/agenda-mercredi-15-et-jeudi-16-juillet2": {
-    "url": "https://www.satellifacts.com/news/agenda/agenda-mercredi-15-et-jeudi-16-juillet2",
-    "fallback_title": "Agenda : mercredi 15 et jeudi 16 juillet",
-    "title": "Agenda : mercredi 15 et jeudi 16 juillet - SATELLIFACTS",
-    "description": "Mercredi 15 juillet\nAucun événement programméJeudi 16 juillet\nAucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
-    "published_raw": "2026-07-14CEST22:00:00",
-    "published_iso": "2026-07-14T22:00:00+02:00",
-    "fetched_at": "2026-07-14T21:09:37.514256+00:00"
   }
 }

@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 20 Jul 2026 10:35:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 12:37:45 +0000</lastBuildDate>
 
+    <item>
+      <title>Fortunes de France : Bernard Arnault domine le classement ; l'acteur George Clooney en 500e position - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/fortunes-de-france-bernard-arnault-domine-le-classement-l-acteur-george-clooney-en-500e-position</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/fortunes-de-france-bernard-arnault-domine-le-classement-l-acteur-george-clooney-en-500e-position</guid>
+      <description>Le magazine Challenges a dévoilé jeudi 9 juillet la 31e édition de son classement annuel des 500 premières fortunes françaises, dans lequel figurent plusieurs personnalités du secteur de l'audiovisuel et du cinéma. Bernard Arnault retrouve la première place du classement ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 20 Jul 2026 13:38:38 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/2/1/4/4274121-1-fre-FR/253c677e2399-500_fortunes_de_france_de_challenges.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Culture : le chiffre d’affaires en recul pour la 6e fois consécutive au 4e trimestre 2025 - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/culture-le-chiffre-d-affaires-en-recul-pour-la-6e-fois-consecutive-au-4e-trimestre-2025</link>
@@ -806,16 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Élue présidente de l’Uspa début juin (Satellifacts, 8 juin), Isabelle Degeorges, présidente de Gaumont Télévision, fixe quatre priorités urgentes sur lesquelles le syndicat entend œuvrer : le financement de France Télévisions dans la création, la défense de la préservation des ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 15 Jul 2026 07:00:00 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/6/6/1/6591666-1-fre-FR/a05701f622d6-isabelle_degeorges.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Agenda : mercredi 15 et jeudi 16 juillet - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/agenda/agenda-mercredi-15-et-jeudi-16-juillet2</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/agenda/agenda-mercredi-15-et-jeudi-16-juillet2</guid>
-      <description>Mercredi 15 juillet
-Aucun événement programméJeudi 16 juillet
-Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 14 Jul 2026 22:00:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
