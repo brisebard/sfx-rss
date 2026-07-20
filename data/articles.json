@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-voyous-elmo-honnete-democratie-apo-imax": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-voyous-elmo-honnete-democratie-apo-imax",
+    "fallback_title": "Au fil des (e)X (tweets) :  voyous, Elmo, honnête, démocratie, Apo, Imax...",
+    "title": "Au fil des (e)X (tweets) :  voyous, Elmo, honnête, démocratie, Apo, Imax... - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | Stéphane Kohler @Kohlerderien L'Argentine c'est quand même la plus belle bande de voyous filmée dans le New Jersey depuis les amis de Tony Soprano.Elmo @elmo Elmo made a new friend at the game!! Mr. Tom Cruise!!! [photo de l'acteur avec ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-07-20CEST23:00:00",
+    "published_iso": "2026-07-20T23:00:00+02:00",
+    "fetched_at": "2026-07-20T21:31:10.645284+00:00"
+  },
   "https://www.satellifacts.com/news/agenda/agenda-mardi-21-et-mercredi-22-juillet2": {
     "url": "https://www.satellifacts.com/news/agenda/agenda-mardi-21-et-mercredi-22-juillet2",
     "fallback_title": "Agenda : mardi 21 et mercredi 22 juillet",
@@ -18,6 +28,16 @@
     "published_raw": "2026-07-20CEST21:47:27",
     "published_iso": "2026-07-20T21:47:27+02:00",
     "fetched_at": "2026-07-20T20:08:38.419970+00:00"
+  },
+  "https://www.satellifacts.com/news/actualite/warner-bros-discovery-une-juge-californienne-suspend-le-rachat-par-paramount-skydance": {
+    "url": "https://www.satellifacts.com/news/actualite/warner-bros-discovery-une-juge-californienne-suspend-le-rachat-par-paramount-skydance",
+    "fallback_title": "Warner Bros Discovery : une juge californienne suspend le rachat ...",
+    "title": "Warner Bros Discovery : une juge californienne suspend le rachat par Paramount Skydance - SATELLIFACTS",
+    "description": "Une juge fédérale d'Oakland (Californie), saisie en référé, a ordonné lundi 20 juillet la suspension pour 14 jours (jusqu'au 3 août) de l'opération de rachat de Warner Bros Discovery (WBD) par Paramount Skydance (David ​Ellison), le temps d'examiner l'affaire au ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/4/8/3/6733845-1-fre-FR/3dddb20a3dc7-AdobeStock_1016572099_Editorial_Use_Only.jpg",
+    "published_raw": "2026-07-20CEST21:47:27",
+    "published_iso": "2026-07-20T21:47:27+02:00",
+    "fetched_at": "2026-07-20T21:31:12.323606+00:00"
   },
   "https://www.satellifacts.com/news/actualite/mondial-de-la-fifa-2026-plus-de-60-millions-de-francais-ont-suivi-la-competition-sur-m6-et-m6": {
     "url": "https://www.satellifacts.com/news/actualite/mondial-de-la-fifa-2026-plus-de-60-millions-de-francais-ont-suivi-la-competition-sur-m6-et-m6",
@@ -978,25 +998,5 @@
     "published_raw": "2026-07-15CEST17:11:23",
     "published_iso": "2026-07-15T17:11:23+02:00",
     "fetched_at": "2026-07-15T16:42:04.551483+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/le-crayon-groupe-benoit-dessaux-nomme-directeur-du-developpement": {
-    "url": "https://www.satellifacts.com/news/actualite/le-crayon-groupe-benoit-dessaux-nomme-directeur-du-developpement",
-    "fallback_title": "Le Crayon Groupe : Benoît Dessaux nommé directeur du développement",
-    "title": "Le Crayon Groupe : Benoît Dessaux nommé directeur du développement - SATELLIFACTS",
-    "description": "Benoît Dessaux a été nommé directeur du développement du groupe Le Crayon, a-t-il annoncé sur LinkedIn mercredi 15 juillet. Il est en charge de développer l’activité commerciale du groupe auprès des marques et agences.Pour rappel, Le Crayon Groupe, cofondé par Jules Stimpfling ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/6/7/1/4/7154176-1-fre-FR/d79e1172122a-1769951650322.jpeg",
-    "published_raw": "2026-07-15CEST17:07:10",
-    "published_iso": "2026-07-15T17:07:10+02:00",
-    "fetched_at": "2026-07-15T16:42:06.329364+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/france-tv-succession-de-records-pour-le-tour-de-france-sur-les-antennes-et-les-plateformes-apres-10-etapes": {
-    "url": "https://www.satellifacts.com/news/actualite/france-tv-succession-de-records-pour-le-tour-de-france-sur-les-antennes-et-les-plateformes-apres-10-etapes",
-    "fallback_title": "France TV : succession de records pour le Tour de ...",
-    "title": "France TV : succession de records pour le Tour de France, sur les antennes et les plateformes, après 10 étapes - SATELLIFACTS",
-    "description": "Le Tour de France 2026 (4 au 26 juillet) a été regardé par 32,1 millions de personnes pendant au moins une minute sur les 10 premiers jours de retransmission de la course cycliste sur France 2 ou France 3, s’est félicité France Télévisions, mercredi 15 juillet ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/8/0/4/7154089-1-fre-FR/7db297e3b650-unnamed-1-.jpg",
-    "published_raw": "2026-07-15CEST16:18:19",
-    "published_iso": "2026-07-15T16:18:19+02:00",
-    "fetched_at": "2026-07-15T15:04:04.746514+00:00"
   }
 }
