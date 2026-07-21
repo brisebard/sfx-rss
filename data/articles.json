@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/exclu-arcom-arrivee-de-virginie-dangles-ex-ville-de-paris-a-la-direction-de-la-communication": {
+    "url": "https://www.satellifacts.com/news/actualite/exclu-arcom-arrivee-de-virginie-dangles-ex-ville-de-paris-a-la-direction-de-la-communication",
+    "fallback_title": "EXCLU - Arcom : arrivée de Virginie Dangles (ex-Ville de Paris) ...",
+    "title": "EXCLU - Arcom : arrivée de Virginie Dangles (ex-Ville de Paris) à la direction de la communication - SATELLIFACTS",
+    "description": "Selon nos informations, Virginie Dangles a rejoint l’Arcom en tant que directrice de la communication, lundi 20 juillet. Jusqu’alors cheffe du service presse de la Ville de Paris, elle remplace Diane Pilotaz, partie en mars dernier (notre « Confidentiel », 26 mars). Précédemment journaliste (France 24 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/9/4/8/5258495-3-fre-FR/0ff3382e0c9d-arcom.png",
+    "published_raw": "2026-07-21CEST04:30:00",
+    "published_iso": "2026-07-21T04:30:00+02:00",
+    "fetched_at": "2026-07-21T04:26:22.290362+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-voyous-elmo-honnete-democratie-apo-imax": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-voyous-elmo-honnete-democratie-apo-imax",
     "fallback_title": "Au fil des (e)X (tweets) :  voyous, Elmo, honnête, démocratie, Apo, Imax...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-15CEST17:17:22",
     "published_iso": "2026-07-15T17:17:22+02:00",
     "fetched_at": "2026-07-15T16:42:02.628714+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/box-office-france-semaine-vaiana-devant-toy-story-5-3-millions-d-entrees-cumulees-pour-les-films-la-bataille-de-gaulle": {
-    "url": "https://www.satellifacts.com/news/actualite/box-office-france-semaine-vaiana-devant-toy-story-5-3-millions-d-entrees-cumulees-pour-les-films-la-bataille-de-gaulle",
-    "fallback_title": "Box-office France, semaine : « Vaiana » devant « Toy Story 5 » ; 3 millions d’entrées cumulées ...",
-    "title": "Box-office France, semaine : « Vaiana » devant « Toy Story 5 » ; 3 millions d’entrées cumulées pour les films « La Bataille de Gaulle » - SATELLIFACTS",
-    "description": "Vaiana : La Légende du bout du monde de Thomas Kail (Walt Disney) s’impose en tête du box-office français pour sa première semaine avec 741 402 entrées sur 607 copies entre le 8 et le 14 juillet, soit une très belle moyenne de 1 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/4/4/0/4/7154044-1-fre-FR/738985295b3e-MNA-T1-0004.jpg",
-    "published_raw": "2026-07-15CEST17:11:23",
-    "published_iso": "2026-07-15T17:11:23+02:00",
-    "fetched_at": "2026-07-15T16:42:04.551483+00:00"
   }
 }

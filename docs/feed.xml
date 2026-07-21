@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 21 Jul 2026 01:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 04:26:23 +0000</lastBuildDate>
 
+    <item>
+      <title>EXCLU - Arcom : arrivée de Virginie Dangles (ex-Ville de Paris) à la direction de la communication - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/exclu-arcom-arrivee-de-virginie-dangles-ex-ville-de-paris-a-la-direction-de-la-communication</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/exclu-arcom-arrivee-de-virginie-dangles-ex-ville-de-paris-a-la-direction-de-la-communication</guid>
+      <description>Selon nos informations, Virginie Dangles a rejoint l’Arcom en tant que directrice de la communication, lundi 20 juillet. Jusqu’alors cheffe du service presse de la Ville de Paris, elle remplace Diane Pilotaz, partie en mars dernier (notre « Confidentiel », 26 mars). Précédemment journaliste (France 24 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 21 Jul 2026 04:30:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/9/4/8/5258495-3-fre-FR/0ff3382e0c9d-arcom.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) :  voyous, Elmo, honnête, démocratie, Apo, Imax... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-voyous-elmo-honnete-democratie-apo-imax</link>
@@ -807,14 +815,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Le média digital OnTime, pure player d’interviews culture, a rejoint /influx, a annoncé l’agence fondée par Manuel Diaz le 9 juillet.Créé par Marco Thiollier, OnTime est spécialisé dans les entretiens cinéma. Selon /influx, le média cumule « 420 millions de vues par an ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 15 Jul 2026 17:17:22 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/6/2/4/7154263-1-fre-FR/a40d3547dc96-unnamed-48-.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Box-office France, semaine : « Vaiana » devant « Toy Story 5 » ; 3 millions d’entrées cumulées pour les films « La Bataille de Gaulle » - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/box-office-france-semaine-vaiana-devant-toy-story-5-3-millions-d-entrees-cumulees-pour-les-films-la-bataille-de-gaulle</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/box-office-france-semaine-vaiana-devant-toy-story-5-3-millions-d-entrees-cumulees-pour-les-films-la-bataille-de-gaulle</guid>
-      <description>Vaiana : La Légende du bout du monde de Thomas Kail (Walt Disney) s’impose en tête du box-office français pour sa première semaine avec 741 402 entrées sur 607 copies entre le 8 et le 14 juillet, soit une très belle moyenne de 1 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 15 Jul 2026 17:11:23 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/4/0/4/7154044-1-fre-FR/738985295b3e-MNA-T1-0004.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
