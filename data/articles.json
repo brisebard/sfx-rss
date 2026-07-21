@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-anti-culture-figurants-aventure-cyclisme-maintenance": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-anti-culture-figurants-aventure-cyclisme-maintenance",
+    "fallback_title": "Au fil des (e)X (tweets) : anti-culture, figurants, aventure, cyclisme, maintenance",
+    "title": "Au fil des (e)X (tweets) : anti-culture, figurants, aventure, cyclisme, maintenance - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | Pascal Rogard @fandoetlis Rien n’arrête le gouvernement Dernière idée anti-culture augmenter le taux de TVA du spectacle vivant.Le Parisien @le_Parisien Netflix recherche (encore) des figurants pour la nouvelle saison d’Emily in Paris, des tenues «branchées et élégantes» exigées https://l.leparisien.fr/CfviPaul Melun ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-07-21CEST23:00:00",
+    "published_iso": "2026-07-21T23:00:00+02:00",
+    "fetched_at": "2026-07-21T21:51:15.935478+00:00"
+  },
   "https://www.satellifacts.com/news/agenda/agenda-mercredi-22-et-jeudi-23-juillet2": {
     "url": "https://www.satellifacts.com/news/agenda/agenda-mercredi-22-et-jeudi-23-juillet2",
     "fallback_title": "Agenda : mercredi 22 et jeudi 23 juillet",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-16CEST17:51:54",
     "published_iso": "2026-07-16T17:51:54+02:00",
     "fetched_at": "2026-07-16T16:06:59.792408+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/mediapro-perte-de-286-m-en-2025-plainte-au-penal-contre-trois-anciens-dirigeants": {
-    "url": "https://www.satellifacts.com/news/actualite/mediapro-perte-de-286-m-en-2025-plainte-au-penal-contre-trois-anciens-dirigeants",
-    "fallback_title": "Mediapro : perte de 286 M€ en 2025 ; plainte ...",
-    "title": "Mediapro : perte de 286 M€ en 2025 ; plainte au pénal contre trois anciens dirigeants - SATELLIFACTS",
-    "description": "Le groupe espagnol Mediapro a clôturé l'exercice 2025 avec une perte de 286 millions d'euros, la plus importante jamais enregistrée par l'entreprise, relaie la presse espagnole. Cette situation coïncide avec la perte du contrat de production des matches de la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/5/9/2/6982953-1-fre-FR/e1551a018745-AdobeStock_1788612701_Editorial_Use_Only.jpeg",
-    "published_raw": "2026-07-16CEST17:27:47",
-    "published_iso": "2026-07-16T17:27:47+02:00",
-    "fetched_at": "2026-07-16T16:07:01.342903+00:00"
   }
 }
