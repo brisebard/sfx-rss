@@ -6,8 +6,17 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 21 Jul 2026 19:44:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 20:50:45 +0000</lastBuildDate>
 
+    <item>
+      <title>Agenda : mercredi 22 et jeudi 23 juillet - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/agenda/agenda-mercredi-22-et-jeudi-23-juillet2</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/agenda/agenda-mercredi-22-et-jeudi-23-juillet2</guid>
+      <description>Mercredi 22 et jeudi 23 juillet
+Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 21 Jul 2026 22:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Réseaux sociaux : le Parlement vote leur interdiction aux moins de 15 ans, une première en Europe - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/reseaux-sociaux-le-parlement-vote-leur-interdiction-aux-moins-de-15-ans-une-premiere-en-europe</link>
@@ -806,14 +815,6 @@ l'avion, est morte, a annoncé vendredi 17 juillet son ... © 2026 FRÉQUENCES. 
       <description>Le groupe espagnol Mediapro a clôturé l'exercice 2025 avec une perte de 286 millions d'euros, la plus importante jamais enregistrée par l'entreprise, relaie la presse espagnole. Cette situation coïncide avec la perte du contrat de production des matches de la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 16 Jul 2026 17:27:47 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/5/9/2/6982953-1-fre-FR/e1551a018745-AdobeStock_1788612701_Editorial_Use_Only.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>RMC Découverte : « Joyca teste les hôtels 1 étoile - Angleterre » diffusé le 4 août à 21h10 - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/rmc-decouverte-joyca-teste-les-hotels-1-etoile-angleterre-diffuse-le-4-aout-a-21h10</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/rmc-decouverte-joyca-teste-les-hotels-1-etoile-angleterre-diffuse-le-4-aout-a-21h10</guid>
-      <description>ACCÈS LIBRE | RMC Découverte diffusera mardi 4 août à 21h10 le documentaire Joyca teste les hôtels 1 étoile : Angleterre, a annoncé la chaîne le 13 juillet.Distribué par Webedia, le programme est produit par 432 HZ, la société de Joyca. Le youtubeur ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 16 Jul 2026 17:26:59 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/7/7/5/7155778-1-fre-FR/93d1d34148e1-unnamed-95-.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
