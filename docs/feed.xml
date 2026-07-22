@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 22 Jul 2026 04:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:17:27 +0000</lastBuildDate>
 
+    <item>
+      <title>Sixte de Vauplane (Animaj) : « L’IA représente une opportunité énorme pour les acteurs indépendants » - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/sixte-de-vauplane-animaj-l-ia-represente-une-opportunite-enorme-pour-les-acteurs-independants</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/sixte-de-vauplane-animaj-l-ia-represente-une-opportunite-enorme-pour-les-acteurs-independants</guid>
+      <description>La startup française Animaj est devenue un poids lourd des contenus pour enfants sur YouTube grâce au succès de ses franchises, Pocoyo en tête. La société de production et distribution s’appuie sur l’intelligence artificielle pour produire plus vite que les ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 22 Jul 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/8/9/7/7157987-1-fre-FR/ca4c0b0793b3-Animaj_Sixte-De-Vauplane.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : anti-culture, figurants, aventure, cyclisme, maintenance - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-anti-culture-figurants-aventure-cyclisme-maintenance</link>
@@ -807,14 +815,6 @@ l'avion, est morte, a annoncé vendredi 17 juillet son ... © 2026 FRÉQUENCES. 
       <description>Le tribunal des affaires économiques de Paris a prononcé la liquidation judiciaire de Skweek Factory, épilogue du déclin de la plateforme de streaming dédiée au basket lancée en octobre 2022 par la société monégasque Fedcom Media, selon une décision du ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 16 Jul 2026 17:55:28 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/8/6/5/6005681-1-fre-FR/ae7cb80ff3eb-skweek.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ProSiebenSat.1 : lancement de la chaîne Sat.2 dédiée à un public féminin de plus de 50 ans - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/prosiebensat.1-lancement-de-la-chaine-sat.2-dediee-a-un-public-feminin-de-plus-de-50-ans</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/prosiebensat.1-lancement-de-la-chaine-sat.2-dediee-a-un-public-feminin-de-plus-de-50-ans</guid>
-      <description>ProSiebenSat.1 enrichit son offre de chaînes en clair avec le lancement, début 2027, d'une nouvelle chaîne de divertissement linéaire baptisée Sat.2., également accessible en streaming, a annoncé mercredi 15 juillet le groupe allemand, passé sous le contrôle de MFE-MediaForEurope (famille ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 16 Jul 2026 17:51:54 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/6/9/8/6518965-1-fre-FR/560ad3c42529-prosiebensat_1.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
