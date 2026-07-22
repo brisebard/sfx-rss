@@ -6,7 +6,7 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 22 Jul 2026 18:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 19:39:14 +0000</lastBuildDate>
 
     <item>
       <title>Rachat de Warner Bros. Discovery  par Paramount  : feu vert sous conditions de Bruxelles - SATELLIFACTS</title>
@@ -14,6 +14,14 @@
       <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/rachat-de-warner-bros.-discovery-par-paramount-feu-vert-sous-conditions-de-bruxelles</guid>
       <description>L'Union européenne a donné mercredi 22 juillet son feu vert sous conditions à l'acquisition par le conglomérat américain Paramount Skydance du groupe Warner Bros. Discovery, maison mère de HBO Max, CNN et des studios Warner Bros.
  Cette méga-acquisition, chiffrée à environ ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 22 Jul 2026 19:43:27 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/4/8/3/6733845-1-fre-FR/3dddb20a3dc7-AdobeStock_1016572099_Editorial_Use_Only.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Warner Bros. Discovery / Rachat par Paramount  : feu vert sous conditions de Bruxelles - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/warner-bros.-discovery-rachat-par-paramount-feu-vert-sous-conditions-de-bruxelles</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/warner-bros.-discovery-rachat-par-paramount-feu-vert-sous-conditions-de-bruxelles</guid>
+      <description>La Commission européenne a donné mercredi 22 juillet son feu vert sous conditions à l'acquisition par Paramount Skydance (David ​Ellison) du groupe Warner Bros. Discovery (WBD), maison mère de HBO Max, CNN et des studios Warner Bros.Cette méga-acquisition, chiffrée à ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 22 Jul 2026 19:43:27 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/4/8/3/6733845-1-fre-FR/3dddb20a3dc7-AdobeStock_1016572099_Editorial_Use_Only.jpg" type="image/jpeg" />
     </item>
@@ -806,14 +814,6 @@ Aucun événement programmé
 l'avion, est morte, a annoncé vendredi 17 juillet son ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 17 Jul 2026 17:48:48 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/build/images/sfx-1024x1024.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Autour de Minuit : la société d’animation entre au développement du long métrage jeunesse « La Marche des tournesols » - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/autour-de-minuit-la-societe-d-animation-entre-au-developpement-du-long-metrage-jeunesse-la-marche-des-tournesols</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/autour-de-minuit-la-societe-d-animation-entre-au-developpement-du-long-metrage-jeunesse-la-marche-des-tournesols</guid>
-      <description>Autour de Minuit « a rejoint » le développement du long métrage jeunesse en stop motion La Marche des tournesols (A Marcha dos Girassóis), a indiqué sur LinkedIn Nicolas Schmerkin, président et fondateur de la société de production et de distribution d’animation ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 17 Jul 2026 17:46:24 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/1/8/6/7156810-1-fre-FR/2313b12e3fe8-Capture-d-e-cran-2026-07-17-a-17.36.30.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
