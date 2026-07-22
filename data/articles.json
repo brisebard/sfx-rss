@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/axel-ganz-mort-a-88-ans-de-l-ancien-patron-de-presse-allemand-fondateur-du-groupe-prisma": {
+    "url": "https://www.satellifacts.com/news/actualite/axel-ganz-mort-a-88-ans-de-l-ancien-patron-de-presse-allemand-fondateur-du-groupe-prisma",
+    "fallback_title": "Axel Ganz : mort à 88 ans de l'ancien patron ...",
+    "title": "Axel Ganz : mort à 88 ans de l'ancien patron de presse allemand, fondateur du groupe Prisma - SATELLIFACTS",
+    "description": "L'Allemand Axel Ganz, ancien patron de presse et fondateur du groupe Prisma, numéro un de la presse magazine en France et maison mère de Télé-Loisirs, est mort à 88 ans, a annoncé mercredi 22 juillet sa famille à l'AFP. Le ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/1/4/1/7161412-1-fre-FR/fb3ab079aada-Screenshot-2026-07-22-13.05.43.png",
+    "published_raw": "2026-07-22CEST13:49:35",
+    "published_iso": "2026-07-22T13:49:35+02:00",
+    "fetched_at": "2026-07-22T13:06:18.792790+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/lci-la-chaine-info-muscle-son-offre-politique-en-matinee": {
     "url": "https://www.satellifacts.com/news/actualite/lci-la-chaine-info-muscle-son-offre-politique-en-matinee",
     "fallback_title": "LCI : la chaîne info muscle son offre politique en ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-17CEST12:09:18",
     "published_iso": "2026-07-17T12:09:18+02:00",
     "fetched_at": "2026-07-17T10:51:43.077056+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/sorties-12-films-en-salles-mercredi-22-juillet-2026": {
-    "url": "https://www.satellifacts.com/news/actualite/sorties-12-films-en-salles-mercredi-22-juillet-2026",
-    "fallback_title": "Sorties : 12 films en salles mercredi 22 juillet 2026",
-    "title": "Sorties : 12 films en salles mercredi 22 juillet 2026 - SATELLIFACTS",
-    "description": "Douze films inédits, dont sept (co)productions françaises, sortiront dans les salles mercredi 15 juillet. La semaine dernière, 9 films étaient sortis.Sur la route d'Omaha de Cole Webley (Condor Distribution, États-Unis, drame) ;Les Vacances de Golo & Ritchie de Ahmed Hamidi et Martin Fougerol ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/0/9/4/7154903-1-fre-FR/ca0fd1e4350d-C-ATELIER-DE-PRODUCTION-COMEDIE-FRANCAISE-FRANCE-2-CINEMA-2025-12-scaled.jpg",
-    "published_raw": "2026-07-17CEST11:00:00",
-    "published_iso": "2026-07-17T11:00:00+02:00",
-    "fetched_at": "2026-07-17T10:51:45.061617+00:00"
   }
 }

@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 22 Jul 2026 11:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 13:06:19 +0000</lastBuildDate>
 
+    <item>
+      <title>Axel Ganz : mort à 88 ans de l'ancien patron de presse allemand, fondateur du groupe Prisma - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/axel-ganz-mort-a-88-ans-de-l-ancien-patron-de-presse-allemand-fondateur-du-groupe-prisma</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/axel-ganz-mort-a-88-ans-de-l-ancien-patron-de-presse-allemand-fondateur-du-groupe-prisma</guid>
+      <description>L'Allemand Axel Ganz, ancien patron de presse et fondateur du groupe Prisma, numéro un de la presse magazine en France et maison mère de Télé-Loisirs, est mort à 88 ans, a annoncé mercredi 22 juillet sa famille à l'AFP. Le ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 22 Jul 2026 13:49:35 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/1/4/1/7161412-1-fre-FR/fb3ab079aada-Screenshot-2026-07-22-13.05.43.png" type="image/jpeg" />
+    </item>
     <item>
       <title>LCI : la chaîne info muscle son offre politique en matinée - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/lci-la-chaine-info-muscle-son-offre-politique-en-matinee</link>
@@ -805,14 +813,6 @@ l'avion, est morte, a annoncé vendredi 17 juillet son ... © 2026 FRÉQUENCES. 
       <description>Le média radio a mobilisé à peine plus de 6,2 millions de Franciliens sur la période avril-juin 2026, soit une audience cumulée de 58 %, en recul de 0,6 point sur un an (-50 000), selon les résultats trimestriels de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 17 Jul 2026 12:09:18 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/9/8/6/4206891-1-fre-FR/1d0bdbc2a4e4-poste_de_radio.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sorties : 12 films en salles mercredi 22 juillet 2026 - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/sorties-12-films-en-salles-mercredi-22-juillet-2026</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/sorties-12-films-en-salles-mercredi-22-juillet-2026</guid>
-      <description>Douze films inédits, dont sept (co)productions françaises, sortiront dans les salles mercredi 15 juillet. La semaine dernière, 9 films étaient sortis.Sur la route d'Omaha de Cole Webley (Condor Distribution, États-Unis, drame) ;Les Vacances de Golo &amp; Ritchie de Ahmed Hamidi et Martin Fougerol ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 17 Jul 2026 11:00:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/0/9/4/7154903-1-fre-FR/ca0fd1e4350d-C-ATELIER-DE-PRODUCTION-COMEDIE-FRANCAISE-FRANCE-2-CINEMA-2025-12-scaled.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
