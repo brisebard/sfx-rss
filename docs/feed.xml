@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 22 Jul 2026 20:44:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:52:41 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : 9h, Fedorova, âge, IA, Netflix... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-fedorova-age-ia-netflix</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-fedorova-age-ia-netflix</guid>
+      <description>ACCÈS LIBRE | UGC @UGCcinemas 367 spectateurs matinaux pour ce #9hdeshalles du 22 juillet [83 entrées pour "De la Comédie-française", 30 entrées pour "Sous le soleil de Kyoto", 22 entrées pour "Les vacances de Golo et Ritchie"]Ivanne Trippenbach @ITrippenbach Paris n'a pas proposé ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 22 Jul 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Agenda : jeudi 23 et vendredi 24 juillet - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/agenda/agenda-jeudi-23-et-vendredi-24-juillet2</link>
@@ -806,14 +814,6 @@ Aucun événement programmé
       <description>Les candidats à la présidence de l’Arcep ont jusqu’au 31 août pour faire acte de candidature en répondant à l’appel lancé ce vendredi 17 juillet par le ministère des Finances afin de succéder à Laure de La Raudière dont le mandat de six ans ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 17 Jul 2026 17:58:30 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/4/7/6/7156747-1-fre-FR/27b429a7c9c7-Screenshot-2026-07-17-16.37.12.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Little Dot Studios (Banijay) : lancement de l’outil HyperLaunch, pour le développement des acteurs de l’audiovisuel sur YouTube - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/little-dot-studios-banijay-lancement-de-l-outil-hyperlaunch-pour-le-developpement-des-acteurs-de-l-audiovisuel-sur-youtube</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/little-dot-studios-banijay-lancement-de-l-outil-hyperlaunch-pour-le-developpement-des-acteurs-de-l-audiovisuel-sur-youtube</guid>
-      <description>Little Dot Studios a lancé le 13 juillet HyperLaunch, un nouvel outil destiné à aider les diffuseurs, les distributeurs, les détenteurs de droits sportifs, les marques et les propriétaires de contenus à développer rapidement leur présence sur YouTube, avec pour objectif ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 17 Jul 2026 17:49:05 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/6/9/5/7155969-1-fre-FR/b0d71f6c9ffb-1483360_littledottech_273901.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

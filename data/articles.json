@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-fedorova-age-ia-netflix": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-fedorova-age-ia-netflix",
+    "fallback_title": "Au fil des (e)X (tweets) : 9h, Fedorova, âge, IA, Netflix...",
+    "title": "Au fil des (e)X (tweets) : 9h, Fedorova, âge, IA, Netflix... - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | UGC @UGCcinemas 367 spectateurs matinaux pour ce #9hdeshalles du 22 juillet [83 entrées pour \"De la Comédie-française\", 30 entrées pour \"Sous le soleil de Kyoto\", 22 entrées pour \"Les vacances de Golo et Ritchie\"]Ivanne Trippenbach @ITrippenbach Paris n'a pas proposé ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-07-22CEST23:00:00",
+    "published_iso": "2026-07-22T23:00:00+02:00",
+    "fetched_at": "2026-07-22T21:52:40.556824+00:00"
+  },
   "https://www.satellifacts.com/news/agenda/agenda-jeudi-23-et-vendredi-24-juillet2": {
     "url": "https://www.satellifacts.com/news/agenda/agenda-jeudi-23-et-vendredi-24-juillet2",
     "fallback_title": "Agenda : jeudi 23 et vendredi 24 juillet",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-17CEST17:58:30",
     "published_iso": "2026-07-17T17:58:30+02:00",
     "fetched_at": "2026-07-17T16:37:38.451532+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/little-dot-studios-banijay-lancement-de-l-outil-hyperlaunch-pour-le-developpement-des-acteurs-de-l-audiovisuel-sur-youtube": {
-    "url": "https://www.satellifacts.com/news/actualite/little-dot-studios-banijay-lancement-de-l-outil-hyperlaunch-pour-le-developpement-des-acteurs-de-l-audiovisuel-sur-youtube",
-    "fallback_title": "Little Dot Studios (Banijay) : lancement de l’outil HyperLaunch, pour le ...",
-    "title": "Little Dot Studios (Banijay) : lancement de l’outil HyperLaunch, pour le développement des acteurs de l’audiovisuel sur YouTube - SATELLIFACTS",
-    "description": "Little Dot Studios a lancé le 13 juillet HyperLaunch, un nouvel outil destiné à aider les diffuseurs, les distributeurs, les détenteurs de droits sportifs, les marques et les propriétaires de contenus à développer rapidement leur présence sur YouTube, avec pour objectif ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/6/9/5/7155969-1-fre-FR/b0d71f6c9ffb-1483360_littledottech_273901.jpg",
-    "published_raw": "2026-07-17CEST17:49:05",
-    "published_iso": "2026-07-17T17:49:05+02:00",
-    "fetched_at": "2026-07-17T16:37:40.024763+00:00"
   }
 }
