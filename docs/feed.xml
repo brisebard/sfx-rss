@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 23 Jul 2026 20:47:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 21:48:41 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : Bretagne, renumérotation, interruptions, mindset ... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-bretagne-renumerotation-interruptions-mindset</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-bretagne-renumerotation-interruptions-mindset</guid>
+      <description>ACCÈS LIBRE | Médiamétrie @Mediametrie La @regionbretagne est celle qui a le plus écouté la radio sur la vague 2024-2026 ! Découvrez les audiences de la radio dans les régions, les départements et les agglomérations dans notre communiqué EAR&gt; Local  https://mediametrie.fr/fr/ear-local-vague-2024-2026 #HighTrustDataFrédéric Fellague ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 23 Jul 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Agenda des prochaines semaines et des prochains mois : à partir du vendredi 24 juillet - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/agenda/agenda-des-prochaines-semaines-et-des-prochains-mois-a-partir-du-vendredi-24-juillet2</link>
@@ -806,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Françoise Coquet, productrice historique de Michel Drucker, est morte lundi à Paris à 83 ans, a appris l'AFP auprès de son entourage, lundi 20 juillet. Elle est morte des suites d'une "longue maladie", a-t-on précisé de même source.Femme de l'ombre ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 20 Jul 2026 16:26:32 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/build/images/sfx-1024x1024.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>MipCom 2026 : les microdramas et formats verticaux mis en avant - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/mipcom-2026-les-microdramas-et-formats-verticaux-mis-en-avant</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/mipcom-2026-les-microdramas-et-formats-verticaux-mis-en-avant</guid>
-      <description>L’édition 2026 du MipCom de Cannes (12-15 octobre) fera la part belle aux microdramas et autres contenus au format vertical, a annoncé l’organisateur RX France lundi 20 juillet. A cette occasion, le marché accueillera deux personnalités du secteur sur la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 20 Jul 2026 16:11:25 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/4/8/3/6573841-1-fre-FR/2ff00682c262-mipcom_2025.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
