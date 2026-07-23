@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 23 Jul 2026 09:42:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 11:34:05 +0000</lastBuildDate>
 
+    <item>
+      <title>YouTube : CA publicitaire de 11,05 Md$ au T2 ; les vidéos liées à la Coupe du monde vues par 1,7 Md de personnes - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/youtube-ca-publicitaire-de-11-05-md-au-t2-les-videos-liees-a-la-coupe-du-monde-vues-par-1-7-md-de-personnes</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/youtube-ca-publicitaire-de-11-05-md-au-t2-les-videos-liees-a-la-coupe-du-monde-vues-par-1-7-md-de-personnes</guid>
+      <description>Au deuxième trimestre 2026, le chiffre d’affaires publicitaire de YouTube a atteint 11,05 milliards de dollars (9,68 Md€), en hausse de 13 % sur un an, selon les résultats d’Alphabet, maison mère de Google, publiés mercredi 22 juillet. "Mois après mois, de plus en plus de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 23 Jul 2026 12:37:46 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/7/9/5/6985973-1-fre-FR/ba03474509e0-AdobeStock_394752263_Editorial_Use_Only.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>Pathé Cinémas : le multiplexe de Disney Village, dernier cinéma Gaumont, va passer sour l'enseigne Pathé - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/pathe-cinemas-le-multiplexe-de-disney-village-dernier-cinema-gaumont-va-passer-sour-l-enseigne-pathe</link>
@@ -806,14 +814,6 @@ Aucun événement programmé
       <description>L’Odyssée (Universal Pictures), le nouveau long métrage écrit et réalisé par Christopher Nolan et adapté de l'épopée antique L'Odyssée d'Homère, se hisse à la première position du box-office nord-américain pour sa première semaine en salles. Le blockbuster exploité sur 3 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Sun, 19 Jul 2026 19:23:24 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/8/4/9/7149480-1-fre-FR/7095eaaea994-CT-04168_MSGCROP.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Netflix : acquisition des droits US et Amérique latine de "Ink" de Danny Boyle - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/netflix-acquisition-des-droits-us-et-amerique-latine-de-ink-de-danny-boyle</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/netflix-acquisition-des-droits-us-et-amerique-latine-de-ink-de-danny-boyle</guid>
-      <description>Netflix a acquis les droits du film Ink de Danny Boyle pour les Etats-Unis et l'Amérique latine, a rapporté la presse américaine spécialisée le 17 juillet. La veille, la Mostra de Venise avait annoncé que le long métrage ferait l'ouverture ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Sun, 19 Jul 2026 18:13:32 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/9/5/5/7155598-1-fre-FR/e204f5452d76-ink-boyle-.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
