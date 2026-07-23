@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/agenda/agenda-des-prochaines-semaines-et-des-prochains-mois-a-partir-du-vendredi-24-juillet2": {
+    "url": "https://www.satellifacts.com/news/agenda/agenda-des-prochaines-semaines-et-des-prochains-mois-a-partir-du-vendredi-24-juillet2",
+    "fallback_title": "Agenda des prochaines semaines et des prochains mois : à ...",
+    "title": "Agenda des prochaines semaines et des prochains mois : à partir du vendredi 24 juillet - SATELLIFACTS",
+    "description": "Du 5 au 15 août : 79e Festival international du film de LocarnoMercredi 26 août \n9h30 : Festival de la fiction de La Rochelle, conférence de presse de l’édition 2026 à Paris (puis à 17h30 à La Rochelle)Mardi 1er septembre\n9h30  ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
+    "published_raw": "2026-07-23CEST22:00:00",
+    "published_iso": "2026-07-23T22:00:00+02:00",
+    "fetched_at": "2026-07-23T20:47:13.818946+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/comcast-nbcu-hausse-de-25-des-activites-studios-et-medias-peacock-atteint-la-rentabilite": {
     "url": "https://www.satellifacts.com/news/actualite/comcast-nbcu-hausse-de-25-des-activites-studios-et-medias-peacock-atteint-la-rentabilite",
     "fallback_title": "Comcast / NBCU : hausse de 25% des activités Studios ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-20CEST16:11:25",
     "published_iso": "2026-07-20T16:11:25+02:00",
     "fetched_at": "2026-07-20T14:56:23.306457+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/bien-sur-productions-aoki-movie-les-segpa-3-en-tournage": {
-    "url": "https://www.satellifacts.com/news/actualite/bien-sur-productions-aoki-movie-les-segpa-3-en-tournage",
-    "fallback_title": "Bien Sûr Productions / Aoki Movie : « Les Segpa 3 » en tournage",
-    "title": "Bien Sûr Productions / Aoki Movie : « Les Segpa 3 » en tournage - SATELLIFACTS",
-    "description": "Le tournage de la comédie Les Segpa 3 de Hakim Bougheraba a démarré lundi 20 juillet et va se dérouler à Marseille et dans les Hauts-de-France, ont indiqué ses producteurs, Bien Sûr Productions (Julien Seul) et Aoki Movie. Le film est coproduit avec ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/7/4/8/7158470-1-fre-FR/241c5ebd3a67-Capture-d-ecran-2026-07-20-155946.png",
-    "published_raw": "2026-07-20CEST16:09:46",
-    "published_iso": "2026-07-20T16:09:46+02:00",
-    "fetched_at": "2026-07-20T14:56:25.194878+00:00"
   }
 }

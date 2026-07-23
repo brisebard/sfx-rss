@@ -6,8 +6,18 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 23 Jul 2026 19:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:47:14 +0000</lastBuildDate>
 
+    <item>
+      <title>Agenda des prochaines semaines et des prochains mois : à partir du vendredi 24 juillet - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/agenda/agenda-des-prochaines-semaines-et-des-prochains-mois-a-partir-du-vendredi-24-juillet2</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/agenda/agenda-des-prochaines-semaines-et-des-prochains-mois-a-partir-du-vendredi-24-juillet2</guid>
+      <description>Du 5 au 15 août : 79e Festival international du film de LocarnoMercredi 26 août 
+9h30 : Festival de la fiction de La Rochelle, conférence de presse de l’édition 2026 à Paris (puis à 17h30 à La Rochelle)Mardi 1er septembre
+9h30  ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 23 Jul 2026 22:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Comcast / NBCU  : hausse de 25% des activités Studios et Médias ; Peacock atteint la rentabilité - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/comcast-nbcu-hausse-de-25-des-activites-studios-et-medias-peacock-atteint-la-rentabilite</link>
@@ -804,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>L’édition 2026 du MipCom de Cannes (12-15 octobre) fera la part belle aux microdramas et autres contenus au format vertical, a annoncé l’organisateur RX France lundi 20 juillet. A cette occasion, le marché accueillera deux personnalités du secteur sur la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 20 Jul 2026 16:11:25 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/4/8/3/6573841-1-fre-FR/2ff00682c262-mipcom_2025.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bien Sûr Productions / Aoki Movie : « Les Segpa 3 » en tournage - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/bien-sur-productions-aoki-movie-les-segpa-3-en-tournage</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/bien-sur-productions-aoki-movie-les-segpa-3-en-tournage</guid>
-      <description>Le tournage de la comédie Les Segpa 3 de Hakim Bougheraba a démarré lundi 20 juillet et va se dérouler à Marseille et dans les Hauts-de-France, ont indiqué ses producteurs, Bien Sûr Productions (Julien Seul) et Aoki Movie. Le film est coproduit avec ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 20 Jul 2026 16:09:46 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/7/4/8/7158470-1-fre-FR/241c5ebd3a67-Capture-d-ecran-2026-07-20-155946.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
