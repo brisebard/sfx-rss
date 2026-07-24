@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 24 Jul 2026 11:22:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 12:53:24 +0000</lastBuildDate>
 
+    <item>
+      <title>Réseaux sociaux : 7 jeunes sur 10 favorables à la majorité numérique à 15 ans ; un tiers prévoit de la contourner - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/reseaux-sociaux-7-jeunes-sur-10-favorables-a-la-majorite-numerique-a-15-ans-un-tiers-prevoit-de-la-contourner</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/reseaux-sociaux-7-jeunes-sur-10-favorables-a-la-majorite-numerique-a-15-ans-un-tiers-prevoit-de-la-contourner</guid>
+      <description>Les principaux intéressés approuvent la mesure : plus des deux tiers des enfants âgés de 10 à 14 ans sont favorables à une interdiction des réseaux sociaux pour les moins de 15 ans, selon une étude de l'Arcom dévoilée vendredi ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Fri, 24 Jul 2026 14:04:40 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/3/7/9/6989730-1-fre-FR/0eb0a77d0efa-AdobeStock_293637462_Editorial_Use_Only.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>Lumière / MIFC 2026 : les grandes lignes du programme dévoilées - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/lumiere-mifc-2026-les-grandes-lignes-du-programme-devoilees</link>
@@ -806,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Après l'Euro-2024 et le Mondial 2026, Deutsche Telekom a annoncé lundi 20 juillet avoir acquis les droits de diffusion en Allemagne de la Coupe du Monde de la Fifa 2030. Par conséquent, l'intégralité des 104 matches du tournoi sera disponible ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 20 Jul 2026 19:09:14 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/6/1/9/7159163-1-fre-FR/6446472d377f-Screenshot-2026-07-20-17.24.14.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Médiamat hebdo : nouvelles progressions de France 2 grâce au Tour de France et de M6 avec le Mondial de foot - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/mediamat-hebdo-nouvelles-progressions-de-france-2-grace-au-tour-de-france-et-de-m6-avec-le-mondial-de-foot</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/mediamat-hebdo-nouvelles-progressions-de-france-2-grace-au-tour-de-france-et-de-m6-avec-le-mondial-de-foot</guid>
-      <description>France 2 continue de profiter du Tour de France tandis que M6 a bénéficié des derniers matches de la Coupe du monde de foot, selon les résultats du Médiamat hebdo portant sur la période du 13 au 19 juillet, publiés lundi 20 juillet par ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 20 Jul 2026 18:41:31 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/4/9/8/7158947-1-fre-FR/2ac646561bb7-Fifa-2.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
