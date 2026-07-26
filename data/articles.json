@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/agenda/agenda-lundi-27-et-mardi-28-juillet": {
+    "url": "https://www.satellifacts.com/news/agenda/agenda-lundi-27-et-mardi-28-juillet",
+    "fallback_title": "Agenda : lundi 27 et mardi 28 juillet",
+    "title": "Agenda : lundi 27 et mardi 28 juillet - SATELLIFACTS",
+    "description": "Lundi 27 et mardi 28 juillet\nAucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
+    "published_raw": "2026-07-26CEST22:00:00",
+    "published_iso": "2026-07-26T22:00:00+02:00",
+    "fetched_at": "2026-07-26T20:41:03.822463+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-l-odyssee-continue-d-exploser-les-compteurs": {
     "url": "https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-l-odyssee-continue-d-exploser-les-compteurs",
     "fallback_title": "Box-office Etats-Unis & Canada : « L'Odyssée » continue d'exploser ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-21CEST16:30:43",
     "published_iso": "2026-07-21T16:30:43+02:00",
     "fetched_at": "2026-07-21T15:10:01.323227+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/commission-d-aide-a-la-coproduction-franco-allemande-5-projets-soutenus-en-juillet-2026": {
-    "url": "https://www.satellifacts.com/news/actualite/commission-d-aide-a-la-coproduction-franco-allemande-5-projets-soutenus-en-juillet-2026",
-    "fallback_title": "Commission d’aide à la coproduction franco-allemande : 5 projets soutenus ...",
-    "title": "Commission d’aide à la coproduction franco-allemande : 5 projets soutenus en juillet 2026 - SATELLIFACTS",
-    "description": "La commission d’aide à la coproduction franco-allemande a apporté son soutien à trois projets au titre de l'aide à la coproduction pour 1,04 million d'euros, peut-on voir sur le site du CNC. Ont été retenus Bumper Cars de Maximilien Bungarten ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/9/0/1/4391090-1-fre-FR/c3999ec86612-ffa_cnc_logo.jpg",
-    "published_raw": "2026-07-21CEST15:30:31",
-    "published_iso": "2026-07-21T15:30:31+02:00",
-    "fetched_at": "2026-07-21T15:10:03.153237+00:00"
   }
 }
