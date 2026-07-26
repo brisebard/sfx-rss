@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 26 Jul 2026 17:27:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 18:33:47 +0000</lastBuildDate>
 
+    <item>
+      <title>Box-office Etats-Unis &amp; Canada : « L'Odyssée » continue d'exploser les compteurs - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-l-odyssee-continue-d-exploser-les-compteurs</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-l-odyssee-continue-d-exploser-les-compteurs</guid>
+      <description>Pour sa deuxième semaine sur grand écran, L'Odyssée (Universal) écrit et réalisé par Christopher Nolan continue de dominer le box-office nord-américain. Le film qui reprend l'histoire mythologique d'Ulysse a réalisé l'un des meilleurs démarrages de l'année. Diffusé sur 3 942 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 26 Jul 2026 19:42:24 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/6/1/9/7159166-1-fre-FR/3572995a7b63-CT-02725_MSGR.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Jacques Audiard : un film d'horreur en projet pour Netflix - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/jacques-audiard-un-film-d-horreur-en-projet-pour-netflix</link>
@@ -806,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>La commission d’aide à la coproduction franco-allemande a apporté son soutien à trois projets au titre de l'aide à la coproduction pour 1,04 million d'euros, peut-on voir sur le site du CNC. Ont été retenus Bumper Cars de Maximilien Bungarten ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 21 Jul 2026 15:30:31 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/9/0/1/4391090-1-fre-FR/c3999ec86612-ffa_cnc_logo.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Gaumont : « A double tour » avec Baptiste Lecaplain et José Garcia programmé le 17 mars 2027 - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/gaumont-a-double-tour-avec-baptiste-lecaplain-et-jose-garcia-programme-le-17-mars-2027</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/gaumont-a-double-tour-avec-baptiste-lecaplain-et-jose-garcia-programme-le-17-mars-2027</guid>
-      <description>La comédie A double tour de Bastien Daret avec Baptiste Lecaplain, José Garcia, Isabelle Carré, Marilou Aussilloux et Corinne Masiero sortira dans les salles françaises le 17 mars 2027, a annoncé son distributeur et coproducteur, Gaumont, mardi 21 juillet.Le film est produit par ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 21 Jul 2026 15:09:03 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/9/0/0/7160097-1-fre-FR/55cf38b087e2-ADoubleTour-visuel-c-Marie-Camille-Orlando-2026-TOPSHOT-FILMS-NOLITA-CINEMA-GAUMONT-FRANCE-3-VERSUS-PRODUCTION.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
