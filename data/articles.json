@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/agenda/agenda-mercredi-29-et-jeudi-30-juillet": {
+    "url": "https://www.satellifacts.com/news/agenda/agenda-mercredi-29-et-jeudi-30-juillet",
+    "fallback_title": "Agenda : mercredi 29 et jeudi 30 juillet",
+    "title": "Agenda : mercredi 29 et jeudi 30 juillet - SATELLIFACTS",
+    "description": "Mercredi 29 et jeudi 30 juillet\nAucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
+    "published_raw": "2026-07-28CEST22:00:00",
+    "published_iso": "2026-07-28T22:00:00+02:00",
+    "fetched_at": "2026-07-28T20:07:56.599713+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/groupe-m6-un-resultat-net-a-36-3-m-au-terme-d-un-s1-marque-par-une-large-surperformance-des-revenus-pub-video": {
     "url": "https://www.satellifacts.com/news/actualite/groupe-m6-un-resultat-net-a-36-3-m-au-terme-d-un-s1-marque-par-une-large-surperformance-des-revenus-pub-video",
     "fallback_title": "Groupe M6 : un résultat net à 36,3 M€ au ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-23CEST11:18:21",
     "published_iso": "2026-07-23T11:18:21+02:00",
     "fetched_at": "2026-07-23T09:42:48.149898+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/classement-des-distributeurs-universal-de-retour-en-tete-avec-un-million-d-entrees-d-avance": {
-    "url": "https://www.satellifacts.com/news/actualite/classement-des-distributeurs-universal-de-retour-en-tete-avec-un-million-d-entrees-d-avance",
-    "fallback_title": "Classement des distributeurs : Universal de retour en tête avec un ...",
-    "title": "Classement des distributeurs : Universal de retour en tête avec un million d'entrées d'avance - SATELLIFACTS",
-    "description": "Porté par le démarrage tonitruant de L'Odyssée de Christopher Nolan (Satellifacts, 22 juillet), Universal Pictures frappe fort et reprend la tête du classement des distributeurs avec 17,65 millions d'entrées pour 16 films exploités, pour une moyenne de 1,1 million de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/6/5/5/0/7140556-1-fre-FR/a11ea36240c9-L-odyssee-photo1.jpg",
-    "published_raw": "2026-07-23CEST10:58:27",
-    "published_iso": "2026-07-23T10:58:27+02:00",
-    "fetched_at": "2026-07-23T09:42:50.004335+00:00"
   }
 }

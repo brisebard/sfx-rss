@@ -6,8 +6,17 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 28 Jul 2026 18:45:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 20:07:57 +0000</lastBuildDate>
 
+    <item>
+      <title>Agenda : mercredi 29 et jeudi 30 juillet - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/agenda/agenda-mercredi-29-et-jeudi-30-juillet</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/agenda/agenda-mercredi-29-et-jeudi-30-juillet</guid>
+      <description>Mercredi 29 et jeudi 30 juillet
+Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 28 Jul 2026 22:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Groupe M6 : un résultat net à 36,3 M€ au terme d'un S1 marqué par une "large surperformance" des revenus pub vidéo - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/groupe-m6-un-resultat-net-a-36-3-m-au-terme-d-un-s1-marque-par-une-large-surperformance-des-revenus-pub-video</link>
@@ -804,14 +813,6 @@ traditionnelle, selon ses résultats publiés vendredi 24 juillet. Dans ce ... �
       <description>Dans le cadre du projet de rachat des chaînes de télévision ITV et de la plateforme de streaming ITVX par Sky (NBCU/Comcast), la CMA, autorité de la concurrence britannique (CMA, Competition &amp; Markets Authority) a lancé jeudi 23 juillet un ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 23 Jul 2026 11:18:21 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/9/9/0/6980997-1-fre-FR/0b5e9d4c9796-AdobeStock_637016434_Editorial_Use_Only-1-.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Classement des distributeurs : Universal de retour en tête avec un million d'entrées d'avance - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/classement-des-distributeurs-universal-de-retour-en-tete-avec-un-million-d-entrees-d-avance</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/classement-des-distributeurs-universal-de-retour-en-tete-avec-un-million-d-entrees-d-avance</guid>
-      <description>Porté par le démarrage tonitruant de L'Odyssée de Christopher Nolan (Satellifacts, 22 juillet), Universal Pictures frappe fort et reprend la tête du classement des distributeurs avec 17,65 millions d'entrées pour 16 films exploités, pour une moyenne de 1,1 million de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 23 Jul 2026 10:58:27 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/5/5/0/7140556-1-fre-FR/a11ea36240c9-L-odyssee-photo1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
