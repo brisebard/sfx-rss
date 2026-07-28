@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-zidane-region-carpates-grand-huit-severance": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-zidane-region-carpates-grand-huit-severance",
+    "fallback_title": "Au fil des (e)X (tweets) : Zidane, région, Carpates, grand huit, \"Severance\"...",
+    "title": "Au fil des (e)X (tweets) : Zidane, région, Carpates, grand huit, \"Severance\"... - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | Nour-Eddine Zidane @NZidane [Message de service] - Comme ça va repartir pour un tour, je reprécise que je n’ai aucun lien direct avec Zinedine Zidane. Inutile de me suivre pour avoir des indiscrétions, vous ne trouverez que des mauvaises vannes ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-07-28CEST23:00:00",
+    "published_iso": "2026-07-28T23:00:00+02:00",
+    "fetched_at": "2026-07-28T21:21:13.826423+00:00"
+  },
   "https://www.satellifacts.com/news/agenda/agenda-mercredi-29-et-jeudi-30-juillet": {
     "url": "https://www.satellifacts.com/news/agenda/agenda-mercredi-29-et-jeudi-30-juillet",
     "fallback_title": "Agenda : mercredi 29 et jeudi 30 juillet",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-23CEST11:26:11",
     "published_iso": "2026-07-23T11:26:11+02:00",
     "fetched_at": "2026-07-23T09:42:46.318117+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/acquisition-d-itv-par-sky-l-autorite-de-la-concurrence-britannique-lance-une-consultation-publique": {
-    "url": "https://www.satellifacts.com/news/actualite/acquisition-d-itv-par-sky-l-autorite-de-la-concurrence-britannique-lance-une-consultation-publique",
-    "fallback_title": "Acquisition d’ITV par Sky : l'Autorité de la concurrence britannique ...",
-    "title": "Acquisition d’ITV par Sky : l'Autorité de la concurrence britannique lance une consultation publique - SATELLIFACTS",
-    "description": "Dans le cadre du projet de rachat des chaînes de télévision ITV et de la plateforme de streaming ITVX par Sky (NBCU/Comcast), la CMA, autorité de la concurrence britannique (CMA, Competition & Markets Authority) a lancé jeudi 23 juillet un ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/9/9/0/6980997-1-fre-FR/0b5e9d4c9796-AdobeStock_637016434_Editorial_Use_Only-1-.jpeg",
-    "published_raw": "2026-07-23CEST11:18:21",
-    "published_iso": "2026-07-23T11:18:21+02:00",
-    "fetched_at": "2026-07-23T09:42:48.149898+00:00"
   }
 }
