@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/burkina-faso-nouvelle-amende-pour-canal-accusee-de-ne-pas-diffuser-gratuitement-la-tv-nationale": {
+    "url": "https://www.satellifacts.com/news/actualite/burkina-faso-nouvelle-amende-pour-canal-accusee-de-ne-pas-diffuser-gratuitement-la-tv-nationale",
+    "fallback_title": "Burkina Faso : nouvelle amende pour Canal+ accusée de ne ...",
+    "title": "Burkina Faso : nouvelle amende pour Canal+ accusée de ne pas diffuser gratuitement la TV nationale - SATELLIFACTS",
+    "description": "L'autorité de régulation des médias du Burkina Faso a infligé au groupe Canal+ une nouvelle amende, cette fois de 200 millions de francs CFA (environ 304 000 euros), l'accusant de ne pas diffuser gratuitement la TV nationale, a-t-elle indiqué dans ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/0/0/1/7221002-1-fre-FR/82ac0ddf399f-Screenshot-2026-07-28-16.59.20.png",
+    "published_raw": "2026-07-29CEST20:24:14",
+    "published_iso": "2026-07-29T20:24:14+02:00",
+    "fetched_at": "2026-07-29T18:34:36.820523+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/cnews-sanction-de-200-000-euros-infligee-par-l-arcom-pour-incitation-a-la-haine-la-chaine-forme-un-recours": {
     "url": "https://www.satellifacts.com/news/actualite/cnews-sanction-de-200-000-euros-infligee-par-l-arcom-pour-incitation-a-la-haine-la-chaine-forme-un-recours",
     "fallback_title": "CNews : sanction de 200 000 euros infligée par l’Arcom pour incitation ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-24CEST04:30:00",
     "published_iso": "2026-07-24T04:30:00+02:00",
     "fetched_at": "2026-07-24T04:32:48.824244+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/exclu-radio-france-vers-un-plafonnement-pub-releve-et-elargi-dans-le-com-les-acteurs-prives-en-appellent-a-matignon": {
-    "url": "https://www.satellifacts.com/news/actualite/exclu-radio-france-vers-un-plafonnement-pub-releve-et-elargi-dans-le-com-les-acteurs-prives-en-appellent-a-matignon",
-    "fallback_title": "EXCLU - Radio France : vers un plafonnement pub relevé ...",
-    "title": "EXCLU - Radio France : vers un plafonnement pub relevé et élargi dans le COM ; les acteurs privés en appellent à Matignon - SATELLIFACTS",
-    "description": "Selon nos informations, le plafonnement des recettes publicitaires de Radio France serait porté à plus de 60 millions d'euros et pourrait atteindre 75 M€ dans son prochain contrat d'objectifs et de moyens 2026-2028, contre 42 M€ actuellement. Cette augmentation (jusqu'à ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/2/4/4/6724428-1-fre-FR/55fc740c3dd4-AdobeStock_1394536703_Editorial_Use_Only.jpeg",
-    "published_raw": "2026-07-24CEST04:20:00",
-    "published_iso": "2026-07-24T04:20:00+02:00",
-    "fetched_at": "2026-07-24T04:32:50.366518+00:00"
   }
 }
