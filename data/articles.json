@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/jerome-caza-spect-le-prochain-grand-chantier-supprimer-l-abattement-de-66-sur-la-tsv": {
+    "url": "https://www.satellifacts.com/news/actualite/jerome-caza-spect-le-prochain-grand-chantier-supprimer-l-abattement-de-66-sur-la-tsv",
+    "fallback_title": "Jérôme Caza (Spect) : « Le prochain grand chantier ? Supprimer l’abattement de ...",
+    "title": "Jérôme Caza (Spect) : « Le prochain grand chantier ? Supprimer l’abattement de 66 % sur la TSV » - SATELLIFACTS",
+    "description": "Fin juin, le Spect annonçait, parallèlement au renouvellement pour deux ans de son bureau, la création d’une nouvelle commission consacrée à la creator economy, « Créateurs & Industries émergentes », présidée par le producteur David Bensoussan (Goldenia Studios, Satellifacts, 29 juin).Un moyen supplémentaire ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/3/8/7/7097835-1-fre-FR/ce3752b89e95-Capture-d-e-cran-2026-06-01-a-16.18.55.png",
+    "published_raw": "2026-07-29CEST07:00:00",
+    "published_iso": "2026-07-29T07:00:00+02:00",
+    "fetched_at": "2026-07-29T07:18:35.559581+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-zidane-region-carpates-grand-huit-severance": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-zidane-region-carpates-grand-huit-severance",
     "fallback_title": "Au fil des (e)X (tweets) : Zidane, région, Carpates, grand huit, \"Severance\"...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-23CEST12:37:46",
     "published_iso": "2026-07-23T12:37:46+02:00",
     "fetched_at": "2026-07-23T11:34:04.349074+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/pathe-cinemas-le-multiplexe-de-disney-village-dernier-cinema-gaumont-va-passer-sour-l-enseigne-pathe": {
-    "url": "https://www.satellifacts.com/news/actualite/pathe-cinemas-le-multiplexe-de-disney-village-dernier-cinema-gaumont-va-passer-sour-l-enseigne-pathe",
-    "fallback_title": "Pathé Cinémas : le multiplexe de Disney Village, dernier cinéma ...",
-    "title": "Pathé Cinémas : le multiplexe de Disney Village, dernier cinéma Gaumont, va passer sour l'enseigne Pathé - SATELLIFACTS",
-    "description": "Le cinéma Gaumont Disney Village, installé devant l’entrée des deux parcs Disney à Marne-la-Vallée (Seine-et-Marne), va être rebaptisé Pathé Disney Village à l’occasion d’une rénovation qui débutera à la fin de l’été et s’achèvera courant 2027, a annoncé Disneyland Paris ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/1/4/2/7162417-1-fre-FR/6e95a83300d6-HN1jkpwWsAAaxVC.jpeg",
-    "published_raw": "2026-07-23CEST11:26:11",
-    "published_iso": "2026-07-23T11:26:11+02:00",
-    "fetched_at": "2026-07-23T09:42:46.318117+00:00"
   }
 }
