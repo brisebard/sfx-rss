@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/prime-video-le-conseil-d-etat-rejette-sa-demande-de-renvoi-au-conseil-constitutionnel-une-qpc-sur-la-chronologie-des-medias": {
+    "url": "https://www.satellifacts.com/news/actualite/prime-video-le-conseil-d-etat-rejette-sa-demande-de-renvoi-au-conseil-constitutionnel-une-qpc-sur-la-chronologie-des-medias",
+    "fallback_title": "Prime Video : le Conseil d'Etat rejette sa demande de ...",
+    "title": "Prime Video : le Conseil d'Etat rejette sa demande de renvoi au Conseil constitutionnel, une QPC sur la chronologie des médias - SATELLIFACTS",
+    "description": "Dans une décision rendue lundi 27 juillet, le Conseil d’État a refusé de renvoyer au Conseil constitutionnel, une QPC (question prioritaire de constitutionnalité) soulevée par la société Amazon Digital UK Limited sur la chronologie des médias.La filiale du groupe américain ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/7/1/4/7064178-1-fre-FR/3ed3dd7c283f-AdobeStock_1451680371_Editorial_Use_Only.jpeg",
+    "published_raw": "2026-07-29CEST21:30:04",
+    "published_iso": "2026-07-29T21:30:04+02:00",
+    "fetched_at": "2026-07-29T19:56:18.201527+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/burkina-faso-nouvelle-amende-pour-canal-accusee-de-ne-pas-diffuser-gratuitement-la-tv-nationale": {
     "url": "https://www.satellifacts.com/news/actualite/burkina-faso-nouvelle-amende-pour-canal-accusee-de-ne-pas-diffuser-gratuitement-la-tv-nationale",
     "fallback_title": "Burkina Faso : nouvelle amende pour Canal+ accusée de ne ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-24CEST09:29:40",
     "published_iso": "2026-07-24T09:29:40+02:00",
     "fetched_at": "2026-07-24T09:36:56.472163+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/exclu-cnc-depart-de-la-directrice-de-la-communication": {
-    "url": "https://www.satellifacts.com/news/actualite/exclu-cnc-depart-de-la-directrice-de-la-communication",
-    "fallback_title": "EXCLU - CNC : départ de la directrice de la ...",
-    "title": "EXCLU - CNC : départ de la directrice de la communication - SATELLIFACTS",
-    "description": "Selon nos informations, Sarah Drouhaud, directrice de la communication du CNC depuis novembre 2021, quittera ses fonctions à la fin du mois d'août. Elle était précédemment rédactrice en chef au Film français, qu'elle avait intégré en 2001. Elle a débuté ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/9/6/4/5224691-1-fre-FR/7d9934ef3005-sarah_drouhaud.jpg",
-    "published_raw": "2026-07-24CEST04:30:00",
-    "published_iso": "2026-07-24T04:30:00+02:00",
-    "fetched_at": "2026-07-24T04:32:48.824244+00:00"
   }
 }

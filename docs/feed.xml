@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 29 Jul 2026 18:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 19:56:19 +0000</lastBuildDate>
 
+    <item>
+      <title>Prime Video : le Conseil d'Etat rejette sa demande de renvoi au Conseil constitutionnel, une QPC sur la chronologie des médias - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/prime-video-le-conseil-d-etat-rejette-sa-demande-de-renvoi-au-conseil-constitutionnel-une-qpc-sur-la-chronologie-des-medias</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/prime-video-le-conseil-d-etat-rejette-sa-demande-de-renvoi-au-conseil-constitutionnel-une-qpc-sur-la-chronologie-des-medias</guid>
+      <description>Dans une décision rendue lundi 27 juillet, le Conseil d’État a refusé de renvoyer au Conseil constitutionnel, une QPC (question prioritaire de constitutionnalité) soulevée par la société Amazon Digital UK Limited sur la chronologie des médias.La filiale du groupe américain ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 29 Jul 2026 21:30:04 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/7/1/4/7064178-1-fre-FR/3ed3dd7c283f-AdobeStock_1451680371_Editorial_Use_Only.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>Burkina Faso : nouvelle amende pour Canal+ accusée de ne pas diffuser gratuitement la TV nationale - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/burkina-faso-nouvelle-amende-pour-canal-accusee-de-ne-pas-diffuser-gratuitement-la-tv-nationale</link>
@@ -803,14 +811,6 @@ traditionnelle, selon ses résultats publiés vendredi 24 juillet. Dans ce ... �
       <description>France 3 s’impose jeudi soir avec une rediffusion de la série Tom et Lola (DEMD Productions) avec Dounia Coesens et Pierre-Yves Bon, regardée en moyenne par 2,02 millions de téléspectateurs pour 14,8 % de pda. La semaine dernière, la rediffusion ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 24 Jul 2026 09:29:40 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/6/5/9/6109569-1-fre-FR/fc51752aa0a2-tom_et_lola.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EXCLU - CNC : départ de la directrice de la communication - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/exclu-cnc-depart-de-la-directrice-de-la-communication</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/exclu-cnc-depart-de-la-directrice-de-la-communication</guid>
-      <description>Selon nos informations, Sarah Drouhaud, directrice de la communication du CNC depuis novembre 2021, quittera ses fonctions à la fin du mois d'août. Elle était précédemment rédactrice en chef au Film français, qu'elle avait intégré en 2001. Elle a débuté ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 24 Jul 2026 04:30:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/9/6/4/5224691-1-fre-FR/7d9934ef3005-sarah_drouhaud.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
