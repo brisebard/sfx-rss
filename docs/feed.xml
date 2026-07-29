@@ -6,8 +6,17 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 29 Jul 2026 19:56:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:58:12 +0000</lastBuildDate>
 
+    <item>
+      <title>Agenda : jeudi 30 et vendredi 31 juillet - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/agenda/agenda-jeudi-30-et-vendredi-31-juillet</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/agenda/agenda-jeudi-30-et-vendredi-31-juillet</guid>
+      <description>Jeudi 30 et vendredi 31 juillet
+Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 29 Jul 2026 22:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Prime Video : le Conseil d'Etat rejette sa demande de renvoi au Conseil constitutionnel, une QPC sur la chronologie des médias - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/prime-video-le-conseil-d-etat-rejette-sa-demande-de-renvoi-au-conseil-constitutionnel-une-qpc-sur-la-chronologie-des-medias</link>
@@ -803,14 +812,6 @@ traditionnelle, selon ses résultats publiés vendredi 24 juillet. Dans ce ... �
       <description>Christian Vion, ancien directeur général adjoint de France Télévisions, a été nommé par l'Arcom au conseil d’administration de l’INA en tant que personnalité qualifiée, selon une décision publiée au Journal officiel vendredi 24 juillet.Christian Vion était DGA en charge de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 24 Jul 2026 10:05:43 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/1/7/5/3495716-1-fre-FR/38ba04c52b3a-christian_vion.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Audiences 23/07/2026 : France 3 en tête avec "Tom et Lola" ; France 5 clôt le podium avec "Un train pas comme les autres" - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/audiences-23-07-2026-france-3-en-tete-avec-tom-et-lola-france-5-clot-le-podium-avec-un-train-pas-comme-les-autres</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-23-07-2026-france-3-en-tete-avec-tom-et-lola-france-5-clot-le-podium-avec-un-train-pas-comme-les-autres</guid>
-      <description>France 3 s’impose jeudi soir avec une rediffusion de la série Tom et Lola (DEMD Productions) avec Dounia Coesens et Pierre-Yves Bon, regardée en moyenne par 2,02 millions de téléspectateurs pour 14,8 % de pda. La semaine dernière, la rediffusion ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 24 Jul 2026 09:29:40 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/6/5/9/6109569-1-fre-FR/fc51752aa0a2-tom_et_lola.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

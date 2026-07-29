@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/agenda/agenda-jeudi-30-et-vendredi-31-juillet": {
+    "url": "https://www.satellifacts.com/news/agenda/agenda-jeudi-30-et-vendredi-31-juillet",
+    "fallback_title": "Agenda : jeudi 30 et vendredi 31 juillet",
+    "title": "Agenda : jeudi 30 et vendredi 31 juillet - SATELLIFACTS",
+    "description": "Jeudi 30 et vendredi 31 juillet\nAucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
+    "published_raw": "2026-07-29CEST22:00:00",
+    "published_iso": "2026-07-29T22:00:00+02:00",
+    "fetched_at": "2026-07-29T20:58:11.134628+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/prime-video-le-conseil-d-etat-rejette-sa-demande-de-renvoi-au-conseil-constitutionnel-une-qpc-sur-la-chronologie-des-medias": {
     "url": "https://www.satellifacts.com/news/actualite/prime-video-le-conseil-d-etat-rejette-sa-demande-de-renvoi-au-conseil-constitutionnel-une-qpc-sur-la-chronologie-des-medias",
     "fallback_title": "Prime Video : le Conseil d'Etat rejette sa demande de ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-24CEST10:05:43",
     "published_iso": "2026-07-24T10:05:43+02:00",
     "fetched_at": "2026-07-24T09:36:54.872963+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/audiences-23-07-2026-france-3-en-tete-avec-tom-et-lola-france-5-clot-le-podium-avec-un-train-pas-comme-les-autres": {
-    "url": "https://www.satellifacts.com/news/actualite/audiences-23-07-2026-france-3-en-tete-avec-tom-et-lola-france-5-clot-le-podium-avec-un-train-pas-comme-les-autres",
-    "fallback_title": "Audiences 23/07/2026 : France 3 en tête avec \"Tom et Lola\" ...",
-    "title": "Audiences 23/07/2026 : France 3 en tête avec \"Tom et Lola\" ; France 5 clôt le podium avec \"Un train pas comme les autres\" - SATELLIFACTS",
-    "description": "France 3 s’impose jeudi soir avec une rediffusion de la série Tom et Lola (DEMD Productions) avec Dounia Coesens et Pierre-Yves Bon, regardée en moyenne par 2,02 millions de téléspectateurs pour 14,8 % de pda. La semaine dernière, la rediffusion ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/6/5/9/6109569-1-fre-FR/fc51752aa0a2-tom_et_lola.jpg",
-    "published_raw": "2026-07-24CEST09:29:40",
-    "published_iso": "2026-07-24T09:29:40+02:00",
-    "fetched_at": "2026-07-24T09:36:56.472163+00:00"
   }
 }
