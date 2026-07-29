@@ -6,8 +6,17 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 29 Jul 2026 20:58:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 22:05:41 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : 9h, applaudir, exploit, Fifa, L5, onglets... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-applaudir-exploit-fifa-l5-onglets</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-applaudir-exploit-fifa-l5-onglets</guid>
+      <description>ACCÈS LIBRE | UGC @UGCcinemas 9h des Halles historique avec 957 spectateurs matinaux ! [400 places pour Spider Man : Brand New Day, suivi de 48 entrées pour Les matins merveilleux]
+BREAKING NEWS : SPIDER-MAN : BRAND NEW DAY cumule 400 entrées au #9hdeshalles ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 29 Jul 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Agenda : jeudi 30 et vendredi 31 juillet - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/agenda/agenda-jeudi-30-et-vendredi-31-juillet</link>
@@ -804,14 +813,6 @@ traditionnelle, selon ses résultats publiés vendredi 24 juillet. Dans ce ... �
       <description>(Benjamin Meffre, leparisien.fr, jeudi 23 juillet 2026)[Alors que Cyril Hanouna, qui a rejoint le groupe M6 en septembre 2025, était cantonné à la chaîne W9 pour l'animation Tout beau tout n9uf (TBT9), nouvelle émission d’access produite par sa société H2O (Satellifacts, 1 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 24 Jul 2026 11:44:10 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/2/2/7/3877224-1-fre-FR/ac834c25b890-le_parisien_logo.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>INA : Christian Vion nommé au conseil d'administration - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/ina-christian-vion-nomme-au-conseil-d-administration</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/ina-christian-vion-nomme-au-conseil-d-administration</guid>
-      <description>Christian Vion, ancien directeur général adjoint de France Télévisions, a été nommé par l'Arcom au conseil d’administration de l’INA en tant que personnalité qualifiée, selon une décision publiée au Journal officiel vendredi 24 juillet.Christian Vion était DGA en charge de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 24 Jul 2026 10:05:43 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/1/7/5/3495716-1-fre-FR/38ba04c52b3a-christian_vion.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
