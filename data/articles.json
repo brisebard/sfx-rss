@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/cnews-sanction-de-200-000-euros-infligee-par-l-arcom-pour-incitation-a-la-haine-la-chaine-forme-un-recours": {
+    "url": "https://www.satellifacts.com/news/actualite/cnews-sanction-de-200-000-euros-infligee-par-l-arcom-pour-incitation-a-la-haine-la-chaine-forme-un-recours",
+    "fallback_title": "CNews : sanction de 200 000 euros infligée par l’Arcom pour incitation ...",
+    "title": "CNews : sanction de 200 000 euros infligée par l’Arcom pour incitation à la haine ; la chaîne forme un recours - SATELLIFACTS",
+    "description": "L’Arcom a infligé une sanction de 200 000 euros à CNews pour incitation à la haine fondée sur l’origine et la religion, selon une décision mise en ligne mercredi 29 juillet. C’est la 2e sanction pour ce motif prononcée par le régulateur à ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/0/4/0/4480401-2-fre-FR/d6acd6b3f597-cnews-copie.jpg",
+    "published_raw": "2026-07-29CEST18:02:05",
+    "published_iso": "2026-07-29T18:02:05+02:00",
+    "fetched_at": "2026-07-29T17:33:13.591996+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/banijay-group-chiffre-d-affaires-en-hausse-de-17-au-1s-mais-recul-du-benefice-apres-l-acquisition-de-tipico2": {
     "url": "https://www.satellifacts.com/news/actualite/banijay-group-chiffre-d-affaires-en-hausse-de-17-au-1s-mais-recul-du-benefice-apres-l-acquisition-de-tipico2",
     "fallback_title": "Banijay Group : chiffre d’affaires en hausse de 17 % au 1S ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-24CEST04:20:00",
     "published_iso": "2026-07-24T04:20:00+02:00",
     "fetched_at": "2026-07-24T04:32:50.366518+00:00"
-  },
-  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-bretagne-renumerotation-interruptions-mindset": {
-    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-bretagne-renumerotation-interruptions-mindset",
-    "fallback_title": "Au fil des (e)X (tweets) : Bretagne, renumérotation, interruptions, mindset ...",
-    "title": "Au fil des (e)X (tweets) : Bretagne, renumérotation, interruptions, mindset ... - SATELLIFACTS",
-    "description": "ACCÈS LIBRE | Médiamétrie @Mediametrie La @regionbretagne est celle qui a le plus écouté la radio sur la vague 2024-2026 ! Découvrez les audiences de la radio dans les régions, les départements et les agglomérations dans notre communiqué EAR> Local  https://mediametrie.fr/fr/ear-local-vague-2024-2026 #HighTrustDataFrédéric Fellague ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
-    "published_raw": "2026-07-23CEST23:00:00",
-    "published_iso": "2026-07-23T23:00:00+02:00",
-    "fetched_at": "2026-07-23T21:48:40.241575+00:00"
   }
 }
