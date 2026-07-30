@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 30 Jul 2026 14:42:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:15:58 +0000</lastBuildDate>
 
+    <item>
+      <title>EMFA : RSF et des syndicats de journalistes rappellent « l’urgence » à évaluer les concentrations dans les médias en France - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/emfa-rsf-et-des-syndicats-de-journalistes-rappellent-l-urgence-a-evaluer-les-concentrations-dans-les-medias-en-france</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/emfa-rsf-et-des-syndicats-de-journalistes-rappellent-l-urgence-a-evaluer-les-concentrations-dans-les-medias-en-france</guid>
+      <description>« Quand la France va-t-elle enfin appliquer l’EMFA », dont l’une des dispositions vise à « évaluer les opérations de concentration dans les médias » ? Plusieurs organisations françaises de journalistes posent la question, jeudi 30 juillet, après une décision du Conseil d’Etat relative à la transposition ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 30 Jul 2026 17:05:59 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/1/9/4/6134913-1-fre-FR/6b2712746d40-conseil_d_etat.png" type="image/jpeg" />
+    </item>
     <item>
       <title>France 24 : la chaîne en anglais sous-titrée 24/7 grâce à une innovation développée avec france.tv studio - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/france-24-la-chaine-en-anglais-sous-titree-24-7-grace-a-une-innovation-developpee-avec-france.tv-studio</link>
@@ -805,14 +813,6 @@ traditionnelle, selon ses résultats publiés vendredi 24 juillet. Dans ce ... �
       <description>L’édition 2026 des Rencontres du Sedpa aura lieu le lundi 16 novembre à partir de 14 heures dans l’auditorium du CNC (Paris 14e), a annoncé le Syndicat des entreprises de distribution de programmes audiovisuels vendredi 24 juillet.Il s’agit de la neuvième édition de l’événement, qui n’a pas ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 24 Jul 2026 17:23:03 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/5/7/2/6952759-1-fre-FR/207daea17053-Screenshot-2026-02-09-15.59.22.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Apple TV : commande d'un programme de dating - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/apple-tv-commande-d-un-programme-de-dating</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/apple-tv-commande-d-un-programme-de-dating</guid>
-      <description>Apple TV, qui s’est imposée dans la fiction premium (Severance, Silo, The Studio, Pluribus, Sugar, Ted Lasso…), va faire son entrée dans le domaine du dating, avec The Last Person on Earth, présenté comme une série documentaire. Pour orchestrer cette « expérience ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 24 Jul 2026 17:01:02 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/3/1/4/7164134-1-fre-FR/c3d841cb9e03-Screenshot-2026-07-24-16.04.21.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>

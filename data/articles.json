@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/emfa-rsf-et-des-syndicats-de-journalistes-rappellent-l-urgence-a-evaluer-les-concentrations-dans-les-medias-en-france": {
+    "url": "https://www.satellifacts.com/news/actualite/emfa-rsf-et-des-syndicats-de-journalistes-rappellent-l-urgence-a-evaluer-les-concentrations-dans-les-medias-en-france",
+    "fallback_title": "EMFA : RSF et des syndicats de journalistes rappellent « l’urgence » à ...",
+    "title": "EMFA : RSF et des syndicats de journalistes rappellent « l’urgence » à évaluer les concentrations dans les médias en France - SATELLIFACTS",
+    "description": "« Quand la France va-t-elle enfin appliquer l’EMFA », dont l’une des dispositions vise à « évaluer les opérations de concentration dans les médias » ? Plusieurs organisations françaises de journalistes posent la question, jeudi 30 juillet, après une décision du Conseil d’Etat relative à la transposition ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/1/9/4/6134913-1-fre-FR/6b2712746d40-conseil_d_etat.png",
+    "published_raw": "2026-07-30CEST17:05:59",
+    "published_iso": "2026-07-30T17:05:59+02:00",
+    "fetched_at": "2026-07-30T16:15:57.037296+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/france-24-la-chaine-en-anglais-sous-titree-24-7-grace-a-une-innovation-developpee-avec-france.tv-studio": {
     "url": "https://www.satellifacts.com/news/actualite/france-24-la-chaine-en-anglais-sous-titree-24-7-grace-a-une-innovation-developpee-avec-france.tv-studio",
     "fallback_title": "France 24 : la chaîne en anglais sous-titrée 24/7 grâce ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-24CEST17:23:03",
     "published_iso": "2026-07-24T17:23:03+02:00",
     "fetched_at": "2026-07-24T17:51:55.231731+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/apple-tv-commande-d-un-programme-de-dating": {
-    "url": "https://www.satellifacts.com/news/actualite/apple-tv-commande-d-un-programme-de-dating",
-    "fallback_title": "Apple TV : commande d'un programme de dating",
-    "title": "Apple TV : commande d'un programme de dating - SATELLIFACTS",
-    "description": "Apple TV, qui s’est imposée dans la fiction premium (Severance, Silo, The Studio, Pluribus, Sugar, Ted Lasso…), va faire son entrée dans le domaine du dating, avec The Last Person on Earth, présenté comme une série documentaire. Pour orchestrer cette « expérience ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/4/3/1/4/7164134-1-fre-FR/c3d841cb9e03-Screenshot-2026-07-24-16.04.21.png",
-    "published_raw": "2026-07-24CEST17:01:02",
-    "published_iso": "2026-07-24T17:01:02+02:00",
-    "fetched_at": "2026-07-24T17:51:57.340211+00:00"
   }
 }
