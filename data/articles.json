@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-ecarte-peak-tv-rajamouli-ia-enquete-lci": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-ecarte-peak-tv-rajamouli-ia-enquete-lci",
+    "fallback_title": "Au fil des (e)X (tweets) : écarté, peak TV, Rajamouli, IA, enquête, LCI",
+    "title": "Au fil des (e)X (tweets) : écarté, peak TV, Rajamouli, IA, enquête, LCI - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | Victor Eyraud @EyraudVictor Liberté d’expression ? Pluralisme des opinions ? Allez, question à 1 million : pourquoi ai-je été subitement et définitivement écarté de l’antenne d’Europe 1 en avril ?The Hollywood Reporter @THR Post-Peak TV: Show premieres across nearly all ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-07-30CEST23:00:00",
+    "published_iso": "2026-07-30T23:00:00+02:00",
+    "fetched_at": "2026-07-30T21:47:53.994898+00:00"
+  },
   "https://www.satellifacts.com/news/agenda/agenda-des-prochaines-et-les-prochains-mois-a-partir-du-vendredi-31-juillet": {
     "url": "https://www.satellifacts.com/news/agenda/agenda-des-prochaines-et-les-prochains-mois-a-partir-du-vendredi-31-juillet",
     "fallback_title": "Agenda des prochaines et les prochains mois : à partir ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-26CEST15:44:50",
     "published_iso": "2026-07-26T15:44:50+02:00",
     "fetched_at": "2026-07-26T14:02:04.090048+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/cnc-plusieurs-deliberations-publiees-au-journal-officiel": {
-    "url": "https://www.satellifacts.com/news/actualite/cnc-plusieurs-deliberations-publiees-au-journal-officiel",
-    "fallback_title": "CNC : plusieurs délibérations publiées au « Journal officiel »",
-    "title": "CNC : plusieurs délibérations publiées au « Journal officiel » - SATELLIFACTS",
-    "description": "Quatre délibérations modifiant le règlement général des aides financières du CNC ont été publiées au Journal officiel, samedi 25 juillet. Elles ont été votées lors du dernier conseil d'administration du Centre, le 7 juillet, avec en premier lieu la réforme ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/3/7/1/3031738-2-fre-FR/87d704a55b59-X-14.png",
-    "published_raw": "2026-07-26CEST15:25:37",
-    "published_iso": "2026-07-26T15:25:37+02:00",
-    "fetched_at": "2026-07-26T14:02:05.570674+00:00"
   }
 }

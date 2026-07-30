@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 30 Jul 2026 20:37:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 21:47:54 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : écarté, peak TV, Rajamouli, IA, enquête, LCI - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-ecarte-peak-tv-rajamouli-ia-enquete-lci</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-ecarte-peak-tv-rajamouli-ia-enquete-lci</guid>
+      <description>ACCÈS LIBRE | Victor Eyraud @EyraudVictor Liberté d’expression ? Pluralisme des opinions ? Allez, question à 1 million : pourquoi ai-je été subitement et définitivement écarté de l’antenne d’Europe 1 en avril ?The Hollywood Reporter @THR Post-Peak TV: Show premieres across nearly all ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 30 Jul 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Agenda des prochaines et les prochains mois : à partir du vendredi 31 juillet - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/agenda/agenda-des-prochaines-et-les-prochains-mois-a-partir-du-vendredi-31-juillet</link>
@@ -806,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Les studios Marvel ont annoncé la sortie d'un 3e volet pour Black Panther, à l'occasion du Comic-Con de San Diego, samedi 25 juillet. L'acteur britannique David Jonsson tiendra le rôle principal dans le film, dont la sortie est prévue pour ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Sun, 26 Jul 2026 15:44:50 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/3/7/4/7164737-1-fre-FR/97875a755d96-bp3_sdcc_card_v2_2026.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>CNC : plusieurs délibérations publiées au « Journal officiel » - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/cnc-plusieurs-deliberations-publiees-au-journal-officiel</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/cnc-plusieurs-deliberations-publiees-au-journal-officiel</guid>
-      <description>Quatre délibérations modifiant le règlement général des aides financières du CNC ont été publiées au Journal officiel, samedi 25 juillet. Elles ont été votées lors du dernier conseil d'administration du Centre, le 7 juillet, avec en premier lieu la réforme ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Sun, 26 Jul 2026 15:25:37 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/3/7/1/3031738-2-fre-FR/87d704a55b59-X-14.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
