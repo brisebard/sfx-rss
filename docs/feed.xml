@@ -6,8 +6,18 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 30 Jul 2026 19:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 20:37:17 +0000</lastBuildDate>
 
+    <item>
+      <title>Agenda des prochaines et les prochains mois : à partir du vendredi 31 juillet - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/agenda/agenda-des-prochaines-et-les-prochains-mois-a-partir-du-vendredi-31-juillet</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/agenda/agenda-des-prochaines-et-les-prochains-mois-a-partir-du-vendredi-31-juillet</guid>
+      <description>Mercredi 26 août 
+9h30 : Festival de la fiction de La Rochelle, conférence de presse de l’édition 2026 à Paris (puis à 17h30 à La Rochelle)Mardi 1er septembre
+9h30 : France Télévisions, conférence de rentrée des antennes régionalesDu 2 au 12 septembre ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 30 Jul 2026 22:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>NRJ Group : un chiffre d'affaires en repli de 3,5 % au S1, illustration de la baisse des revenus pub de la radio - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/nrj-group-un-chiffre-d-affaires-en-repli-de-3-5-au-s1-illustration-de-la-baisse-des-revenus-pub-de-la-radio</link>
@@ -804,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Quatre délibérations modifiant le règlement général des aides financières du CNC ont été publiées au Journal officiel, samedi 25 juillet. Elles ont été votées lors du dernier conseil d'administration du Centre, le 7 juillet, avec en premier lieu la réforme ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Sun, 26 Jul 2026 15:25:37 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/3/7/1/3031738-2-fre-FR/87d704a55b59-X-14.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Audiences 25/07/2026 : France 3 en tête avec une rediffusion de « Cassandre » ; M6 sous le million - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/audiences-25-07-2026-france-3-en-tete-avec-une-rediffusion-de-cassandre-m6-sous-le-million</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-25-07-2026-france-3-en-tete-avec-une-rediffusion-de-cassandre-m6-sous-le-million</guid>
-      <description>France 3 domine la soirée de samedi avec une rediffusion de Cassandre (Barjac Production), qui fédère 2,59 millions de téléspectateurs pour une pda de 19 %. La semaine dernière, la rediffusion du téléfilm Le Secret de la grotte en avait ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Sun, 26 Jul 2026 09:30:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/5/6/4/7164650-1-fre-FR/aad019ecb670-phototele-1280894_0.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
