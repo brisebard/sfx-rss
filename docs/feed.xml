@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 31 Jul 2026 05:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 08:16:04 +0000</lastBuildDate>
 
+    <item>
+      <title>Audiences 30/07/2026 : "Tom et Lola" sur France 3 en tête ; France 5 en hausse avec "Des trains pas comme les autres" - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/audiences-30-07-2026-tom-et-lola-sur-france-3-en-tete-france-5-en-hausse-avec-des-trains-pas-comme-les-autres</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-30-07-2026-tom-et-lola-sur-france-3-en-tete-france-5-en-hausse-avec-des-trains-pas-comme-les-autres</guid>
+      <description>France 3 s’impose en tête des audiences jeudi soir avec une rediffusion de la série Tom et Lola (DEMD Productions) avec Dounia Coesens et Pierre-Yves Bon, regardée en moyenne par 2,14 millions de téléspectateurs pour 15,8 % de pda, en ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Fri, 31 Jul 2026 09:26:41 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/6/5/9/6109569-1-fre-FR/fc51752aa0a2-tom_et_lola.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : écarté, peak TV, Rajamouli, IA, enquête, LCI - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-ecarte-peak-tv-rajamouli-ia-enquete-lci</link>
@@ -806,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>La juge fédérale californienne Araceli Martinez-Olguin a validé vendredi 24 juillet le report, proposé par Paramount Skydance, de la date limite fixée pour l'acquisition de son concurrent Warner Bros Discovery du 30 septembre au 1er juin 2027. Cette suggestion, soumise ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Sun, 26 Jul 2026 16:06:46 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/2/5/4/6774522-1-fre-FR/761ecfe40f32-AdobeStock_1838674256_Editorial_Use_Only.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Comic-Con : un 3e volet de « Black Panther » pour décembre 2028, avec David Jonsson dans le rôle principal - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/comic-con-un-3e-volet-de-black-panther-pour-decembre-2028-avec-david-jonsson-dans-le-role-principal</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/comic-con-un-3e-volet-de-black-panther-pour-decembre-2028-avec-david-jonsson-dans-le-role-principal</guid>
-      <description>Les studios Marvel ont annoncé la sortie d'un 3e volet pour Black Panther, à l'occasion du Comic-Con de San Diego, samedi 25 juillet. L'acteur britannique David Jonsson tiendra le rôle principal dans le film, dont la sortie est prévue pour ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Sun, 26 Jul 2026 15:44:50 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/3/7/4/7164737-1-fre-FR/97875a755d96-bp3_sdcc_card_v2_2026.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
