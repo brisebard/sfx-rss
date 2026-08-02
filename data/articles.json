@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-kavinsky-hommage-argentique-4k-clooney-tautologie": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-kavinsky-hommage-argentique-4k-clooney-tautologie",
+    "fallback_title": "Au fil des (e)X (tweets) : Kavinsky, hommage, argentique, 4K, Clooney, tautologie...",
+    "title": "Au fil des (e)X (tweets) : Kavinsky, hommage, argentique, 4K, Clooney, tautologie... - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | Le HuffPost @LeHuffPost « Reviens enflure » : Quentin Dupieux célèbre à sa manière la mémoire de KavinskyFrance TV Pro @francetvpro #Événement @FranceTV consacrera à la rentrée une grande soirée en hommage aux pompiers et à la protection de nos ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-08-02CEST23:00:00",
+    "published_iso": "2026-08-02T23:00:00+02:00",
+    "fetched_at": "2026-08-02T21:39:08.592434+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/satellifacts-pause-d-ete3": {
     "url": "https://www.satellifacts.com/news/actualite/satellifacts-pause-d-ete3",
     "fallback_title": "Satellifacts : pause d'été",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-27CEST18:43:55",
     "published_iso": "2026-07-27T18:43:55+02:00",
     "fetched_at": "2026-07-27T16:49:40.418266+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/creation-artistique-une-ppl-prone-l-interdiction-du-recours-aux-animaux-non-domestiques": {
-    "url": "https://www.satellifacts.com/news/actualite/creation-artistique-une-ppl-prone-l-interdiction-du-recours-aux-animaux-non-domestiques",
-    "fallback_title": "Création artistique : une PPL prône l'interdiction du recours aux ...",
-    "title": "Création artistique : une PPL prône l'interdiction du recours aux animaux non domestiques - SATELLIFACTS",
-    "description": "Une proposition de loi (PPL) visant à interdire l’utilisation d’animaux non domestiques dans les créations artistiques, portée par la députée Danielle Simonnet (Ecologiste et Social), a été déposée le 9 juin à l'Assemblée nationale. A défaut de constitution d’une commission ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/5/8/1/6141855-1-fre-FR/022ff644cbed-assemblee_nationale.png",
-    "published_raw": "2026-07-27CEST18:12:09",
-    "published_iso": "2026-07-27T18:12:09+02:00",
-    "fetched_at": "2026-07-27T16:49:42.159750+00:00"
   }
 }
