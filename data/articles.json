@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/interdiction-des-reseaux-sociaux-aux-15-ans-macron-demande-un-nouveau-texte-a-lecornu-apres-la-censure-par-le-conseil-constitutionnel": {
+    "url": "https://www.satellifacts.com/news/actualite/interdiction-des-reseaux-sociaux-aux-15-ans-macron-demande-un-nouveau-texte-a-lecornu-apres-la-censure-par-le-conseil-constitutionnel",
+    "fallback_title": "Interdiction des réseaux sociaux aux -15 ans : Macron demande ...",
+    "title": "Interdiction des réseaux sociaux aux -15 ans : Macron demande un nouveau texte à Lecornu après la censure par le Conseil constitutionnel - SATELLIFACTS",
+    "description": "Emmanuel Macron a chargé Sébastien Lecornu de « travailler » à « une rédaction juridiquement robuste » de l'interdiction des réseaux sociaux aux moins de 15 ans, un engagement présidentiel de longue date, dont la version adoptée au Parlement a ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/5/4/7224527-1-fre-FR/689118a94dd4-54452511637_6b0cf49548_c.jpg",
+    "published_raw": "2026-08-17CEST18:19:09",
+    "published_iso": "2026-08-17T18:19:09+02:00",
+    "fetched_at": "2026-08-17T16:37:25.924967+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/youtube-les-regles-de-monetisation-durcies-a-compter-de-fevrier-2027": {
     "url": "https://www.satellifacts.com/news/actualite/youtube-les-regles-de-monetisation-durcies-a-compter-de-fevrier-2027",
     "fallback_title": "YouTube : les règles de monétisation durcies à compter de ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-28CEST11:51:18",
     "published_iso": "2026-07-28T11:51:18+02:00",
     "fetched_at": "2026-07-28T11:46:49.057139+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/los-angeles-ouverture-le-22-septembre-du-lucas-museum": {
-    "url": "https://www.satellifacts.com/news/actualite/los-angeles-ouverture-le-22-septembre-du-lucas-museum",
-    "fallback_title": "Los Angeles : ouverture le 22 septembre du Lucas Museum",
-    "title": "Los Angeles : ouverture le 22 septembre du Lucas Museum - SATELLIFACTS",
-    "description": "Le Lucas Museum of Narrative Arts va se lancer à Los Angeles avec des pièces inédites issues de la vaste collection du réalisateur George Lucas, notamment des souvenirs de sa saga Star Wars, a annoncé son commissaire d'exposition, Ryan Linkof ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/7/6/6/7166679-1-fre-FR/304463418a0d-opening-cleanup.jpg",
-    "published_raw": "2026-07-28CEST11:50:40",
-    "published_iso": "2026-07-28T11:50:40+02:00",
-    "fetched_at": "2026-07-28T11:46:50.625339+00:00"
   }
 }

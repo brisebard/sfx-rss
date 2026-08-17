@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 17 Aug 2026 15:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 16:37:26 +0000</lastBuildDate>
 
+    <item>
+      <title>Interdiction des réseaux sociaux aux -15 ans : Macron demande un nouveau texte à Lecornu après la censure par le Conseil constitutionnel - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/interdiction-des-reseaux-sociaux-aux-15-ans-macron-demande-un-nouveau-texte-a-lecornu-apres-la-censure-par-le-conseil-constitutionnel</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/interdiction-des-reseaux-sociaux-aux-15-ans-macron-demande-un-nouveau-texte-a-lecornu-apres-la-censure-par-le-conseil-constitutionnel</guid>
+      <description>Emmanuel Macron a chargé Sébastien Lecornu de « travailler » à « une rédaction juridiquement robuste » de l'interdiction des réseaux sociaux aux moins de 15 ans, un engagement présidentiel de longue date, dont la version adoptée au Parlement a ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 17 Aug 2026 18:19:09 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/5/4/7224527-1-fre-FR/689118a94dd4-54452511637_6b0cf49548_c.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>YouTube : les règles de monétisation durcies à compter de février 2027 - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/youtube-les-regles-de-monetisation-durcies-a-compter-de-fevrier-2027</link>
@@ -804,14 +812,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Plusieurs films retenus en compétition pour la 74e édition du Festival de San Sebastián (18 au 26 septembre) ont été dévoilés, mardi 28 juillet. La réalisatrice française Nicole Garcia sera en lice pour la Coquille d'or avec son film 7:40 ce matin-là (Milo), porté ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 28 Jul 2026 11:51:18 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/8/4/0/7220480-1-fre-FR/36f95fdf4c5a-fp_740964_36082.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Los Angeles : ouverture le 22 septembre du Lucas Museum - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/los-angeles-ouverture-le-22-septembre-du-lucas-museum</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/los-angeles-ouverture-le-22-septembre-du-lucas-museum</guid>
-      <description>Le Lucas Museum of Narrative Arts va se lancer à Los Angeles avec des pièces inédites issues de la vaste collection du réalisateur George Lucas, notamment des souvenirs de sa saga Star Wars, a annoncé son commissaire d'exposition, Ryan Linkof ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 28 Jul 2026 11:50:40 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/7/6/6/7166679-1-fre-FR/304463418a0d-opening-cleanup.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
