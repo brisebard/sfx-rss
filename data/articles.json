@@ -1,4 +1,44 @@
 {
+  "https://www.satellifacts.com/news/actualite/hayden-panettiere-deces-de-l-actrice-de-heroes-et-scream-4-a-36-ans": {
+    "url": "https://www.satellifacts.com/news/actualite/hayden-panettiere-deces-de-l-actrice-de-heroes-et-scream-4-a-36-ans",
+    "fallback_title": "Hayden Panettiere : décès de l'actrice de « Heroes » ...",
+    "title": "Hayden Panettiere : décès de l'actrice de « Heroes » et « Scream 4 » à 36 ans - SATELLIFACTS",
+    "description": "L'actrice américaine Hayden Panettiere, connue pour ses rôles dans les séries télévisées Heroes et Nashville, est morte à l'âge de 36 ans, ont rapporté les médias locaux lundi 17 août. Le père de la comédienne a confirmé son décès dans ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/0/3/4/7224308-1-fre-FR/a69667d6e966-Hayden-Panettiere_Scream-1-copie.jpg",
+    "published_raw": "2026-08-17CEST10:53:43",
+    "published_iso": "2026-08-17T10:53:43+02:00",
+    "fetched_at": "2026-08-17T08:59:42.678094+00:00"
+  },
+  "https://www.satellifacts.com/news/actualite/satellifacts-reprise-du-fil-info": {
+    "url": "https://www.satellifacts.com/news/actualite/satellifacts-reprise-du-fil-info",
+    "fallback_title": "Satellifacts : reprise du fil info",
+    "title": "Satellifacts : reprise du fil info - SATELLIFACTS",
+    "description": "Ce lundi 17 août, Satellifacts reprend la publication de son fil d'info que vous pouvez consulter sur le site satellifacts.com ou sur l'appli SatellifactsLe numéro de rentrée sera, quant à lui, publié dès le lundi 24 août au matin.Toute l’équipe de Satellifacts ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/4/3944040-1-fre-FR/8329f7fe9137-logo_s_satellifax_satellifacts.png",
+    "published_raw": "2026-08-17CEST10:49:53",
+    "published_iso": "2026-08-17T10:49:53+02:00",
+    "fetched_at": "2026-08-17T08:59:44.661540+00:00"
+  },
+  "https://www.satellifacts.com/news/actualite/tf1-vers-une-possible-cession-de-studio-tf1": {
+    "url": "https://www.satellifacts.com/news/actualite/tf1-vers-une-possible-cession-de-studio-tf1",
+    "fallback_title": "TF1 : vers une possible cession de Studio TF1",
+    "title": "TF1 : vers une possible cession de Studio TF1 - SATELLIFACTS",
+    "description": "Le groupe TF1 étudierait une possible vente de sa filiale de production et distribution Studio TF1, selon les informations de Reuters et Variety publiées le 3 août. Le groupe français aurait mandaté la banque Rothschild pour organiser l’opération, qui est ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/6/1/6/7006163-1-fre-FR/9d31f1f43c79-presentation_studio_tf1_series_mania_forum_26_mars_2025.png",
+    "published_raw": "2026-08-17CEST10:23:45",
+    "published_iso": "2026-08-17T10:23:45+02:00",
+    "fetched_at": "2026-08-17T08:59:46.796283+00:00"
+  },
+  "https://www.satellifacts.com/news/actualite/netflix-nac-films-films-sous-influence-tournage-du-prochain-film-d-yvan-attal-sur-les-epoux-klarsfeld": {
+    "url": "https://www.satellifacts.com/news/actualite/netflix-nac-films-films-sous-influence-tournage-du-prochain-film-d-yvan-attal-sur-les-epoux-klarsfeld",
+    "fallback_title": "Netflix / NAC Films / Films Sous Influence : tournage ...",
+    "title": "Netflix / NAC Films / Films Sous Influence : tournage du prochain film d’Yvan Attal sur les époux Klarsfeld - SATELLIFACTS",
+    "description": "NAC Films (Antoine Pezet et Jérôme Corcos) et Films Sous Influence (Yvan Attal) débutent lundi 17 août le tournage du film Projet K, dont le titre est encore provisoire, à destination de Netflix. Le film est réalisé par Yvan Attal ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/3/5/6/6136535-2-fre-FR/7d0edb97b030-netflix-logo-copie.png",
+    "published_raw": "2026-08-17CEST09:00:00",
+    "published_iso": "2026-08-17T09:00:00+02:00",
+    "fetched_at": "2026-08-17T08:59:48.907944+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-kavinsky-hommage-argentique-4k-clooney-tautologie": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-kavinsky-hommage-argentique-4k-clooney-tautologie",
     "fallback_title": "Au fil des (e)X (tweets) : Kavinsky, hommage, argentique, 4K, Clooney, tautologie...",
@@ -958,45 +998,5 @@
     "published_raw": "2026-07-27CEST23:00:00",
     "published_iso": "2026-07-27T23:00:00+02:00",
     "fetched_at": "2026-07-27T21:19:30.036571+00:00"
-  },
-  "https://www.satellifacts.com/news/agenda/agenda-mardi-28-et-mercredi-29-juillet": {
-    "url": "https://www.satellifacts.com/news/agenda/agenda-mardi-28-et-mercredi-29-juillet",
-    "fallback_title": "Agenda : mardi 28 et mercredi 29 juillet",
-    "title": "Agenda : mardi 28 et mercredi 29 juillet - SATELLIFACTS",
-    "description": "Mardi 28 et mercredi 29 juillet\nAucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
-    "published_raw": "2026-07-27CEST22:00:00",
-    "published_iso": "2026-07-27T22:00:00+02:00",
-    "fetched_at": "2026-07-27T21:19:31.893288+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/mediamat-hebdo-france-2-au-sommet-grace-au-tour-de-france-les-editions-speciales-sur-les-incendies-tres-suivies": {
-    "url": "https://www.satellifacts.com/news/actualite/mediamat-hebdo-france-2-au-sommet-grace-au-tour-de-france-les-editions-speciales-sur-les-incendies-tres-suivies",
-    "fallback_title": "Médiamat hebdo : France 2 au sommet grâce au Tour de ...",
-    "title": "Médiamat hebdo : France 2 au sommet grâce au Tour de France ; les éditions spéciales sur les incendies très suivies - SATELLIFACTS",
-    "description": "Les audiences de la semaine sont portées par la fin du Tour de France, l'actualité autour des incendies en Gironde et un fort effet de base par rapport à la fin de la Coupe du monde de la Fifa, qui ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/0/5/6/7166502-1-fre-FR/b454e4eef925-TdeF-samedi.png",
-    "published_raw": "2026-07-27CEST19:48:21",
-    "published_iso": "2026-07-27T19:48:21+02:00",
-    "fetched_at": "2026-07-27T18:16:07.124082+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/nbcuniversal-peacock-sera-integre-a-youtube-premium-a-partir-de-2027-aux-etats-unis": {
-    "url": "https://www.satellifacts.com/news/actualite/nbcuniversal-peacock-sera-integre-a-youtube-premium-a-partir-de-2027-aux-etats-unis",
-    "fallback_title": "NBCUniversal : Peacock sera intégré à YouTube Premium à partir ...",
-    "title": "NBCUniversal : Peacock sera intégré à YouTube Premium à partir de 2027 aux Etats-Unis - SATELLIFACTS",
-    "description": "NBCUniversal (Comcast) et YouTube ont conclu un accord stratégique comprenant notamment l'intégration des contenus de la plateforme Peacock à l'offre YouTube Premium aux Etats-Unis.A partir de début 2027, l'accès à Peacock Premium (offre de streaming avec publicité) sera compris dans ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/0/5/6/7166505-1-fre-FR/c521a3be98ef-YouTubePeacock_0.jpg",
-    "published_raw": "2026-07-27CEST19:44:43",
-    "published_iso": "2026-07-27T19:44:43+02:00",
-    "fetched_at": "2026-07-27T18:16:08.909078+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/disney-la-serie-francaise-surveillant-!-lancee-le-16-septembre": {
-    "url": "https://www.satellifacts.com/news/actualite/disney-la-serie-francaise-surveillant-!-lancee-le-16-septembre",
-    "fallback_title": "Disney+ : la série française \"Surveillant !\" lancée le 16 ...",
-    "title": "Disney+ : la série française \"Surveillant !\" lancée le 16 septembre - SATELLIFACTS",
-    "description": "Disney+ lancera le 16 septembre la série française Surveillant !, a annoncé la plateforme le 27 juillet. Cette comédie produite par Nabi Productions (UGC), créée par John Wax et Gauthier Plancquaert, est réalisée par John Wax.La série s'intéresse au quotidien ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/6/8/9/5/7165986-1-fre-FR/36db8a8e9338-unnamed-2026-07-27T174133.018.jpg",
-    "published_raw": "2026-07-27CEST18:43:55",
-    "published_iso": "2026-07-27T18:43:55+02:00",
-    "fetched_at": "2026-07-27T16:49:40.418266+00:00"
   }
 }
