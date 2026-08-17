@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/netflix-mandarin-tv-kallouche-cinema-tournage-de-l-adaptation-de-la-vie-scolaire-en-serie": {
+    "url": "https://www.satellifacts.com/news/actualite/netflix-mandarin-tv-kallouche-cinema-tournage-de-l-adaptation-de-la-vie-scolaire-en-serie",
+    "fallback_title": "Netflix / Mandarin TV / Kallouche Cinéma : tournage de ...",
+    "title": "Netflix / Mandarin TV / Kallouche Cinéma : tournage de l'adaptation de « La Vie scolaire » en série - SATELLIFACTS",
+    "description": "Mandarin TV et Kallouche Cinéma ont débuté le tournage en Ile de France de l'adaptation en série du long métrage La Vie scolaire pour Netflix, a annoncé la plateforme lundi 17 août. La série en 8 x 40’ est réalisée ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/8/4/4/7224482-1-fre-FR/aea2d0e1d5e7-lvs.jpg",
+    "published_raw": "2026-08-17CEST16:02:43",
+    "published_iso": "2026-08-17T16:02:43+02:00",
+    "fetched_at": "2026-08-17T14:13:32.693860+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/locarno-2026-le-leopard-d-or-pour-un-film-roumain-monica-bellucci-et-hong-sangsoo-primes": {
     "url": "https://www.satellifacts.com/news/actualite/locarno-2026-le-leopard-d-or-pour-un-film-roumain-monica-bellucci-et-hong-sangsoo-primes",
     "fallback_title": "Locarno 2026 : le Léopard d'or pour un film roumain, ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-28CEST11:00:00",
     "published_iso": "2026-07-28T11:00:00+02:00",
     "fetched_at": "2026-07-28T09:44:34.027583+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/guillaume-duchemin-la-femis-l-international-est-un-levier-d-exportation-de-notre-savoir-faire": {
-    "url": "https://www.satellifacts.com/news/actualite/guillaume-duchemin-la-femis-l-international-est-un-levier-d-exportation-de-notre-savoir-faire",
-    "fallback_title": "Guillaume Duchemin (La Fémis) : « L’international est un levier d’exportation de ...",
-    "title": "Guillaume Duchemin (La Fémis) : « L’international est un levier d’exportation de notre savoir-faire » - SATELLIFACTS",
-    "description": "Un peu moins d’un an après sa prise de fonctions le 19 septembre 2025, le directeur général de La Fémis dresse pour Satellifacts Magazine un premier bilan d’exercice particulièrement dense. Entre le lancement de nouvelles formations, l’accélération à l’international, le rapprochement ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/4/9/5/7165941-1-fre-FR/b0bc5a368ab4-Capture-d-e-cran-2026-07-27-a-17.38.12.png",
-    "published_raw": "2026-07-28CEST10:00:00",
-    "published_iso": "2026-07-28T10:00:00+02:00",
-    "fetched_at": "2026-07-28T09:44:35.846928+00:00"
   }
 }

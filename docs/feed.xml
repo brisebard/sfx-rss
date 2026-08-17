@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 17 Aug 2026 13:48:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 14:13:33 +0000</lastBuildDate>
 
+    <item>
+      <title>Netflix / Mandarin TV / Kallouche Cinéma : tournage de l'adaptation de « La Vie scolaire » en série - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/netflix-mandarin-tv-kallouche-cinema-tournage-de-l-adaptation-de-la-vie-scolaire-en-serie</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/netflix-mandarin-tv-kallouche-cinema-tournage-de-l-adaptation-de-la-vie-scolaire-en-serie</guid>
+      <description>Mandarin TV et Kallouche Cinéma ont débuté le tournage en Ile de France de l'adaptation en série du long métrage La Vie scolaire pour Netflix, a annoncé la plateforme lundi 17 août. La série en 8 x 40’ est réalisée ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 17 Aug 2026 16:02:43 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/8/4/4/7224482-1-fre-FR/aea2d0e1d5e7-lvs.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Locarno 2026 : le Léopard d'or pour un film roumain, Monica Bellucci et Hong Sangsoo primés - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/locarno-2026-le-leopard-d-or-pour-un-film-roumain-monica-bellucci-et-hong-sangsoo-primes</link>
@@ -804,14 +812,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Bienvenue dans le Triangle d’or à Paris, périmètre réservé aux ultra-riches. Dans un vaste hôtel particulier, Laura (Malou Khebizi) vient d’être embauchée au service de Souria (Soundos Mosbah), la maîtresse d’un prince saoudien. Issue d’un milieu défavorisé, la jeune femme ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 28 Jul 2026 11:00:00 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/6/4/5/7165469-1-fre-FR/d1d4546e00c4-LETRIANGLEDOR_HD.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Guillaume Duchemin (La Fémis) : « L’international est un levier d’exportation de notre savoir-faire » - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/guillaume-duchemin-la-femis-l-international-est-un-levier-d-exportation-de-notre-savoir-faire</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/guillaume-duchemin-la-femis-l-international-est-un-levier-d-exportation-de-notre-savoir-faire</guid>
-      <description>Un peu moins d’un an après sa prise de fonctions le 19 septembre 2025, le directeur général de La Fémis dresse pour Satellifacts Magazine un premier bilan d’exercice particulièrement dense. Entre le lancement de nouvelles formations, l’accélération à l’international, le rapprochement ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 28 Jul 2026 10:00:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/4/9/5/7165941-1-fre-FR/b0bc5a368ab4-Capture-d-e-cran-2026-07-27-a-17.38.12.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
