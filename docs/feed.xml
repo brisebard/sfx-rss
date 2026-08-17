@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 17 Aug 2026 14:13:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 14:47:15 +0000</lastBuildDate>
 
+    <item>
+      <title>YouTube : les règles de monétisation durcies à compter de février 2027 - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/youtube-les-regles-de-monetisation-durcies-a-compter-de-fevrier-2027</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/youtube-les-regles-de-monetisation-durcies-a-compter-de-fevrier-2027</guid>
+      <description>Il sera plus difficile de tirer des revenus de YouTube à compter du 1er février 2027. L’hébergeur de vidéos, filiale de Google, a annoncé, le 10 août dernier, un durcissement de ses règles concernant la monétisation des vidéos et une ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 17 Aug 2026 16:11:03 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/1/7/4/7124711-1-fre-FR/84c6d3dce07f-AdobeStock_389011180_Editorial_Use_Only.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>Netflix / Mandarin TV / Kallouche Cinéma : tournage de l'adaptation de « La Vie scolaire » en série - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/netflix-mandarin-tv-kallouche-cinema-tournage-de-l-adaptation-de-la-vie-scolaire-en-serie</link>
@@ -804,14 +812,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Le Lucas Museum of Narrative Arts va se lancer à Los Angeles avec des pièces inédites issues de la vaste collection du réalisateur George Lucas, notamment des souvenirs de sa saga Star Wars, a annoncé son commissaire d'exposition, Ryan Linkof ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 28 Jul 2026 11:50:40 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/7/6/6/7166679-1-fre-FR/304463418a0d-opening-cleanup.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Dans les coulisses des films : « Le Triangle d’or » d’Hélène Rosselet-Ruiz (Sortie le 29 juillet) - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/dans-les-coulisses-des-films-le-triangle-d-or-d-helene-rosselet-ruiz-sortie-le-29-juillet</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/dans-les-coulisses-des-films-le-triangle-d-or-d-helene-rosselet-ruiz-sortie-le-29-juillet</guid>
-      <description>Bienvenue dans le Triangle d’or à Paris, périmètre réservé aux ultra-riches. Dans un vaste hôtel particulier, Laura (Malou Khebizi) vient d’être embauchée au service de Souria (Soundos Mosbah), la maîtresse d’un prince saoudien. Issue d’un milieu défavorisé, la jeune femme ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 28 Jul 2026 11:00:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/6/4/5/7165469-1-fre-FR/d1d4546e00c4-LETRIANGLEDOR_HD.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
