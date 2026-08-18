@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 18 Aug 2026 09:05:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:45:32 +0000</lastBuildDate>
 
+    <item>
+      <title>Rachat de Warner : Paramount réclame 1,9 Md$ aux Etats qui attaquent la procédure en justice - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/rachat-de-warner-paramount-reclame-1-9-md-aux-etats-qui-attaquent-la-procedure-en-justice</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/rachat-de-warner-paramount-reclame-1-9-md-aux-etats-qui-attaquent-la-procedure-en-justice</guid>
+      <description>Paramount Skydance réclame aux Etats américains s'opposant à son rachat de Warner Bros. Discovery une caution monumentale de quasiment 1,9 milliard de dollars (1,6 Md€), pour couvrir les pertes financières engendrées par la procédure, selon des documents judiciaires déposés lundi ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 18 Aug 2026 11:35:07 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/4/8/3/6733845-1-fre-FR/3dddb20a3dc7-AdobeStock_1016572099_Editorial_Use_Only.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Dans les coulisses des films/« Fjord » de Cristian Mungiu : Le Pacte sort la Palme d'or sur 270 copies - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/dans-les-coulisses-des-films-fjord-de-cristian-mungiu-le-pacte-sort-la-palme-d-or-sur-270-copies</link>
@@ -804,14 +812,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Orange a dégagé un bénéfice net de 3,555 milliards d'euros et un résultat net ajusté à 1,35 Md€, en progression de 11,8 %, au premier semestre 2026, selon les résultats publiés mardi 28 juillet. Un an auparavant, l'entreprise avait accusé ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 28 Jul 2026 12:55:02 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/7/0/0/6760070-2-fre-FR/dcf1050a7421-iStock-1354846623-copie.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Canal+ : chiffre d'affaires 1S en hausse de 40% grâce à MultiChoice ; 41 M d'abonnés dans plus de 70 pays - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/canal-chiffre-d-affaires-1s-en-hausse-de-40-grace-a-multichoice-41-m-d-abonnes-dans-plus-de-70-pays</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/canal-chiffre-d-affaires-1s-en-hausse-de-40-grace-a-multichoice-41-m-d-abonnes-dans-plus-de-70-pays</guid>
-      <description>Le groupe Canal+ a publié mardi 28 juillet de solides résultats semestriels avec "une amélioration de la profitabilité et de la génération de trésorerie". Le redressement de l'opérateur sud-africain  MultiChoice, leader de la télévision payante en Afrique anglophone et lusophone ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 28 Jul 2026 12:52:51 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/4/8/6/7076846-1-fre-FR/a185341c1289-CANAL-01.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
