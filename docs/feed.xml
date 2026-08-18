@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 18 Aug 2026 14:22:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 14:59:59 +0000</lastBuildDate>
 
+    <item>
+      <title>Disney / ABC : action en justice contre la FCC qui souhaite réexaminer les licences de huit chaînes du réseau - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/disney-abc-action-en-justice-contre-la-fcc-qui-souhaite-reexaminer-les-licences-de-huit-chaines-du-reseau</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/disney-abc-action-en-justice-contre-la-fcc-qui-souhaite-reexaminer-les-licences-de-huit-chaines-du-reseau</guid>
+      <description>ABC, réseau de télévision américain filiale de Disney, a intenté mardi 18 août une action en justice contre la Federal Communications Commission, régulateur des médias et télécoms, accusant l'administration de ne pas respecter le premier amendement de la constitution, qui ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 18 Aug 2026 16:22:03 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/3/1/5/7225136-1-fre-FR/dc346025e43e-AdobeStock_683108122_Editorial_Use_Only.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>Disney / TikTok : accord permettant aux créateurs de la plateforme d’utiliser l’univers du groupe - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/disney-tiktok-accord-permettant-aux-createurs-de-la-plateforme-d-utiliser-l-univers-du-groupe</link>
@@ -804,14 +812,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>TVMonaco assurera la production et la diffusion de la première édition du Monaco Athletics Festival, nouveau rendez-vous international de saut en hauteur qui sera organisé le mercredi 5 août, a indiqué la chaîne, mardi 28 juillet. La chaîne consacrera « plus d’1h30 d’antenne » à cet événement ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 28 Jul 2026 16:19:59 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/7/5/0/7220576-1-fre-FR/c09c001f95c8-Monaco-2.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>UGC Les Halles : « Le directeur fait son cinéma » revient pour une 5e saison du 3 au 14 août - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/ugc-les-halles-le-directeur-fait-son-cinema-revient-pour-une-5e-saison-du-3-au-14-aout</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/ugc-les-halles-le-directeur-fait-son-cinema-revient-pour-une-5e-saison-du-3-au-14-aout</guid>
-      <description>L'UGC Les Halles va accueillir du 3 au 14 août la 5e saison de l'événement estival « Le directeur fait son cinéma », qui présente depuis 2022 une sélection de films projetés et introduits par des masterclasses de Patrice Le Marchand, le directeur ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 28 Jul 2026 14:59:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/6/7/0/7220763-1-fre-FR/f04bea842acb-unnamed.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
