@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/arp-le-depart-du-delegue-general-mathieu-ripka-prelude-a-une-reorganisation": {
+    "url": "https://www.satellifacts.com/news/actualite/arp-le-depart-du-delegue-general-mathieu-ripka-prelude-a-une-reorganisation",
+    "fallback_title": "ARP : le départ du délégué général Mathieu Ripka prélude ...",
+    "title": "ARP : le départ du délégué général Mathieu Ripka prélude à une réorganisation - SATELLIFACTS",
+    "description": "Mathieu Ripka, délégué général de l'ARP, la Société civile des Auteurs Réalisateurs Producteurs, a quitté son poste le 30 juin dernier, soit deux ans après sa nomination en juillet 2024 (Satellifacts, le 2 juillet 2024). \"C'est la fin d'une mission ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/7/0/1/6051071-1-fre-FR/6c69100ea634-mathieu_ripka.png",
+    "published_raw": "2026-08-18CEST13:05:16",
+    "published_iso": "2026-08-18T13:05:16+02:00",
+    "fetched_at": "2026-08-18T11:10:55.131844+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/rachat-de-warner-paramount-reclame-1-9-md-aux-etats-qui-attaquent-la-procedure-en-justice": {
     "url": "https://www.satellifacts.com/news/actualite/rachat-de-warner-paramount-reclame-1-9-md-aux-etats-qui-attaquent-la-procedure-en-justice",
     "fallback_title": "Rachat de Warner : Paramount réclame 1,9 Md$ aux Etats ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-28CEST12:55:02",
     "published_iso": "2026-07-28T12:55:02+02:00",
     "fetched_at": "2026-07-28T11:46:45.975601+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/orange-retour-aux-benefices-au-premier-semestre-2026-et-a-un-resultat-net-ajuste-a-11-8": {
-    "url": "https://www.satellifacts.com/news/actualite/orange-retour-aux-benefices-au-premier-semestre-2026-et-a-un-resultat-net-ajuste-a-11-8",
-    "fallback_title": "Orange : retour aux bénéfices au premier semestre 2026 et ...",
-    "title": "Orange : retour aux bénéfices au premier semestre 2026 et à un résultat net ajusté à +11,8 % - SATELLIFACTS",
-    "description": "Orange a dégagé un bénéfice net de 3,555 milliards d'euros et un résultat net ajusté à 1,35 Md€, en progression de 11,8 %, au premier semestre 2026, selon les résultats publiés mardi 28 juillet. Un an auparavant, l'entreprise avait accusé ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/7/0/0/6760070-2-fre-FR/dcf1050a7421-iStock-1354846623-copie.png",
-    "published_raw": "2026-07-28CEST12:55:02",
-    "published_iso": "2026-07-28T12:55:02+02:00",
-    "fetched_at": "2026-07-28T13:21:28.874825+00:00"
   }
 }
