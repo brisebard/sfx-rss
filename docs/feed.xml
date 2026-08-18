@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 18 Aug 2026 08:28:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:05:03 +0000</lastBuildDate>
 
+    <item>
+      <title>Dans les coulisses des films/« Fjord » de Cristian Mungiu : Le Pacte sort la Palme d'or sur 270 copies - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/dans-les-coulisses-des-films-fjord-de-cristian-mungiu-le-pacte-sort-la-palme-d-or-sur-270-copies</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/dans-les-coulisses-des-films-fjord-de-cristian-mungiu-le-pacte-sort-la-palme-d-or-sur-270-copies</guid>
+      <description>Mercredi 19 août, la sortie en salles de la Palme d'or du festival de Cannes 2026, "Fjord" de Cristian Mungiu, ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 18 Aug 2026 10:45:22 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/3/5/4/7224530-1-fre-FR/54c4a827f845-Affiche-FJORD.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Interdiction des réseaux sociaux aux -15 ans : Macron demande un nouveau texte à Lecornu après la censure par le Conseil constitutionnel - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/interdiction-des-reseaux-sociaux-aux-15-ans-macron-demande-un-nouveau-texte-a-lecornu-apres-la-censure-par-le-conseil-constitutionnel</link>
@@ -804,14 +812,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Le groupe Canal+ a publié mardi 28 juillet de solides résultats semestriels avec "une amélioration de la profitabilité et de la génération de trésorerie". Le redressement de l'opérateur sud-africain  MultiChoice, leader de la télévision payante en Afrique anglophone et lusophone ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 28 Jul 2026 12:52:51 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/4/8/6/7076846-1-fre-FR/a185341c1289-CANAL-01.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>San Sebastián 2026 : Nicole Garcia en compétition avec « 7:40 ce matin-là » - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/san-sebastian-2026-nicole-garcia-en-competition-avec-7-40-ce-matin-la</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/san-sebastian-2026-nicole-garcia-en-competition-avec-7-40-ce-matin-la</guid>
-      <description>Plusieurs films retenus en compétition pour la 74e édition du Festival de San Sebastián (18 au 26 septembre) ont été dévoilés, mardi 28 juillet. La réalisatrice française Nicole Garcia sera en lice pour la Coquille d'or avec son film 7:40 ce matin-là (Milo), porté ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 28 Jul 2026 11:51:18 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/8/4/0/7220480-1-fre-FR/36f95fdf4c5a-fp_740964_36082.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

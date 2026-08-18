@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/dans-les-coulisses-des-films-fjord-de-cristian-mungiu-le-pacte-sort-la-palme-d-or-sur-270-copies": {
+    "url": "https://www.satellifacts.com/news/actualite/dans-les-coulisses-des-films-fjord-de-cristian-mungiu-le-pacte-sort-la-palme-d-or-sur-270-copies",
+    "fallback_title": "Dans les coulisses des films/« Fjord » de Cristian Mungiu ...",
+    "title": "Dans les coulisses des films/« Fjord » de Cristian Mungiu : Le Pacte sort la Palme d'or sur 270 copies - SATELLIFACTS",
+    "description": "Mercredi 19 août, la sortie en salles de la Palme d'or du festival de Cannes 2026, \"Fjord\" de Cristian Mungiu, ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/3/5/4/7224530-1-fre-FR/54c4a827f845-Affiche-FJORD.jpg",
+    "published_raw": "2026-08-18CEST10:45:22",
+    "published_iso": "2026-08-18T10:45:22+02:00",
+    "fetched_at": "2026-08-18T09:05:02.271219+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/interdiction-des-reseaux-sociaux-aux-15-ans-macron-demande-un-nouveau-texte-a-lecornu-apres-la-censure-par-le-conseil-constitutionnel": {
     "url": "https://www.satellifacts.com/news/actualite/interdiction-des-reseaux-sociaux-aux-15-ans-macron-demande-un-nouveau-texte-a-lecornu-apres-la-censure-par-le-conseil-constitutionnel",
     "fallback_title": "Interdiction des réseaux sociaux aux -15 ans : Macron demande ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-28CEST12:52:51",
     "published_iso": "2026-07-28T12:52:51+02:00",
     "fetched_at": "2026-07-28T11:46:47.484902+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/san-sebastian-2026-nicole-garcia-en-competition-avec-7-40-ce-matin-la": {
-    "url": "https://www.satellifacts.com/news/actualite/san-sebastian-2026-nicole-garcia-en-competition-avec-7-40-ce-matin-la",
-    "fallback_title": "San Sebastián 2026 : Nicole Garcia en compétition avec « 7:40 ce matin-là »",
-    "title": "San Sebastián 2026 : Nicole Garcia en compétition avec « 7:40 ce matin-là » - SATELLIFACTS",
-    "description": "Plusieurs films retenus en compétition pour la 74e édition du Festival de San Sebastián (18 au 26 septembre) ont été dévoilés, mardi 28 juillet. La réalisatrice française Nicole Garcia sera en lice pour la Coquille d'or avec son film 7:40 ce matin-là (Milo), porté ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/8/4/0/7220480-1-fre-FR/36f95fdf4c5a-fp_740964_36082.jpg",
-    "published_raw": "2026-07-28CEST11:51:18",
-    "published_iso": "2026-07-28T11:51:18+02:00",
-    "fetched_at": "2026-07-28T11:46:49.057139+00:00"
   }
 }
