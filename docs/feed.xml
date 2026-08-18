@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 18 Aug 2026 11:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:41:27 +0000</lastBuildDate>
 
+    <item>
+      <title>Disney+ / DAZN : obtention des droits des LALIGA jusqu'en 2029 - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/disney-dazn-obtention-des-droits-des-laliga-jusqu-en-2029</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/disney-dazn-obtention-des-droits-des-laliga-jusqu-en-2029</guid>
+      <description>Après 14 saisons sur beIN Sports, LALIGA espagnole est pour la première fois diffusée en France uniquement sur des plateformes, en basculant dans l’escarcelle de DAZN et Disney+.Depuis le 15 août, date de lancement de la saison 2026-2027, et jusqu’à ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 18 Aug 2026 13:12:16 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/3/8/4/7224833-1-fre-FR/d259a6d5060b-AdobeStock_2153606986_Editorial_Use_Only.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>ARP : le départ du délégué général Mathieu Ripka prélude à une réorganisation - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/arp-le-depart-du-delegue-general-mathieu-ripka-prelude-a-une-reorganisation</link>
@@ -804,14 +812,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>La Ficam et France VFX ont appelé, mardi 28 juillet, à mettre en œuvre "dans la perspective des prochaines échéances budgétaires et législatives" les recommandations du député Denis Masséglia (EPR) concernant le crédit d'impôt international (C2I) "afin de préserver l’attractivité ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 28 Jul 2026 12:58:04 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/3/1/3/6753136-1-fre-FR/2e8ee1ea70b4-AdobeStock_275338541.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Orange : retour aux bénéfices au premier semestre et à un résultat net ajusté à +11,8 % - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/orange-retour-aux-benefices-au-premier-semestre-et-a-un-resultat-net-ajuste-a-11-8</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/orange-retour-aux-benefices-au-premier-semestre-et-a-un-resultat-net-ajuste-a-11-8</guid>
-      <description>Orange a dégagé un bénéfice net de 3,555 milliards d'euros et un résultat net ajusté à 1,35 Md€, en progression de 11,8 %, au premier semestre 2026, selon les résultats publiés mardi 28 juillet. Un an auparavant, l'entreprise avait accusé ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 28 Jul 2026 12:55:02 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/7/0/0/6760070-2-fre-FR/dcf1050a7421-iStock-1354846623-copie.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
