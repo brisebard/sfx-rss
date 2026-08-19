@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/didier-decoin-mort-de-l-ecrivain-et-scenariste-a-l-age-de-81-ans": {
+    "url": "https://www.satellifacts.com/news/actualite/didier-decoin-mort-de-l-ecrivain-et-scenariste-a-l-age-de-81-ans",
+    "fallback_title": "Didier Decoin : mort de l'écrivain et scénariste à l'âge ...",
+    "title": "Didier Decoin : mort de l'écrivain et scénariste à l'âge de 81 ans - SATELLIFACTS",
+    "description": "L'écrivain et scénariste Didier Decoin est décédé à l'âge de 81 ans le 5 août, à l'hôpital de Villejuif, dans le Val-de-Marne, \"après s'être battu avec force et courage contre le cancer\", a indiqué son fils Julien Decoin. Ce passionné ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/5/6/0/3390650-1-fre-FR/c5489f7aedf9-didier_decoin.jpg",
+    "published_raw": "2026-08-19CEST16:16:23",
+    "published_iso": "2026-08-19T16:16:23+02:00",
+    "fetched_at": "2026-08-19T14:56:56.096077+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/mpa-accord-avec-bytedance-tiktok-pour-proteger-la-propriete-intellectuelle-sur-les-modeles-d-ia-generative-du-groupe": {
     "url": "https://www.satellifacts.com/news/actualite/mpa-accord-avec-bytedance-tiktok-pour-proteger-la-propriete-intellectuelle-sur-les-modeles-d-ia-generative-du-groupe",
     "fallback_title": "MPA : accord avec ByteDance (TikTok) pour protéger la propriété ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-28CEST18:57:11",
     "published_iso": "2026-07-28T18:57:11+02:00",
     "fetched_at": "2026-07-28T17:09:26.976722+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/incendies-en-gironde-les-medias-multiplient-les-editions-speciales-et-les-dispositifs-d-aide": {
-    "url": "https://www.satellifacts.com/news/actualite/incendies-en-gironde-les-medias-multiplient-les-editions-speciales-et-les-dispositifs-d-aide",
-    "fallback_title": "Incendies en Gironde : les médias multiplient les éditions spéciales ...",
-    "title": "Incendies en Gironde : les médias multiplient les éditions spéciales et les dispositifs d’aide - SATELLIFACTS",
-    "description": "Les éditions spéciales que les journaux télévisés et les chaînes info ont consacrées, lundi 27 juillet, aux incendies qui ravagent la Nouvelle-Aquitaine depuis le 22 juillet, notamment en Gironde et dans les Landes, ont de nouveau été très suivies, selon les chiffres publiés ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/1/2/1/7221218-1-fre-FR/3fe784d93e41-Marteau-2.png",
-    "published_raw": "2026-07-28CEST18:51:37",
-    "published_iso": "2026-07-28T18:51:37+02:00",
-    "fetched_at": "2026-07-28T17:09:28.762846+00:00"
   }
 }
