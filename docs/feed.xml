@@ -6,7 +6,7 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 15:34:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:01:02 +0000</lastBuildDate>
 
     <item>
       <title>EXCLU – Box-office, 14h Paris/périphérie : « Fjord » fait mieux que les précédentes Palmes d'or - SATELLIFACTS</title>
@@ -21,6 +21,14 @@
       <link>https://www.satellifacts.com/news/actualite/toni-comiti-prod.-arrestation-au-togo-de-deux-realisateurs-en-tournage-de-la-collection-documentaire-les-routes-de-l-impossible-france-5</link>
       <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/toni-comiti-prod.-arrestation-au-togo-de-deux-realisateurs-en-tournage-de-la-collection-documentaire-les-routes-de-l-impossible-france-5</guid>
       <description>Deux réalisateurs français travaillant pour la société de production Tony Comiti ont été arrêtés le 27 juillet au Togo, où ils sont actuellement détenus, selon des informations de médias locaux confirmées à l'AFP le 18 août au soir par le ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 19 Aug 2026 17:12:30 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/1/8/4/5564819-1-fre-FR/5252ac0e1ed0-tony_comiti_productions.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Tony Comiti Prod. : arrestation au Togo de deux réalisateurs en tournage de la collection documentaire « Les Routes de l’impossible » (France 5) - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/tony-comiti-prod.-arrestation-au-togo-de-deux-realisateurs-en-tournage-de-la-collection-documentaire-les-routes-de-l-impossible-france-5</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/tony-comiti-prod.-arrestation-au-togo-de-deux-realisateurs-en-tournage-de-la-collection-documentaire-les-routes-de-l-impossible-france-5</guid>
+      <description>Deux réalisateurs français travaillant pour la société de production Tony Comiti ont été arrêtés le 27 juillet au Togo, où ils sont actuellement détenus, selon des informations de médias locaux confirmées à l’AFP le 18 août au soir par le ministère français ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 19 Aug 2026 17:12:30 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/1/8/4/5564819-1-fre-FR/5252ac0e1ed0-tony_comiti_productions.png" type="image/jpeg" />
     </item>
@@ -803,15 +811,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>ACCÈS LIBRE | Nour-Eddine Zidane @NZidane [Message de service] - Comme ça va repartir pour un tour, je reprécise que je n’ai aucun lien direct avec Zinedine Zidane. Inutile de me suivre pour avoir des indiscrétions, vous ne trouverez que des mauvaises vannes ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 28 Jul 2026 23:00:00 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Agenda : mercredi 29 et jeudi 30 juillet - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/agenda/agenda-mercredi-29-et-jeudi-30-juillet</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/agenda/agenda-mercredi-29-et-jeudi-30-juillet</guid>
-      <description>Mercredi 29 et jeudi 30 juillet
-Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 28 Jul 2026 22:00:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
