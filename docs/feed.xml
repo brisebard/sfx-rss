@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 16:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:40:30 +0000</lastBuildDate>
 
+    <item>
+      <title>Nicolas Altmayer : ouverture d'une information judiciaire pour "homicide involontaire" - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/nicolas-altmayer-ouverture-d-une-information-judiciaire-pour-homicide-involontaire</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/nicolas-altmayer-ouverture-d-une-information-judiciaire-pour-homicide-involontaire</guid>
+      <description>Une information judiciaire pour "homicide involontaire par conducteur" a été ouverte mercredi 19 août après l'accident routier dans les Deux-Sèvres qui, le 17 août, a coûté la vie au producteur Nicolas Altmayer (Mandarin &amp; Compagnie) et à sa compagne Mathilde ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 19 Aug 2026 18:16:57 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/4/0/5/7225049-1-fre-FR/5997ac19a644-VS-YouTube-CannesStreamersForumNetflixFranceExclusiveHowtoProducewithStreamingServicesinFrance-YouTube-24-28-.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EXCLU – Box-office, 14h Paris/périphérie : « Fjord » fait mieux que les précédentes Palmes d'or - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/exclu-box-office-14h-paris-peripherie-fjord-fait-mieux-que-les-precedentes-palmes-d-or</link>
@@ -803,14 +811,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Fin juin, le Spect annonçait, parallèlement au renouvellement pour deux ans de son bureau, la création d’une nouvelle commission consacrée à la creator economy, « Créateurs &amp; Industries émergentes », présidée par le producteur David Bensoussan (Goldenia Studios, Satellifacts, 29 juin).Un moyen supplémentaire ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 29 Jul 2026 07:00:00 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/3/8/7/7097835-1-fre-FR/ce3752b89e95-Capture-d-e-cran-2026-06-01-a-16.18.55.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Au fil des (e)X (tweets) : Zidane, région, Carpates, grand huit, "Severance"... - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-zidane-region-carpates-grand-huit-severance</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-zidane-region-carpates-grand-huit-severance</guid>
-      <description>ACCÈS LIBRE | Nour-Eddine Zidane @NZidane [Message de service] - Comme ça va repartir pour un tour, je reprécise que je n’ai aucun lien direct avec Zinedine Zidane. Inutile de me suivre pour avoir des indiscrétions, vous ne trouverez que des mauvaises vannes ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 28 Jul 2026 23:00:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
