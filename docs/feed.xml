@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 17:28:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:58:02 +0000</lastBuildDate>
 
+    <item>
+      <title>RTL :  Nouvelle émission pour Flavie Flament et fin de son duo santé avec Jimmy Mohamed - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/rtl-nouvelle-emission-pour-flavie-flament-et-fin-de-son-duo-sante-avec-jimmy-mohamed</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/rtl-nouvelle-emission-pour-flavie-flament-et-fin-de-son-duo-sante-avec-jimmy-mohamed</guid>
+      <description>RTL a annoncé jeudi 20 août avoir confié à Flavie Flament et Olivier Dauvers une nouvelle émission du week-end sur le pouvoir d'achat, Satisfait ou remboursé, mettant fin au duo hebdomadaire sur la santé entre l'animatrice et le Dr Jimmy ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 20 Aug 2026 19:34:18 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/8/6408827-1-fre-FR/cc47c70d7407-logo_rtl.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Dominique Frot : la comédienne est décédée à l’âge de 68 ans - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/dominique-frot-la-comedienne-est-decedee-a-l-age-de-68-ans</link>
@@ -803,14 +811,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Démarrage tonitruant pour Spider-Man : Brand New Day de Destin Daniel Cretton (Sony Pictures), qui s’impose sans pitié en tête du 14h Paris/périphérie (séances jusqu’à 14h59) mercredi 29 juillet, avec 36 189 entrées sur 270 séances, soit la meilleure moyenne (134).Le blockbuster réalise le meilleur démarrage de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 29 Jul 2026 16:53:43 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/2/6/3/7163621-1-fre-FR/0e3b2e10da08-Capture-d-ecran-2026-07-24-112834.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Toronto International Film Festival : Isabelle Huppert parmi les lauréats des TIFF Tribute Awards - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/toronto-international-film-festival-isabelle-huppert-parmi-les-laureats-des-tiff-tribute-awards</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/toronto-international-film-festival-isabelle-huppert-parmi-les-laureats-des-tiff-tribute-awards</guid>
-      <description>La comédienne française Isabelle Huppert fait partie des cinq lauréats des TIFF Tribute Awards, prix honorifiques remis lors d’une soirée de gala le 13 septembre dans le cadre du Toronto International Film Festival (10 au 20 septembre), ont annoncé les organisateurs, mercredi 29 juillet. Elle ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 29 Jul 2026 16:31:34 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/9/8/1/7221893-1-fre-FR/17f5683288e0-comms-tribute2026-02.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

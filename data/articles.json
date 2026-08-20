@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/rtl-nouvelle-emission-pour-flavie-flament-et-fin-de-son-duo-sante-avec-jimmy-mohamed": {
+    "url": "https://www.satellifacts.com/news/actualite/rtl-nouvelle-emission-pour-flavie-flament-et-fin-de-son-duo-sante-avec-jimmy-mohamed",
+    "fallback_title": "RTL : Nouvelle émission pour Flavie Flament et fin de ...",
+    "title": "RTL :  Nouvelle émission pour Flavie Flament et fin de son duo santé avec Jimmy Mohamed - SATELLIFACTS",
+    "description": "RTL a annoncé jeudi 20 août avoir confié à Flavie Flament et Olivier Dauvers une nouvelle émission du week-end sur le pouvoir d'achat, Satisfait ou remboursé, mettant fin au duo hebdomadaire sur la santé entre l'animatrice et le Dr Jimmy ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/8/6408827-1-fre-FR/cc47c70d7407-logo_rtl.png",
+    "published_raw": "2026-08-20CEST19:34:18",
+    "published_iso": "2026-08-20T19:34:18+02:00",
+    "fetched_at": "2026-08-20T17:58:01.189227+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/dominique-frot-la-comedienne-est-decedee-a-l-age-de-68-ans": {
     "url": "https://www.satellifacts.com/news/actualite/dominique-frot-la-comedienne-est-decedee-a-l-age-de-68-ans",
     "fallback_title": "Dominique Frot : la comédienne est décédée à l’âge de 68 ans",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-29CEST16:53:43",
     "published_iso": "2026-07-29T16:53:43+02:00",
     "fetched_at": "2026-07-29T16:04:45.499038+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/toronto-international-film-festival-isabelle-huppert-parmi-les-laureats-des-tiff-tribute-awards": {
-    "url": "https://www.satellifacts.com/news/actualite/toronto-international-film-festival-isabelle-huppert-parmi-les-laureats-des-tiff-tribute-awards",
-    "fallback_title": "Toronto International Film Festival : Isabelle Huppert parmi les lauréats des ...",
-    "title": "Toronto International Film Festival : Isabelle Huppert parmi les lauréats des TIFF Tribute Awards - SATELLIFACTS",
-    "description": "La comédienne française Isabelle Huppert fait partie des cinq lauréats des TIFF Tribute Awards, prix honorifiques remis lors d’une soirée de gala le 13 septembre dans le cadre du Toronto International Film Festival (10 au 20 septembre), ont annoncé les organisateurs, mercredi 29 juillet. Elle ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/9/8/1/7221893-1-fre-FR/17f5683288e0-comms-tribute2026-02.jpg",
-    "published_raw": "2026-07-29CEST16:31:34",
-    "published_iso": "2026-07-29T16:31:34+02:00",
-    "fetched_at": "2026-07-29T16:04:47.380499+00:00"
   }
 }
