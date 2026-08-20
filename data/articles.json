@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/michel-dejeneffe-mort-a-76-ans-du-ventriloque-et-createur-de-la-marionnette-tatayet": {
+    "url": "https://www.satellifacts.com/news/actualite/michel-dejeneffe-mort-a-76-ans-du-ventriloque-et-createur-de-la-marionnette-tatayet",
+    "fallback_title": "Michel Dejeneffe : mort à 76 ans du ventriloque et ...",
+    "title": "Michel Dejeneffe : mort à 76 ans du ventriloque et créateur de la marionnette Tatayet - SATELLIFACTS",
+    "description": "Le ventriloque Michel Dejeneffe, papa de la célèbre marionnette Tatayet, un castor à la voix aigüe vêtu d'une salopette, est décédé le 7 août, à 76 ans, des suites de la maladie à corps de Lewy, dans une une clinique ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/7/2/6/7226273-1-fre-FR/1b692050662e-Screenshot-2026-08-20-15.09.32.png",
+    "published_raw": "2026-08-20CEST15:22:13",
+    "published_iso": "2026-08-20T15:22:13+02:00",
+    "fetched_at": "2026-08-20T13:52:41.986002+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/france-inter-laurent-goumarre-quitte-la-direction-des-programmes-pour-l-antenne-thomas-poitevin-succede-a-bertrand-chameroy": {
     "url": "https://www.satellifacts.com/news/actualite/france-inter-laurent-goumarre-quitte-la-direction-des-programmes-pour-l-antenne-thomas-poitevin-succede-a-bertrand-chameroy",
     "fallback_title": "France Inter : Laurent Goumarre quitte la direction des programmes ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-29CEST13:17:51",
     "published_iso": "2026-07-29T13:17:51+02:00",
     "fetched_at": "2026-07-29T14:31:44.834463+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/banijay-group-chiffre-d-affaires-en-hausse-de-17-au-1s-mais-recul-du-benefice-apres-l-acquisition-de-tipico": {
-    "url": "https://www.satellifacts.com/news/actualite/banijay-group-chiffre-d-affaires-en-hausse-de-17-au-1s-mais-recul-du-benefice-apres-l-acquisition-de-tipico",
-    "fallback_title": "Banijay Group : chiffre d'affaires en hausse de 17% au ...",
-    "title": "Banijay Group : chiffre d'affaires en hausse de 17% au 1S mais recul du bénéfice après l'acquisition de Tipico - SATELLIFACTS",
-    "description": "Banijay Group, maison mère de Banijay Entertainment & Live et de l’opérateur de paris sportifs Betclic, a publié mercredi 29 juillet un chiffre d'affaires de 2,58  milliards d'euros au premier semestre 2026, en hausse de 16,9% en données publiées et ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/1/0/9/7009012-1-fre-FR/f59d5f6d4ea5-Screenshot-2026-03-26-12.14.37.png",
-    "published_raw": "2026-07-29CEST11:11:00",
-    "published_iso": "2026-07-29T11:11:00+02:00",
-    "fetched_at": "2026-07-29T10:01:31.343549+00:00"
   }
 }
