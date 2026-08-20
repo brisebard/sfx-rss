@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:28:10 +0000</lastBuildDate>
 
+    <item>
+      <title>Dominique Frot : la comédienne est décédée à l’âge de 68 ans - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/dominique-frot-la-comedienne-est-decedee-a-l-age-de-68-ans</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/dominique-frot-la-comedienne-est-decedee-a-l-age-de-68-ans</guid>
+      <description>La comédienne de cinéma et de théâtre Dominique Frot est décédée à l’âge de 68 ans à l’hôpital Tenon, à Paris, des suites d’une maladie. « C’est avec beaucoup de tristesse que nous vous faisons part du décès, survenu le 7 août, de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 20 Aug 2026 19:07:05 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/5/6/7226540-1-fre-FR/5d2b6bd7cd99-Screenshot-2026-08-20-18.16.31.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Guillaume Pley : le fondateur du média Legend mis en cause pour son management et des échanges en ligne avec des mineures - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/guillaume-pley-le-fondateur-du-media-legend-mis-en-cause-pour-son-management-et-des-echanges-en-ligne-avec-des-mineures</link>
@@ -803,14 +811,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>La comédienne française Isabelle Huppert fait partie des cinq lauréats des TIFF Tribute Awards, prix honorifiques remis lors d’une soirée de gala le 13 septembre dans le cadre du Toronto International Film Festival (10 au 20 septembre), ont annoncé les organisateurs, mercredi 29 juillet. Elle ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 29 Jul 2026 16:31:34 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/9/8/1/7221893-1-fre-FR/17f5683288e0-comms-tribute2026-02.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Arcom : le régulateur alerte sur la situation économique des chaînes TV locales, après l’échec d’un appel aux candidatures en IdF - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/arcom-le-regulateur-alerte-sur-la-situation-economique-des-chaines-tv-locales-apres-l-echec-d-un-appel-aux-candidatures-en-idf</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/arcom-le-regulateur-alerte-sur-la-situation-economique-des-chaines-tv-locales-apres-l-echec-d-un-appel-aux-candidatures-en-idf</guid>
-      <description>Les télévisions locales rencontrent des « difficultés économiques majeures », alerte l’Arcom à l’attention du gouvernement, mercredi 29 juillet, en marge d’une décision déclarant infructueux un appel aux candidatures pour deux fréquences TNT en Ile-de-France (Satellifacts, 29 avril). C’est la première fois que le régulateur ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 29 Jul 2026 16:31:11 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/9/4/8/5258495-3-fre-FR/0ff3382e0c9d-arcom.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>

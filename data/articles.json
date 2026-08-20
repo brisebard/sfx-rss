@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/dominique-frot-la-comedienne-est-decedee-a-l-age-de-68-ans": {
+    "url": "https://www.satellifacts.com/news/actualite/dominique-frot-la-comedienne-est-decedee-a-l-age-de-68-ans",
+    "fallback_title": "Dominique Frot : la comédienne est décédée à l’âge de 68 ans",
+    "title": "Dominique Frot : la comédienne est décédée à l’âge de 68 ans - SATELLIFACTS",
+    "description": "La comédienne de cinéma et de théâtre Dominique Frot est décédée à l’âge de 68 ans à l’hôpital Tenon, à Paris, des suites d’une maladie. « C’est avec beaucoup de tristesse que nous vous faisons part du décès, survenu le 7 août, de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/5/6/7226540-1-fre-FR/5d2b6bd7cd99-Screenshot-2026-08-20-18.16.31.png",
+    "published_raw": "2026-08-20CEST19:07:05",
+    "published_iso": "2026-08-20T19:07:05+02:00",
+    "fetched_at": "2026-08-20T17:28:09.645505+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/guillaume-pley-le-fondateur-du-media-legend-mis-en-cause-pour-son-management-et-des-echanges-en-ligne-avec-des-mineures": {
     "url": "https://www.satellifacts.com/news/actualite/guillaume-pley-le-fondateur-du-media-legend-mis-en-cause-pour-son-management-et-des-echanges-en-ligne-avec-des-mineures",
     "fallback_title": "Guillaume Pley : le fondateur du média Legend mis en ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-29CEST16:31:34",
     "published_iso": "2026-07-29T16:31:34+02:00",
     "fetched_at": "2026-07-29T16:04:47.380499+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/arcom-le-regulateur-alerte-sur-la-situation-economique-des-chaines-tv-locales-apres-l-echec-d-un-appel-aux-candidatures-en-idf": {
-    "url": "https://www.satellifacts.com/news/actualite/arcom-le-regulateur-alerte-sur-la-situation-economique-des-chaines-tv-locales-apres-l-echec-d-un-appel-aux-candidatures-en-idf",
-    "fallback_title": "Arcom : le régulateur alerte sur la situation économique des chaînes ...",
-    "title": "Arcom : le régulateur alerte sur la situation économique des chaînes TV locales, après l’échec d’un appel aux candidatures en IdF - SATELLIFACTS",
-    "description": "Les télévisions locales rencontrent des « difficultés économiques majeures », alerte l’Arcom à l’attention du gouvernement, mercredi 29 juillet, en marge d’une décision déclarant infructueux un appel aux candidatures pour deux fréquences TNT en Ile-de-France (Satellifacts, 29 avril). C’est la première fois que le régulateur ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/9/4/8/5258495-3-fre-FR/0ff3382e0c9d-arcom.png",
-    "published_raw": "2026-07-29CEST16:31:11",
-    "published_iso": "2026-07-29T16:31:11+02:00",
-    "fetched_at": "2026-07-29T16:04:49.214428+00:00"
   }
 }
