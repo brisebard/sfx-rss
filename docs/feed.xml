@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:55:24 +0000</lastBuildDate>
 
+    <item>
+      <title>Guillaume Pley : le fondateur du média Legend mis en cause pour son management et des échanges en ligne avec des mineures - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/guillaume-pley-le-fondateur-du-media-legend-mis-en-cause-pour-son-management-et-des-echanges-en-ligne-avec-des-mineures</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/guillaume-pley-le-fondateur-du-media-legend-mis-en-cause-pour-son-management-et-des-echanges-en-ligne-avec-des-mineures</guid>
+      <description>L'entrepreneur et animateur Guillaume Pley, fondateur du média digital Legend, a fait l'objet cet été d'enquêtes de plusieurs médias, dont Les Inrocks et Le Monde, portant sur son management et ses relations avec de jeunes filles fans. Il y est ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 20 Aug 2026 18:34:10 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/9/1/6/5606198-1-fre-FR/280ca18cadc2-legend_guillaume_pley.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Box-office France, 1er jour : « Insidious » en tête devant « Fjord » - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/box-office-france-1er-jour-insidious-en-tete-devant-fjord</link>
@@ -803,14 +811,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Les télévisions locales rencontrent des « difficultés économiques majeures », alerte l’Arcom à l’attention du gouvernement, mercredi 29 juillet, en marge d’une décision déclarant infructueux un appel aux candidatures pour deux fréquences TNT en Ile-de-France (Satellifacts, 29 avril). C’est la première fois que le régulateur ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 29 Jul 2026 16:31:11 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/9/4/8/5258495-3-fre-FR/0ff3382e0c9d-arcom.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Box-office France, semaine : « L’Odyssée » toujours loin devant ; plus de 4 millions d’entrées cumulées pour les films « La Bataille de Gaulle » - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/box-office-france-semaine-l-odyssee-toujours-loin-devant-plus-de-4-millions-d-entrees-cumulees-pour-les-films-la-bataille-de-gaulle</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/box-office-france-semaine-l-odyssee-toujours-loin-devant-plus-de-4-millions-d-entrees-cumulees-pour-les-films-la-bataille-de-gaulle</guid>
-      <description>L’Odyssée de Christopher Nolan (Universal Pictures) continue de s’imposer sans pitié en tête du box-office français avec 1,61 million d’entrées sur 758 copies pour sa 2e semaine entre le 22 et le 28 juillet, soit une vertigineuse moyenne de 2 135 spectateurs. Le blockbuster, dont la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 29 Jul 2026 16:29:19 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/8/4/9/7149480-1-fre-FR/7095eaaea994-CT-04168_MSGCROP.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

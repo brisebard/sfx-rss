@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/guillaume-pley-le-fondateur-du-media-legend-mis-en-cause-pour-son-management-et-des-echanges-en-ligne-avec-des-mineures": {
+    "url": "https://www.satellifacts.com/news/actualite/guillaume-pley-le-fondateur-du-media-legend-mis-en-cause-pour-son-management-et-des-echanges-en-ligne-avec-des-mineures",
+    "fallback_title": "Guillaume Pley : le fondateur du média Legend mis en ...",
+    "title": "Guillaume Pley : le fondateur du média Legend mis en cause pour son management et des échanges en ligne avec des mineures - SATELLIFACTS",
+    "description": "L'entrepreneur et animateur Guillaume Pley, fondateur du média digital Legend, a fait l'objet cet été d'enquêtes de plusieurs médias, dont Les Inrocks et Le Monde, portant sur son management et ses relations avec de jeunes filles fans. Il y est ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/9/1/6/5606198-1-fre-FR/280ca18cadc2-legend_guillaume_pley.png",
+    "published_raw": "2026-08-20CEST18:34:10",
+    "published_iso": "2026-08-20T18:34:10+02:00",
+    "fetched_at": "2026-08-20T16:55:23.535231+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/box-office-france-1er-jour-insidious-en-tete-devant-fjord": {
     "url": "https://www.satellifacts.com/news/actualite/box-office-france-1er-jour-insidious-en-tete-devant-fjord",
     "fallback_title": "Box-office France, 1er jour : « Insidious » en tête devant « ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-29CEST16:31:11",
     "published_iso": "2026-07-29T16:31:11+02:00",
     "fetched_at": "2026-07-29T16:04:49.214428+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/box-office-france-semaine-l-odyssee-toujours-loin-devant-plus-de-4-millions-d-entrees-cumulees-pour-les-films-la-bataille-de-gaulle": {
-    "url": "https://www.satellifacts.com/news/actualite/box-office-france-semaine-l-odyssee-toujours-loin-devant-plus-de-4-millions-d-entrees-cumulees-pour-les-films-la-bataille-de-gaulle",
-    "fallback_title": "Box-office France, semaine : « L’Odyssée » toujours loin devant ; plus de 4 millions ...",
-    "title": "Box-office France, semaine : « L’Odyssée » toujours loin devant ; plus de 4 millions d’entrées cumulées pour les films « La Bataille de Gaulle » - SATELLIFACTS",
-    "description": "L’Odyssée de Christopher Nolan (Universal Pictures) continue de s’imposer sans pitié en tête du box-office français avec 1,61 million d’entrées sur 758 copies pour sa 2e semaine entre le 22 et le 28 juillet, soit une vertigineuse moyenne de 2 135 spectateurs. Le blockbuster, dont la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/8/4/9/7149480-1-fre-FR/7095eaaea994-CT-04168_MSGCROP.jpg",
-    "published_raw": "2026-07-29CEST16:29:19",
-    "published_iso": "2026-07-29T16:29:19+02:00",
-    "fetched_at": "2026-07-29T16:04:50.953951+00:00"
   }
 }
