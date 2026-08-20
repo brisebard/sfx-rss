@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:46:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:16:14 +0000</lastBuildDate>
 
+    <item>
+      <title>Box-office France, 1er jour : « Insidious » en tête devant « Fjord » - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/box-office-france-1er-jour-insidious-en-tete-devant-fjord</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/box-office-france-1er-jour-insidious-en-tete-devant-fjord</guid>
+      <description>Insidious : L'invasion du lointain (Sony), sixième volet de la saga d’horreur, se hisse en tête des nouveautés sorties mercredi 19 août. Pour son premier jour en salles, le long métrage attire 42 954 spectateurs sur 312 écrans, soit une ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 20 Aug 2026 18:06:27 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/3/5/6/7226537-1-fre-FR/78406dd0d490-Capture-d-ecran-2026-08-20-174313.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Mubi : projections exceptionnelles de « Teenage Sex and Death at Camp Miasma » (Queer Palm 2026) en salles le 17 septembre - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/mubi-projections-exceptionnelles-de-teenage-sex-and-death-at-camp-miasma-queer-palm-2026-en-salles-le-17-septembre</link>
@@ -803,14 +811,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>L’Odyssée de Christopher Nolan (Universal Pictures) continue de s’imposer sans pitié en tête du box-office français avec 1,61 million d’entrées sur 758 copies pour sa 2e semaine entre le 22 et le 28 juillet, soit une vertigineuse moyenne de 2 135 spectateurs. Le blockbuster, dont la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 29 Jul 2026 16:29:19 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/8/4/9/7149480-1-fre-FR/7095eaaea994-CT-04168_MSGCROP.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>CNC : lancement d'un appel à projets sur les nouvelles formes de cinéphilie à l’ère du numérique - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/cnc-lancement-d-un-appel-a-projets-sur-les-nouvelles-formes-de-cinephilie-a-l-ere-du-numerique</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/cnc-lancement-d-un-appel-a-projets-sur-les-nouvelles-formes-de-cinephilie-a-l-ere-du-numerique</guid>
-      <description>L'appel à projets visant à favoriser l’émergence d’initiatives innovantes qui contribuent au développement de la cinéphilie en ligne et sur les réseaux sociaux a été mis en ligne sur le site du CNC. Il est ouvert jusqu'au 30 septembre. Les lauréats ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 29 Jul 2026 15:11:05 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/5/5/4/7024551-1-fre-FR/751e765dfe2f-Batiment-CNC-boulevard-Raspail.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/box-office-france-1er-jour-insidious-en-tete-devant-fjord": {
+    "url": "https://www.satellifacts.com/news/actualite/box-office-france-1er-jour-insidious-en-tete-devant-fjord",
+    "fallback_title": "Box-office France, 1er jour : « Insidious » en tête devant « ...",
+    "title": "Box-office France, 1er jour : « Insidious » en tête devant « Fjord » - SATELLIFACTS",
+    "description": "Insidious : L'invasion du lointain (Sony), sixième volet de la saga d’horreur, se hisse en tête des nouveautés sorties mercredi 19 août. Pour son premier jour en salles, le long métrage attire 42 954 spectateurs sur 312 écrans, soit une ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/3/5/6/7226537-1-fre-FR/78406dd0d490-Capture-d-ecran-2026-08-20-174313.png",
+    "published_raw": "2026-08-20CEST18:06:27",
+    "published_iso": "2026-08-20T18:06:27+02:00",
+    "fetched_at": "2026-08-20T16:16:13.997292+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/mubi-projections-exceptionnelles-de-teenage-sex-and-death-at-camp-miasma-queer-palm-2026-en-salles-le-17-septembre": {
     "url": "https://www.satellifacts.com/news/actualite/mubi-projections-exceptionnelles-de-teenage-sex-and-death-at-camp-miasma-queer-palm-2026-en-salles-le-17-septembre",
     "fallback_title": "Mubi : projections exceptionnelles de « Teenage Sex and Death ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-29CEST16:29:19",
     "published_iso": "2026-07-29T16:29:19+02:00",
     "fetched_at": "2026-07-29T16:04:50.953951+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/cnc-lancement-d-un-appel-a-projets-sur-les-nouvelles-formes-de-cinephilie-a-l-ere-du-numerique": {
-    "url": "https://www.satellifacts.com/news/actualite/cnc-lancement-d-un-appel-a-projets-sur-les-nouvelles-formes-de-cinephilie-a-l-ere-du-numerique",
-    "fallback_title": "CNC : lancement d'un appel à projets sur les nouvelles ...",
-    "title": "CNC : lancement d'un appel à projets sur les nouvelles formes de cinéphilie à l’ère du numérique - SATELLIFACTS",
-    "description": "L'appel à projets visant à favoriser l’émergence d’initiatives innovantes qui contribuent au développement de la cinéphilie en ligne et sur les réseaux sociaux a été mis en ligne sur le site du CNC. Il est ouvert jusqu'au 30 septembre. Les lauréats ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/5/5/4/7024551-1-fre-FR/751e765dfe2f-Batiment-CNC-boulevard-Raspail.jpg",
-    "published_raw": "2026-07-29CEST15:11:05",
-    "published_iso": "2026-07-29T15:11:05+02:00",
-    "fetched_at": "2026-07-29T14:31:39.487525+00:00"
   }
 }
