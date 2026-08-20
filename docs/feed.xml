@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:46:19 +0000</lastBuildDate>
 
+    <item>
+      <title>Mubi : projections exceptionnelles de « Teenage Sex and Death at Camp Miasma » (Queer Palm 2026) en salles le 17 septembre - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/mubi-projections-exceptionnelles-de-teenage-sex-and-death-at-camp-miasma-queer-palm-2026-en-salles-le-17-septembre</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/mubi-projections-exceptionnelles-de-teenage-sex-and-death-at-camp-miasma-queer-palm-2026-en-salles-le-17-septembre</guid>
+      <description>Le film Teenage Sex and Death at Camp Miasma de Jane Schoenbrun, présenté en ouverture de la section Un certain regard au dernier Festival de Cannes et lauréat de la Queer Palm, sera projeté en salles en France le jeudi ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 20 Aug 2026 17:26:26 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/9/4/6/7226492-1-fre-FR/d326a1570d3c-unnamed-22-.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>UEFA / Canal+ Group : diffuseur des Coupes d'Europe en Afrique subsaharienne jusqu'en 2031 - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/uefa-canal-group-diffuseur-des-coupes-d-europe-en-afrique-subsaharienne-jusqu-en-2031</link>
@@ -803,14 +811,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>L'appel à projets visant à favoriser l’émergence d’initiatives innovantes qui contribuent au développement de la cinéphilie en ligne et sur les réseaux sociaux a été mis en ligne sur le site du CNC. Il est ouvert jusqu'au 30 septembre. Les lauréats ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 29 Jul 2026 15:11:05 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/5/5/4/7024551-1-fre-FR/751e765dfe2f-Batiment-CNC-boulevard-Raspail.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Xenia Fedorova : la journaliste prorusse visée par un arrêté d'expulsion ; Canal+ et Lagardère montent au créneau - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/xenia-fedorova-la-journaliste-prorusse-visee-par-un-arrete-d-expulsion-canal-et-lagardere-montent-au-creneau</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/xenia-fedorova-la-journaliste-prorusse-visee-par-un-arrete-d-expulsion-canal-et-lagardere-montent-au-creneau</guid>
-      <description>La journaliste prorusse Xenia Fedorova, ancienne patronne de la chaîne d’Etat russe RT en France et accusée d’être la voix du Kremlin dans des médias français, s’est vu remettre mercredi 29 juillet un arrêté ministériel d’expulsion, a indiqué le ministère de l’Intérieur ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 29 Jul 2026 15:01:36 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/5/5/2/4642557-1-fre-FR/05757d3cd2fa-xenia_fedorova.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
