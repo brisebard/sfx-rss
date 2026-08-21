@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/italie-les-deputes-pourraient-voter-une-proposition-de-loi-visant-a-creer-une-agence-pour-le-cinema-et-l-audiovisuel": {
+    "url": "https://www.satellifacts.com/news/actualite/italie-les-deputes-pourraient-voter-une-proposition-de-loi-visant-a-creer-une-agence-pour-le-cinema-et-l-audiovisuel",
+    "fallback_title": "Italie : les députés pourraient voter une proposition de loi ...",
+    "title": "Italie : les députés pourraient voter une proposition de loi visant à créer une « agence pour le cinéma et l’audiovisuel » - SATELLIFACTS",
+    "description": "En Italie, où la culture est régulièrement source de tensions depuis l'arrivée au pouvoir de la Première ministre d’extrême droite Giorgia Meloni, en 2022, les députés s'apprêtent à voter une proposition de loi (PPL) pour \"créer un organisme public de soutien ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/6/0/7/7227065-1-fre-FR/180f83efc53a-Screenshot-2026-08-21-18.20.34.png",
+    "published_raw": "2026-08-21CEST18:35:33",
+    "published_iso": "2026-08-21T18:35:33+02:00",
+    "fetched_at": "2026-08-21T16:53:26.785293+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/ligue-1-lancement-de-la-deuxieme-saison-desormais-avec-l-integralite-du-championnat": {
     "url": "https://www.satellifacts.com/news/actualite/ligue-1-lancement-de-la-deuxieme-saison-desormais-avec-l-integralite-du-championnat",
     "fallback_title": "Ligue 1+ : lancement de la deuxième saison, désormais avec ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-30CEST10:11:38",
     "published_iso": "2026-07-30T10:11:38+02:00",
     "fetched_at": "2026-07-30T08:48:40.228144+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/focus-sur-un-producteur-jetlag-tv-jeremy-michalak-rester-leger-et-continuer-d-avoir-des-idees-que-les-autres-n-ont-pas": {
-    "url": "https://www.satellifacts.com/news/actualite/focus-sur-un-producteur-jetlag-tv-jeremy-michalak-rester-leger-et-continuer-d-avoir-des-idees-que-les-autres-n-ont-pas",
-    "fallback_title": "Focus sur un producteur - Jetlag TV (Jérémy Michalak) : « Rester ...",
-    "title": "Focus sur un producteur - Jetlag TV (Jérémy Michalak) : « Rester léger et continuer d’avoir des idées que les autres n’ont pas » - SATELLIFACTS",
-    "description": "Retiré des plateaux de télévision, et avant cela des ondes, qui ont fait sa notoriété, Jérémy Michalak n’apparaît plus que dans les documentaires qu’il écrit, réalise et produit, tels Lucie en Thaïlande et Partenaires particuliers, diffusés sur France 5, en prime ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/6/7/6/0/7220676-1-fre-FR/de52ab259d7b-Capture-d-e-cran-2026-07-28-a-12.44.03.png",
-    "published_raw": "2026-07-30CEST10:00:00",
-    "published_iso": "2026-07-30T10:00:00+02:00",
-    "fetched_at": "2026-07-30T08:48:42.223501+00:00"
   }
 }
