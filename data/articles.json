@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/eurovision-modifications-des-regles-pour-que-les-pays-en-guerre-ne-puissent-plus-accueillir-le-concours": {
+    "url": "https://www.satellifacts.com/news/actualite/eurovision-modifications-des-regles-pour-que-les-pays-en-guerre-ne-puissent-plus-accueillir-le-concours",
+    "fallback_title": "Eurovision : modifications des règles pour que les pays en ...",
+    "title": "Eurovision : modifications des règles pour que les pays en guerre ne puissent plus accueillir le concours - SATELLIFACTS",
+    "description": "L'Eurovision a annoncé mercredi 12 août avoir changé ses règles, précisant que le pays vainqueur, qui accueille traditionnellement l'édition suivante, ne pourra plus accueillir le concours s'il est en guerre. L'UER, instance organisatrice du concours de chansons, a par ailleurs ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/4/9/7/7137943-1-fre-FR/180ae8291ebd-Screenshot-2026-07-01-15.50.52.png",
+    "published_raw": "2026-08-21CEST13:56:03",
+    "published_iso": "2026-08-21T13:56:03+02:00",
+    "fetched_at": "2026-08-21T13:01:15.550459+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/patrick-bruel-une-nouvelle-plainte-deposee-pour-tentative-de-viol": {
     "url": "https://www.satellifacts.com/news/actualite/patrick-bruel-une-nouvelle-plainte-deposee-pour-tentative-de-viol",
     "fallback_title": "Patrick Bruel : une nouvelle plainte déposée pour \"tentative de ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-29CEST21:30:04",
     "published_iso": "2026-07-29T21:30:04+02:00",
     "fetched_at": "2026-07-29T19:56:18.201527+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/burkina-faso-nouvelle-amende-pour-canal-accusee-de-ne-pas-diffuser-gratuitement-la-tv-nationale": {
-    "url": "https://www.satellifacts.com/news/actualite/burkina-faso-nouvelle-amende-pour-canal-accusee-de-ne-pas-diffuser-gratuitement-la-tv-nationale",
-    "fallback_title": "Burkina Faso : nouvelle amende pour Canal+ accusée de ne ...",
-    "title": "Burkina Faso : nouvelle amende pour Canal+ accusée de ne pas diffuser gratuitement la TV nationale - SATELLIFACTS",
-    "description": "L'autorité de régulation des médias du Burkina Faso a infligé au groupe Canal+ une nouvelle amende, cette fois de 200 millions de francs CFA (environ 304 000 euros), l'accusant de ne pas diffuser gratuitement la TV nationale, a-t-elle indiqué dans ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/0/0/1/7221002-1-fre-FR/82ac0ddf399f-Screenshot-2026-07-28-16.59.20.png",
-    "published_raw": "2026-07-29CEST20:24:14",
-    "published_iso": "2026-07-29T20:24:14+02:00",
-    "fetched_at": "2026-07-29T18:34:36.820523+00:00"
   }
 }

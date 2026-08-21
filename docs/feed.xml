@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:58:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:01:16 +0000</lastBuildDate>
 
+    <item>
+      <title>Eurovision : modifications des règles pour que les pays en guerre ne puissent plus accueillir le concours - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/eurovision-modifications-des-regles-pour-que-les-pays-en-guerre-ne-puissent-plus-accueillir-le-concours</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/eurovision-modifications-des-regles-pour-que-les-pays-en-guerre-ne-puissent-plus-accueillir-le-concours</guid>
+      <description>L'Eurovision a annoncé mercredi 12 août avoir changé ses règles, précisant que le pays vainqueur, qui accueille traditionnellement l'édition suivante, ne pourra plus accueillir le concours s'il est en guerre. L'UER, instance organisatrice du concours de chansons, a par ailleurs ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Fri, 21 Aug 2026 13:56:03 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/4/9/7/7137943-1-fre-FR/180ae8291ebd-Screenshot-2026-07-01-15.50.52.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Patrick Bruel : une nouvelle plainte déposée pour "tentative de viol" - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/patrick-bruel-une-nouvelle-plainte-deposee-pour-tentative-de-viol</link>
@@ -803,14 +811,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Dans une décision rendue lundi 27 juillet, le Conseil d’État a refusé de renvoyer au Conseil constitutionnel, une QPC (question prioritaire de constitutionnalité) soulevée par la société Amazon Digital UK Limited sur la chronologie des médias.La filiale du groupe américain ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 29 Jul 2026 21:30:04 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/7/1/4/7064178-1-fre-FR/3ed3dd7c283f-AdobeStock_1451680371_Editorial_Use_Only.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Burkina Faso : nouvelle amende pour Canal+ accusée de ne pas diffuser gratuitement la TV nationale - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/burkina-faso-nouvelle-amende-pour-canal-accusee-de-ne-pas-diffuser-gratuitement-la-tv-nationale</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/burkina-faso-nouvelle-amende-pour-canal-accusee-de-ne-pas-diffuser-gratuitement-la-tv-nationale</guid>
-      <description>L'autorité de régulation des médias du Burkina Faso a infligé au groupe Canal+ une nouvelle amende, cette fois de 200 millions de francs CFA (environ 304 000 euros), l'accusant de ne pas diffuser gratuitement la TV nationale, a-t-elle indiqué dans ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 29 Jul 2026 20:24:14 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/0/0/1/7221002-1-fre-FR/82ac0ddf399f-Screenshot-2026-07-28-16.59.20.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
