@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 15:51:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:13:00 +0000</lastBuildDate>
 
+    <item>
+      <title>Etats-Unis / TikTok : accord à 400 M$ pour mettre fins aux poursuites pour collecte illégale de données d'enfants - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/etats-unis-tiktok-accord-a-400-m-pour-mettre-fins-aux-poursuites-pour-collecte-illegale-de-donnees-d-enfants</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/etats-unis-tiktok-accord-a-400-m-pour-mettre-fins-aux-poursuites-pour-collecte-illegale-de-donnees-d-enfants</guid>
+      <description>TikTok a accepté de payer jusqu'à 400 millions de dollars (342 M€) pour solder des accusations de collecte illégale de données d'enfants, a annoncé vendredi 21 août la justice américaine, en pleine offensive des autorités aux Etats-Unis et en Europe ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 23 Aug 2026 18:06:05 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/0/5/0/7050504-1-fre-FR/e10a6de3675f-AdobeStock_400608260_Editorial_Use_Only.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>Réalisteurs français détenus au Togo : des « indices graves et concordants » à leur encontre, selon le pouvoir - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/realisteurs-francais-detenus-au-togo-des-indices-graves-et-concordants-a-leur-encontre-selon-le-pouvoir</link>
@@ -801,14 +809,6 @@
       <description>("Maddyness", jeudi 30 juillet 2026)Selon nos informations, l’entrepreneur et animateur [Guillaume Pley], qui dispose de la majorité du capital du média par l’intermédiaire de sa holding, est en discussions avancées pour faire entrer un nouvel investisseur au tour de table.Il ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 30 Jul 2026 11:44:37 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/5/6/2/7222656-1-fre-FR/7cbf26df59f6-Screenshot-2026-07-30-11.12.52.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>RFI : des programmes en russe diffusés sur la plateforme Tochka Dostupa - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/rfi-des-programmes-en-russe-diffuses-sur-la-plateforme-tochka-dostupa</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/rfi-des-programmes-en-russe-diffuses-sur-la-plateforme-tochka-dostupa</guid>
-      <description>Des programmes de RFI en russe sont désormais disponibles sur la plateforme Tochka Dostupa, a annoncé la station de France Médias Monde jeudi 30 juillet. L'accord de distribution porte sur une sélection de vidéos d’actualité de RFI en russe sur ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 30 Jul 2026 10:53:33 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/6/4/2/7222461-1-fre-FR/367e2524c077-AdobeStock_811327363_Editorial_Use_Only.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

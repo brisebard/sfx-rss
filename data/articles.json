@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/etats-unis-tiktok-accord-a-400-m-pour-mettre-fins-aux-poursuites-pour-collecte-illegale-de-donnees-d-enfants": {
+    "url": "https://www.satellifacts.com/news/actualite/etats-unis-tiktok-accord-a-400-m-pour-mettre-fins-aux-poursuites-pour-collecte-illegale-de-donnees-d-enfants",
+    "fallback_title": "Etats-Unis / TikTok : accord à 400 M$ pour mettre ...",
+    "title": "Etats-Unis / TikTok : accord à 400 M$ pour mettre fins aux poursuites pour collecte illégale de données d'enfants - SATELLIFACTS",
+    "description": "TikTok a accepté de payer jusqu'à 400 millions de dollars (342 M€) pour solder des accusations de collecte illégale de données d'enfants, a annoncé vendredi 21 août la justice américaine, en pleine offensive des autorités aux Etats-Unis et en Europe ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/4/0/5/0/7050504-1-fre-FR/e10a6de3675f-AdobeStock_400608260_Editorial_Use_Only.jpeg",
+    "published_raw": "2026-08-23CEST18:06:05",
+    "published_iso": "2026-08-23T18:06:05+02:00",
+    "fetched_at": "2026-08-23T16:12:59.974260+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/realisteurs-francais-detenus-au-togo-des-indices-graves-et-concordants-a-leur-encontre-selon-le-pouvoir": {
     "url": "https://www.satellifacts.com/news/actualite/realisteurs-francais-detenus-au-togo-des-indices-graves-et-concordants-a-leur-encontre-selon-le-pouvoir",
     "fallback_title": "Réalisteurs français détenus au Togo : des « indices graves ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-30CEST11:44:37",
     "published_iso": "2026-07-30T11:44:37+02:00",
     "fetched_at": "2026-07-30T10:54:27.402378+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/rfi-des-programmes-en-russe-diffuses-sur-la-plateforme-tochka-dostupa": {
-    "url": "https://www.satellifacts.com/news/actualite/rfi-des-programmes-en-russe-diffuses-sur-la-plateforme-tochka-dostupa",
-    "fallback_title": "RFI : des programmes en russe diffusés sur la plateforme ...",
-    "title": "RFI : des programmes en russe diffusés sur la plateforme Tochka Dostupa - SATELLIFACTS",
-    "description": "Des programmes de RFI en russe sont désormais disponibles sur la plateforme Tochka Dostupa, a annoncé la station de France Médias Monde jeudi 30 juillet. L'accord de distribution porte sur une sélection de vidéos d’actualité de RFI en russe sur ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/6/4/2/7222461-1-fre-FR/367e2524c077-AdobeStock_811327363_Editorial_Use_Only.jpeg",
-    "published_raw": "2026-07-30CEST10:53:33",
-    "published_iso": "2026-07-30T10:53:33+02:00",
-    "fetched_at": "2026-07-30T10:54:28.935977+00:00"
   }
 }
