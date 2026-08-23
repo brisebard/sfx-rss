@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 15:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:30:57 +0000</lastBuildDate>
 
+    <item>
+      <title>Réalisteurs français détenus au Togo : des « indices graves et concordants » à leur encontre, selon le pouvoir - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/realisteurs-francais-detenus-au-togo-des-indices-graves-et-concordants-a-leur-encontre-selon-le-pouvoir</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/realisteurs-francais-detenus-au-togo-des-indices-graves-et-concordants-a-leur-encontre-selon-le-pouvoir</guid>
+      <description>Le gouvernement togolais a affirmé samedi 22 août que la justice disposait « d'indices graves et concordants » à l'encontre des deux réalisateurs français détenus au Togo depuis fin juillet avec leur collaborateur local, Reporters sans frontières (RSF) appelant une ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 23 Aug 2026 17:14:44 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/1/8/4/5564819-1-fre-FR/5252ac0e1ed0-tony_comiti_productions.png" type="image/jpeg" />
+    </item>
     <item>
       <title>France TV / Eden : le programme de Slow TV "Le Brame du cerf" de retour avec une 2e saison du 7 au 28 septembre - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/france-tv-eden-le-programme-de-slow-tv-le-brame-du-cerf-de-retour-avec-une-2e-saison-du-7-au-28-septembre</link>
@@ -801,14 +809,6 @@
       <description>Des programmes de RFI en russe sont désormais disponibles sur la plateforme Tochka Dostupa, a annoncé la station de France Médias Monde jeudi 30 juillet. L'accord de distribution porte sur une sélection de vidéos d’actualité de RFI en russe sur ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 30 Jul 2026 10:53:33 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/6/4/2/7222461-1-fre-FR/367e2524c077-AdobeStock_811327363_Editorial_Use_Only.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Classement des distributeurs : seul en tête, Universal s'approche des 20 millions d'entrées - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/classement-des-distributeurs-seul-en-tete-universal-s-approche-des-20-millions-d-entrees</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/classement-des-distributeurs-seul-en-tete-universal-s-approche-des-20-millions-d-entrees</guid>
-      <description>Universal s'envole en tête du classement des distributeurs avec 19,52 millions de spectateurs pour 16 films exploités depuis le début de l'année, soit une moyenne de 1,22 million d'entrées par film. La major, qui profite des excellents scores de L’Odyssée ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 30 Jul 2026 10:31:27 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/5/5/0/7140556-1-fre-FR/a11ea36240c9-L-odyssee-photo1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

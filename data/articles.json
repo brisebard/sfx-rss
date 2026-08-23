@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/realisteurs-francais-detenus-au-togo-des-indices-graves-et-concordants-a-leur-encontre-selon-le-pouvoir": {
+    "url": "https://www.satellifacts.com/news/actualite/realisteurs-francais-detenus-au-togo-des-indices-graves-et-concordants-a-leur-encontre-selon-le-pouvoir",
+    "fallback_title": "Réalisteurs français détenus au Togo : des « indices graves ...",
+    "title": "Réalisteurs français détenus au Togo : des « indices graves et concordants » à leur encontre, selon le pouvoir - SATELLIFACTS",
+    "description": "Le gouvernement togolais a affirmé samedi 22 août que la justice disposait « d'indices graves et concordants » à l'encontre des deux réalisateurs français détenus au Togo depuis fin juillet avec leur collaborateur local, Reporters sans frontières (RSF) appelant une ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/1/8/4/5564819-1-fre-FR/5252ac0e1ed0-tony_comiti_productions.png",
+    "published_raw": "2026-08-23CEST17:14:44",
+    "published_iso": "2026-08-23T17:14:44+02:00",
+    "fetched_at": "2026-08-23T15:30:56.975126+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/france-tv-eden-le-programme-de-slow-tv-le-brame-du-cerf-de-retour-avec-une-2e-saison-du-7-au-28-septembre": {
     "url": "https://www.satellifacts.com/news/actualite/france-tv-eden-le-programme-de-slow-tv-le-brame-du-cerf-de-retour-avec-une-2e-saison-du-7-au-28-septembre",
     "fallback_title": "France TV / Eden : le programme de Slow TV ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-07-30CEST10:53:33",
     "published_iso": "2026-07-30T10:53:33+02:00",
     "fetched_at": "2026-07-30T10:54:28.935977+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/classement-des-distributeurs-seul-en-tete-universal-s-approche-des-20-millions-d-entrees": {
-    "url": "https://www.satellifacts.com/news/actualite/classement-des-distributeurs-seul-en-tete-universal-s-approche-des-20-millions-d-entrees",
-    "fallback_title": "Classement des distributeurs : seul en tête, Universal s'approche des 20 ...",
-    "title": "Classement des distributeurs : seul en tête, Universal s'approche des 20 millions d'entrées - SATELLIFACTS",
-    "description": "Universal s'envole en tête du classement des distributeurs avec 19,52 millions de spectateurs pour 16 films exploités depuis le début de l'année, soit une moyenne de 1,22 million d'entrées par film. La major, qui profite des excellents scores de L’Odyssée ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/6/5/5/0/7140556-1-fre-FR/a11ea36240c9-L-odyssee-photo1.jpg",
-    "published_raw": "2026-07-30CEST10:31:27",
-    "published_iso": "2026-07-30T10:31:27+02:00",
-    "fetched_at": "2026-07-30T08:48:36.249810+00:00"
   }
 }
