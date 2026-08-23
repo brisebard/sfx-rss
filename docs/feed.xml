@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 17:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 17:50:56 +0000</lastBuildDate>
 
+    <item>
+      <title>Box-office Etats-Unis &amp; Canada : « Spider-Man: Brand New Day » domine largement - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-spider-man-brand-new-day-domine-largement</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-spider-man-brand-new-day-domine-largement</guid>
+      <description>Pour sa quatrième semaine en salles, Spider-Man: Brand New Day (Sony), écrase le box-office nord-américain, selon les données partagées par Rentrack (ex-Comscore). Avec Tom Holland en tête d'affiche, le blockbuster diffusé sur 4 006 écrans enregistre 39 millions de dollars ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 23 Aug 2026 19:36:56 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/3/0/6/7166034-1-fre-FR/2beae9ec0ed8-f7f48be830a2c31f9748e5c3189e5196.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Festival FFA 2026/3 questions à Dominique Besnehard : « Le problème n’est pas de trouver des films ou du public, c’est de boucler le budget ! » - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/festival-ffa-2026-3-questions-a-dominique-besnehard-le-probleme-n-est-pas-de-trouver-des-films-ou-du-public-c-est-de-boucler-le-budget-!</link>
@@ -801,14 +809,6 @@
       <description>Avec 650 130 entrées sur 665 copies pour son premier jour, mercredi 29 juillet, Spider-Man : Brand New Day de Destin Daniel Cretton (Sony Pictures) avec Tom Holland explose les compteurs et réalise le meilleur démarrage depuis avril 2019 et la sortie de Avengers : Endgame, qui ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 30 Jul 2026 14:49:35 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/2/7222827-1-fre-FR/fbe0bad36bf9-Capture-d-ecran-2026-07-30-144259.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>13ème Rue : lancement le 13 septembre de "Patience" adaptation anglaise d'"Astrid et Raphaëlle" - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/13eme-rue-lancement-le-13-septembre-de-patience-adaptation-anglaise-d-astrid-et-raphaelle</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/13eme-rue-lancement-le-13-septembre-de-patience-adaptation-anglaise-d-astrid-et-raphaelle</guid>
-      <description>La chaîne 13ème Rue (NBCUniversal) lancera le 13 septembre à 21h la diffusion de la première saison de la série policière Patience, adaptation britannique d'Astrid et Raphaëlle (France 2/JLA Production) diffusée avec succès au Royaume-Uni par Channel 4 et aux ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 30 Jul 2026 12:16:50 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/1/6/2/7222611-1-fre-FR/b7b8aa0284ca-Screenshot-2026-07-30-10.57.10.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
