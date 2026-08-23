@@ -1,4 +1,24 @@
 {
+  "https://www.satellifacts.com/news/actualite/satellifacts-reprise6": {
+    "url": "https://www.satellifacts.com/news/actualite/satellifacts-reprise6",
+    "fallback_title": "Satellifacts : reprise",
+    "title": "Satellifacts : reprise - SATELLIFACTS",
+    "description": "Après une pause d’été, la rédaction est de retour depuis le lundi 17 août avec la publication d’articles en ligne et sur notre application.Ces articles reprennent le fil de l’actualité depuis notre pause estivale. Nous espérons que vous avez passé – ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/4/3944040-1-fre-FR/8329f7fe9137-logo_s_satellifax_satellifacts.png",
+    "published_raw": "2026-08-23CEST22:30:00",
+    "published_iso": "2026-08-23T22:30:00+02:00",
+    "fetched_at": "2026-08-23T20:40:55.595704+00:00"
+  },
+  "https://www.satellifacts.com/news/actualite/box-office-monde-spider-man-brand-new-day-toujours-au-sommet": {
+    "url": "https://www.satellifacts.com/news/actualite/box-office-monde-spider-man-brand-new-day-toujours-au-sommet",
+    "fallback_title": "Box-office monde : « Spider-Man: Brand New Day » toujours ...",
+    "title": "Box-office monde : « Spider-Man: Brand New Day » toujours au sommet - SATELLIFACTS",
+    "description": "Cette semaine encore, Spider-Man: Brand New Day (Sony Pictures Entertainment) domine le box-office international. Sorti fin juillet, le blockbuster distribué dans 68 territoires enregistre cette semaine 109 millions de dollars de recettes (93,31 M€). Le film a récemment passé la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/2/6/3/7163621-1-fre-FR/0e3b2e10da08-Capture-d-ecran-2026-07-24-112834.png",
+    "published_raw": "2026-08-23CEST22:29:32",
+    "published_iso": "2026-08-23T22:29:32+02:00",
+    "fetched_at": "2026-08-23T20:40:57.459038+00:00"
+  },
   "https://www.satellifacts.com/news/agenda/agenda-lundi-24-et-mardi-25-aout2": {
     "url": "https://www.satellifacts.com/news/agenda/agenda-lundi-24-et-mardi-25-aout2",
     "fallback_title": "Agenda : lundi 24 et mardi 25 août",
@@ -978,25 +998,5 @@
     "published_raw": "2026-07-30CEST16:29:38",
     "published_iso": "2026-07-30T16:29:38+02:00",
     "fetched_at": "2026-07-30T14:42:41.681801+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/mintee-productions-687-be-films-tournage-pour-arte-de-la-serie-l-homme-au-manteau-de-singe-avec-guillaume-gallienne": {
-    "url": "https://www.satellifacts.com/news/actualite/mintee-productions-687-be-films-tournage-pour-arte-de-la-serie-l-homme-au-manteau-de-singe-avec-guillaume-gallienne",
-    "fallback_title": "Mintee Productions / 687 / Be Films : tournage pour ...",
-    "title": "Mintee Productions / 687 / Be Films : tournage pour Arte de la série \"L’Homme au manteau de singe\" avec Guillaume Gallienne - SATELLIFACTS",
-    "description": "Mintee Productions, 687 et Be-Films ont débuté pour Arte le tournage de la série L'Homme au manteau de singe (6 x 52'), a annoncé la chaîne jeudi 30 juillet. Créée par Nadine Lamari (À bras le corps, C’est ici que je ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/4/5/9/5399545-1-fre-FR/22596197a869-tournage_arte.png",
-    "published_raw": "2026-07-30CEST16:29:10",
-    "published_iso": "2026-07-30T16:29:10+02:00",
-    "fetched_at": "2026-07-30T14:42:43.677001+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/rapport-lasserre-l-arcom-france-tv-radio-france-et-fmm-en-ordre-de-marche-pour-la-mise-en-aeuvre-des-preconisations": {
-    "url": "https://www.satellifacts.com/news/actualite/rapport-lasserre-l-arcom-france-tv-radio-france-et-fmm-en-ordre-de-marche-pour-la-mise-en-aeuvre-des-preconisations",
-    "fallback_title": "Rapport Lasserre : l’Arcom, France TV, Radio France et FMM en ...",
-    "title": "Rapport Lasserre : l’Arcom, France TV, Radio France et FMM en ordre de marche pour la mise en œuvre des préconisations - SATELLIFACTS",
-    "description": "Les premières mesures du rapport Lasserre sur l’impartialité de l’audiovisuel public seront mises en œuvre dès septembre, a annoncé l’Arcom jeudi 30 juillet, 2 mois après la restitution des travaux conduits par Bruno Lasserre (Satellifacts, 29 mai).Les cahiers des charges de France Télévisions ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/9/4/8/5258495-3-fre-FR/0ff3382e0c9d-arcom.png",
-    "published_raw": "2026-07-30CEST15:25:36",
-    "published_iso": "2026-07-30T15:25:36+02:00",
-    "fetched_at": "2026-07-30T14:42:45.535015+00:00"
   }
 }
