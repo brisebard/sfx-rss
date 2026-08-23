@@ -6,8 +6,17 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 19:52:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 20:12:16 +0000</lastBuildDate>
 
+    <item>
+      <title>Agenda : lundi 24 et mardi 25 août - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/agenda/agenda-lundi-24-et-mardi-25-aout2</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/agenda/agenda-lundi-24-et-mardi-25-aout2</guid>
+      <description>Lundi 24 et mardi 25 août
+Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 23 Aug 2026 22:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Box-office Etats-Unis &amp; Canada : « Spider-Man: Brand New Day » domine largement - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-spider-man-brand-new-day-domine-largement</link>
@@ -801,14 +810,6 @@
       <description>Les premières mesures du rapport Lasserre sur l’impartialité de l’audiovisuel public seront mises en œuvre dès septembre, a annoncé l’Arcom jeudi 30 juillet, 2 mois après la restitution des travaux conduits par Bruno Lasserre (Satellifacts, 29 mai).Les cahiers des charges de France Télévisions ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 30 Jul 2026 15:25:36 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/9/4/8/5258495-3-fre-FR/0ff3382e0c9d-arcom.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Box-office France, 1er jour : meilleur démarrage depuis 2019 pour « Spider-Man : Brand New Day » - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/box-office-france-1er-jour-meilleur-demarrage-depuis-2019-pour-spider-man-brand-new-day</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/box-office-france-1er-jour-meilleur-demarrage-depuis-2019-pour-spider-man-brand-new-day</guid>
-      <description>Avec 650 130 entrées sur 665 copies pour son premier jour, mercredi 29 juillet, Spider-Man : Brand New Day de Destin Daniel Cretton (Sony Pictures) avec Tom Holland explose les compteurs et réalise le meilleur démarrage depuis avril 2019 et la sortie de Avengers : Endgame, qui ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 30 Jul 2026 14:49:35 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/2/7222827-1-fre-FR/fbe0bad36bf9-Capture-d-ecran-2026-07-30-144259.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
