@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:05:55 +0000</lastBuildDate>
 
+    <item>
+      <title>Audiences 23/08/2026 : "Spider-Man - Homecoming" petit leader, devant l’inédit "Comme un prince" - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/audiences-23-08-2026-spider-man-homecoming-petit-leader-devant-l-inedit-comme-un-prince</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-23-08-2026-spider-man-homecoming-petit-leader-devant-l-inedit-comme-un-prince</guid>
+      <description>TF1 arrive en tête des audiences de la soirée dimanche avec la rediffusion du film Spider-Man : Homecoming de Jon Watts avec tom Holland, Michael Keaton et Robert Downey Jr, qui mobilise 2,08 millions de téléspectateurs pour une pda de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 24 Aug 2026 09:28:22 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/1/7/7/7227710-1-fre-FR/f9cee6883622-Spiderman-2.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Satellifacts : reprise - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/satellifacts-reprise6</link>
@@ -802,14 +810,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>France 24 en anglais est désormais enrichie de sous-titres disponibles 24/7 sur tous les supports de diffusion, a annoncé la chaîne internationale de France Médias Monde, jeudi 30 juillet. Cette fonctionnalité repose sur la technologie DVB-Télétexte qui permet aux téléspectateurs ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 30 Jul 2026 16:30:02 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/2/9/5/3125920-2-fre-FR/3bc38ce2f03a-France-24.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Festival du cinéma américain de Deauville 2026 : un Deauville Talent Award pour Ethan Hawke - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/festival-du-cinema-americain-de-deauville-2026-un-deauville-talent-award-pour-ethan-hawke</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/festival-du-cinema-americain-de-deauville-2026-un-deauville-talent-award-pour-ethan-hawke</guid>
-      <description>ACCÈS LIBRE | L'acteur, scénariste, réalisateur et écrivain américain Ethan Hawke va recevoir un Deauville Talent Award lors du 52e Festival du cinéma américain de Deauville (4 au 13 septembre), ont indiqué les organisateurs, jeudi 30 juillet. Le Festival souhaite récompenser « un artiste ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 30 Jul 2026 16:29:38 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/3/1/3/7223133-1-fre-FR/3422b25af30f-unnamed.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
