@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 11:44:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:15:32 +0000</lastBuildDate>
 
+    <item>
+      <title>Toronto International Film Festival / YouTube : des "Creator Premieres" projetées le 10 septembre - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/toronto-international-film-festival-youtube-des-creator-premieres-projetees-le-10-septembre</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/toronto-international-film-festival-youtube-des-creator-premieres-projetees-le-10-septembre</guid>
+      <description>Pour la première fois, le Toronto International Film Festival (TIFF), dont l'édition 2026 se tiendra du 10 au 20 septembre, s'associe avec YouTube et accueillera des "Creator Premieres", a annoncé le festival.Le 10 septembre, sera présenté le nouveau long métrage ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 24 Aug 2026 14:05:02 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/0/0/8/7228007-1-fre-FR/c4cb9fbdeb75-Screenshot-2026-08-24-10.58.05.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Sud Radio : Jacques Cardoze chargé d'une matinale étendue ; Jean-François Achilli nommé le week-end - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/sud-radio-jacques-cardoze-charge-d-une-matinale-etendue-jean-francois-achilli-nomme-le-week-end</link>
@@ -800,14 +808,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>L'Observatoire européen de l'audiovisuel (OEA) a publié vendredi 31 juillet un nouveau rapport intitulé Droit d'auteur et l'entraînement de l'IA. L'OEA précise qu'une deuxième partie, consacrée à la protection des résultats générés par les systèmes d’IA, sera publiée au cours ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 31 Jul 2026 10:49:00 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/3/4/3/7223439-1-fre-FR/1924ba8ab5f2-unnamed-2026-07-31T103851.963.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Xenia Fedorova : gel des avoirs de la journaliste russe en France, visée par un arrêté d'expulsion - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/xenia-fedorova-gel-des-avoirs-de-la-journaliste-russe-en-france-visee-par-un-arrete-d-expulsion</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/xenia-fedorova-gel-des-avoirs-de-la-journaliste-russe-en-france-visee-par-un-arrete-d-expulsion</guid>
-      <description>Le gouvernement a gelé pour six mois les avoirs de la chroniqueuse russe Xenia Fedorova, accusée d'être la voix du Kremlin dans des médias français et déjà visée depuis mercredi par un arrêté ministériel d'expulsion, selon un arrêté paru vendredi ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 31 Jul 2026 10:10:30 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/5/5/2/4642557-1-fre-FR/05757d3cd2fa-xenia_fedorova.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
