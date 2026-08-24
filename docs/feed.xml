@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 21:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:37:49 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : saison, Bouvard, costume, habillage, "Black Mirror", boulot... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-saison-bouvard-costume-habillage-black-mirror-boulot</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-saison-bouvard-costume-habillage-black-mirror-boulot</guid>
+      <description>ACCÈS LIBRE | Laurent Guimier @laurentguimier une nouvelle saison a commencé ce matin : je vous dis bonjour depuis @ici_auxerre… vive la radio ! En 2026/27, nous tâcherons d'être plus que jamais utiles. Utiles dans les crises. Utile dans les grands événements. Utile ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 24 Aug 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Agenda : mardi 25 et mercredi 26 août - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/agenda/agenda-mardi-25-et-mercredi-26-aout2</link>
@@ -803,14 +811,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Ce lundi 17 août, Satellifacts reprend la publication de son fil d'info que vous pouvez consulter sur le site satellifacts.com ou sur l'appli SatellifactsLe numéro de rentrée sera, quant à lui, publié dès le lundi 24 août au matin.Toute l’équipe de Satellifacts ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 17 Aug 2026 10:49:53 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/0/4/3944040-1-fre-FR/8329f7fe9137-logo_s_satellifax_satellifacts.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>TF1 : vers une possible cession de Studio TF1 - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/tf1-vers-une-possible-cession-de-studio-tf1</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/tf1-vers-une-possible-cession-de-studio-tf1</guid>
-      <description>Le groupe TF1 étudierait une possible vente de sa filiale de production et distribution Studio TF1, selon les informations de Reuters et Variety publiées le 3 août. Le groupe français aurait mandaté la banque Rothschild pour organiser l’opération, qui est ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 17 Aug 2026 10:23:45 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/6/1/6/7006163-1-fre-FR/9d31f1f43c79-presentation_studio_tf1_series_mania_forum_26_mars_2025.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
