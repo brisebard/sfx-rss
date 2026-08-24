@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/agenda/agenda-mardi-25-et-mercredi-26-aout2": {
+    "url": "https://www.satellifacts.com/news/agenda/agenda-mardi-25-et-mercredi-26-aout2",
+    "fallback_title": "Agenda : mardi 25 et mercredi 26 août",
+    "title": "Agenda : mardi 25 et mercredi 26 août - SATELLIFACTS",
+    "description": "Mardi 25 août\nAucun événement programméMercredi 26 août \n9h30 : Festival de la fiction de La Rochelle, conférence de presse de l’édition 2026 à Paris (puis à 17h30 à La Rochelle)\n  © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
+    "published_raw": "2026-08-24CEST22:00:00",
+    "published_iso": "2026-08-24T22:00:00+02:00",
+    "fetched_at": "2026-08-24T20:28:22.817911+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/gedeon-media-group-liquidation-judiciaire-en-cours-pour-gedeon-programmes-et-actee-pour-terranoa": {
     "url": "https://www.satellifacts.com/news/actualite/gedeon-media-group-liquidation-judiciaire-en-cours-pour-gedeon-programmes-et-actee-pour-terranoa",
     "fallback_title": "Gedeon Media Group : liquidation judiciaire en cours pour Gedeon ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-08-17CEST10:23:45",
     "published_iso": "2026-08-17T10:23:45+02:00",
     "fetched_at": "2026-08-17T08:59:46.796283+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/netflix-nac-films-films-sous-influence-tournage-du-prochain-film-d-yvan-attal-sur-les-epoux-klarsfeld": {
-    "url": "https://www.satellifacts.com/news/actualite/netflix-nac-films-films-sous-influence-tournage-du-prochain-film-d-yvan-attal-sur-les-epoux-klarsfeld",
-    "fallback_title": "Netflix / NAC Films / Films Sous Influence : tournage ...",
-    "title": "Netflix / NAC Films / Films Sous Influence : tournage du prochain film d’Yvan Attal sur les époux Klarsfeld - SATELLIFACTS",
-    "description": "NAC Films (Antoine Pezet et Jérôme Corcos) et Films Sous Influence (Yvan Attal) débutent lundi 17 août le tournage du film Projet K, dont le titre est encore provisoire, à destination de Netflix. Le film est réalisé par Yvan Attal ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/3/5/6/6136535-2-fre-FR/7d0edb97b030-netflix-logo-copie.png",
-    "published_raw": "2026-08-17CEST09:00:00",
-    "published_iso": "2026-08-17T09:00:00+02:00",
-    "fetched_at": "2026-08-17T08:59:48.907944+00:00"
   }
 }
