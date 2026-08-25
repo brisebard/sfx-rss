@@ -6,12 +6,20 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 20:38:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:01:42 +0000</lastBuildDate>
 
     <item>
       <title>Ligue 1 : la LFP confirme envisager un appel d'offres pour les droits de diffusion du championnat - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/ligue-1-la-lfp-confirme-envisager-un-appel-d-offres-pour-les-droits-du-championnat</link>
       <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/ligue-1-la-lfp-confirme-envisager-un-appel-d-offres-pour-les-droits-du-championnat</guid>
+      <description>La LFP envisage de lancer très prochainement un appel d'offres pour les droits de diffusion de la Ligue 1, a déclaré mardi 25 août à l'AFP Olivier Bramly, nouveau directeur général de LFP Media, la filiale commerciale de la Ligue ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 25 Aug 2026 22:26:25 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/8/8/9/6059885-1-fre-FR/de10cb8b3d4b-logo_ligue_1_ok.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ligue 1 : la LFP confirme envisager un appel d'offres pour les droits de diffusion du championnat - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/ligue-1-la-lfp-confirme-envisager-un-appel-d-offres-pour-les-droits-de-diffusion-du-championnat</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/ligue-1-la-lfp-confirme-envisager-un-appel-d-offres-pour-les-droits-de-diffusion-du-championnat</guid>
       <description>La LFP envisage de lancer très prochainement un appel d'offres pour les droits de diffusion de la Ligue 1, a déclaré mardi 25 août à l'AFP Olivier Bramly, nouveau directeur général de LFP Media, la filiale commerciale de la Ligue ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 25 Aug 2026 22:26:25 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/8/8/9/6059885-1-fre-FR/de10cb8b3d4b-logo_ligue_1_ok.png" type="image/jpeg" />
@@ -806,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Deux réalisateurs français travaillant pour la société de production Tony Comiti ont été arrêtés le 27 juillet au Togo, où ils sont actuellement détenus, selon des informations de médias locaux confirmées à l’AFP le 18 août au soir par le ministère français ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 19 Aug 2026 17:12:30 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/1/8/4/5564819-1-fre-FR/5252ac0e1ed0-tony_comiti_productions.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Transpa : placement en redressement judiciaire - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/transpa-placement-en-redressement-judiciaire</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/transpa-placement-en-redressement-judiciaire</guid>
-      <description>Le groupe Transpa, spécialisé dans la location de matériels et studios pour les tournages, a été placé en redressement judiciaire le 27 juillet par le Tribunal de commerce de Meaux, selon une annonce publiée au Bulletin officiel des annonces civiles ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 19 Aug 2026 17:10:46 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/6/5/9/6019567-1-fre-FR/89fd95257847-transpa.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>

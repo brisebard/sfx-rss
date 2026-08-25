@@ -9,6 +9,16 @@
     "published_iso": "2026-08-25T22:26:25+02:00",
     "fetched_at": "2026-08-25T20:38:54.375543+00:00"
   },
+  "https://www.satellifacts.com/news/actualite/ligue-1-la-lfp-confirme-envisager-un-appel-d-offres-pour-les-droits-de-diffusion-du-championnat": {
+    "url": "https://www.satellifacts.com/news/actualite/ligue-1-la-lfp-confirme-envisager-un-appel-d-offres-pour-les-droits-de-diffusion-du-championnat",
+    "fallback_title": "Ligue 1 : la LFP confirme envisager un appel d'offres ...",
+    "title": "Ligue 1 : la LFP confirme envisager un appel d'offres pour les droits de diffusion du championnat - SATELLIFACTS",
+    "description": "La LFP envisage de lancer très prochainement un appel d'offres pour les droits de diffusion de la Ligue 1, a déclaré mardi 25 août à l'AFP Olivier Bramly, nouveau directeur général de LFP Media, la filiale commerciale de la Ligue ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/8/8/9/6059885-1-fre-FR/de10cb8b3d4b-logo_ligue_1_ok.png",
+    "published_raw": "2026-08-25CEST22:26:25",
+    "published_iso": "2026-08-25T22:26:25+02:00",
+    "fetched_at": "2026-08-25T21:01:41.641721+00:00"
+  },
   "https://www.satellifacts.com/news/agenda/agenda-mercredi-26-et-jeudi-27-aout2": {
     "url": "https://www.satellifacts.com/news/agenda/agenda-mercredi-26-et-jeudi-27-aout2",
     "fallback_title": "Agenda : mercredi 26 et jeudi 27 août",
@@ -988,15 +998,5 @@
     "published_raw": "2026-08-19CEST17:12:30",
     "published_iso": "2026-08-19T17:12:30+02:00",
     "fetched_at": "2026-08-19T16:01:01.858238+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/transpa-placement-en-redressement-judiciaire": {
-    "url": "https://www.satellifacts.com/news/actualite/transpa-placement-en-redressement-judiciaire",
-    "fallback_title": "Transpa : placement en redressement judiciaire",
-    "title": "Transpa : placement en redressement judiciaire - SATELLIFACTS",
-    "description": "Le groupe Transpa, spécialisé dans la location de matériels et studios pour les tournages, a été placé en redressement judiciaire le 27 juillet par le Tribunal de commerce de Meaux, selon une annonce publiée au Bulletin officiel des annonces civiles ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/6/5/9/6019567-1-fre-FR/89fd95257847-transpa.png",
-    "published_raw": "2026-08-19CEST17:10:46",
-    "published_iso": "2026-08-19T17:10:46+02:00",
-    "fetched_at": "2026-08-19T15:34:50.646049+00:00"
   }
 }
