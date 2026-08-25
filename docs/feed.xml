@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:58:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:43:54 +0000</lastBuildDate>
 
+    <item>
+      <title>Bruno Barbier : décès du cofondateur de SportBusiness.Club et ancien d'Eurosport et Lagardère - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/bruno-barbier-deces-du-cofondateur-de-sportbusiness.club-et-ancien-d-eurosport-et-lagardere</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/bruno-barbier-deces-du-cofondateur-de-sportbusiness.club-et-ancien-d-eurosport-et-lagardere</guid>
+      <description>Bruno Barbier, cofondateur de SportBusiness.Club et ancien d'Eurosport et Lagardère, est décédé lundi 24 août des suites d'un cancer à l'âge de 67 ans, a-t-on appris auprès de l'ACCES.Amoureux du sport, Bruno Barbier a bâti sa carrière autour de cet ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 25 Aug 2026 11:13:58 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/5/6/9/7229655-1-fre-FR/4eb30d0ac2a3-Screenshot-2026-08-25-10.13.28.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Audiences 24/08/2026 : "Camping Paradis" et "L’amour est dans le pré" en tête, Arte au million - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/audiences-24-08-2026-camping-paradis-et-l-amour-est-dans-le-pre-en-tete-arte-au-million</link>
@@ -803,14 +811,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Le Royaume-Uni a donné jeudi 6 août son feu vert au rachat de Warner Bros Discovery (WBD) par Paramount Skydance, un méga-rachat à 110 milliards de dollars (95 Md€) qui a suscité une levée de boucliers et pris une tournure ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 17 Aug 2026 14:21:40 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/0/8/9/6749802-1-fre-FR/95cf229957a2-AdobeStock_1754023959_Editorial_Use_Only.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Hayden Panettiere : décès de l'actrice de « Heroes » et « Scream 4 » à 36 ans - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/hayden-panettiere-deces-de-l-actrice-de-heroes-et-scream-4-a-36-ans</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/hayden-panettiere-deces-de-l-actrice-de-heroes-et-scream-4-a-36-ans</guid>
-      <description>L'actrice américaine Hayden Panettiere, connue pour ses rôles dans les séries télévisées Heroes et Nashville, est morte à l'âge de 36 ans, ont rapporté les médias locaux lundi 17 août. Le père de la comédienne a confirmé son décès dans ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 17 Aug 2026 10:53:43 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/0/3/4/7224308-1-fre-FR/a69667d6e966-Hayden-Panettiere_Scream-1-copie.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
