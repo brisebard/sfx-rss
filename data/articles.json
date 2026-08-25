@@ -19,6 +19,16 @@
     "published_iso": "2026-08-25T14:28:16+02:00",
     "fetched_at": "2026-08-25T13:16:37.849738+00:00"
   },
+  "https://www.satellifacts.com/news/actualite/france-2-tv5-monde-winter-productions-une-soiree-speciale-sauvons-nos-forets-apres-les-incendies-de-l-ete": {
+    "url": "https://www.satellifacts.com/news/actualite/france-2-tv5-monde-winter-productions-une-soiree-speciale-sauvons-nos-forets-apres-les-incendies-de-l-ete",
+    "fallback_title": "France 2 / TV5 Monde / Winter Productions : une soirée spéciale ...",
+    "title": "France 2 / TV5 Monde / Winter Productions : une soirée spéciale « Sauvons nos forêts » après les incendies de l’été - SATELLIFACTS",
+    "description": "France 2 diffusera mardi 15 septembre en direct une « grande soirée de service public » intitulée Sauvons nos forêts (120'), présentée par Léa Salamé et Hugo Clément, qui la produit à travers sa société Winter Productions, a indiqué France Télévisions dans un communiqué, mardi 25 août ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/8/1/0/7230182-1-fre-FR/28b5d2e82394-Sauvons.jpg",
+    "published_raw": "2026-08-25CEST14:28:16",
+    "published_iso": "2026-08-25T14:28:16+02:00",
+    "fetched_at": "2026-08-25T14:08:59.679803+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/oscars-2027-possible-love-de-lee-chang-dong-candidat-de-la-coree-du-sud": {
     "url": "https://www.satellifacts.com/news/actualite/oscars-2027-possible-love-de-lee-chang-dong-candidat-de-la-coree-du-sud",
     "fallback_title": "Oscars 2027 : « Possible Love » de Lee Chang-dong candidat de ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-08-18CEST13:12:16",
     "published_iso": "2026-08-18T13:12:16+02:00",
     "fetched_at": "2026-08-18T11:41:26.586352+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/disney-dazn-obtention-des-droits-de-laliga-jusqu-en-2029": {
-    "url": "https://www.satellifacts.com/news/actualite/disney-dazn-obtention-des-droits-de-laliga-jusqu-en-2029",
-    "fallback_title": "Disney+ / DAZN : obtention des droits de LALIGA jusqu'en ...",
-    "title": "Disney+ / DAZN : obtention des droits de LALIGA jusqu'en 2029 - SATELLIFACTS",
-    "description": "Après 14 saisons sur beIN Sports, LALIGA espagnole est pour la première fois diffusée en France uniquement sur des plateformes, en basculant dans l’escarcelle de DAZN et Disney+.Depuis le 15 août, date de lancement de la saison 2026-2027, et jusqu’à ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/3/8/4/7224833-1-fre-FR/d259a6d5060b-AdobeStock_2153606986_Editorial_Use_Only.jpeg",
-    "published_raw": "2026-08-18CEST13:12:16",
-    "published_iso": "2026-08-18T13:12:16+02:00",
-    "fetched_at": "2026-08-18T13:02:46.093002+00:00"
   }
 }
