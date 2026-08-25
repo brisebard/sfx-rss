@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 17:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:16:24 +0000</lastBuildDate>
 
+    <item>
+      <title>Disney : accord avec Dhar Mann Studios ; production d'une série originale de 20 épisodes - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/disney-accord-avec-dhar-mann-studios-production-d-une-serie-originale-de-20-episodes</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/disney-accord-avec-dhar-mann-studios-production-d-une-serie-originale-de-20-episodes</guid>
+      <description>Disney a conclu un partenariat avec Dhar Mann Studios, ont annoncé les deux entreprises le 21 août. Le groupe a commandé une série originale de 20 épisodes, destinée à un public famille / jeunesse. Plus de détails sur le projet ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 25 Aug 2026 19:43:29 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/1/3/0/7230311-1-fre-FR/3d43f86ea8a2-Screenshot-2026-08-25-14.44.34.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Film Independent Spirit Awards 2027 : création d'un Digital Creator Award - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/film-independent-spirit-awards-2027-creation-d-un-digital-creator-award</link>
@@ -803,14 +811,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>La Motion Picture Association (MPA), organisation qui défend les intérêts des studios d’Hollywood et des plateformes de streaming, a signé lundi 17 août un protocole d’accord avec le groupe chinois ByteDance, maison mère de TikTok, afin de protéger la propriété ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 19 Aug 2026 15:32:21 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/0/5/0/7050504-1-fre-FR/e10a6de3675f-AdobeStock_400608260_Editorial_Use_Only.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Misti Films : le tournage de la "guerre des beaux pères"  a débuté en Belgique - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/misti-films-le-tournage-de-la-guerre-des-beaux-peres-a-debute-en-belgique</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/misti-films-le-tournage-de-la-guerre-des-beaux-peres-a-debute-en-belgique</guid>
-      <description>Selon nos informations, le réalisateur Vladimir Rodionov (Anges et Cie, sorti dans les salles le 7 mai 2025) tourne jusqu'au 24 septembre en Belgique de La Guerre des Beaux-Pères avec Arnaud Ducret, Emilie Caen, François Berléand, Romain Lancry, Clémentine Célarié. Une ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 19 Aug 2026 15:29:19 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/7/6/5/7225673-1-fre-FR/b42490b9010d-df0b4538a94ed5260fcd5a95237b1b75.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

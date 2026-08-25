@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/disney-accord-avec-dhar-mann-studios-production-d-une-serie-originale-de-20-episodes": {
+    "url": "https://www.satellifacts.com/news/actualite/disney-accord-avec-dhar-mann-studios-production-d-une-serie-originale-de-20-episodes",
+    "fallback_title": "Disney : accord avec Dhar Mann Studios ; production d'une ...",
+    "title": "Disney : accord avec Dhar Mann Studios ; production d'une série originale de 20 épisodes - SATELLIFACTS",
+    "description": "Disney a conclu un partenariat avec Dhar Mann Studios, ont annoncé les deux entreprises le 21 août. Le groupe a commandé une série originale de 20 épisodes, destinée à un public famille / jeunesse. Plus de détails sur le projet ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/1/3/0/7230311-1-fre-FR/3d43f86ea8a2-Screenshot-2026-08-25-14.44.34.png",
+    "published_raw": "2026-08-25CEST19:43:29",
+    "published_iso": "2026-08-25T19:43:29+02:00",
+    "fetched_at": "2026-08-25T18:16:23.835659+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/film-independent-spirit-awards-2027-creation-d-un-digital-creator-award": {
     "url": "https://www.satellifacts.com/news/actualite/film-independent-spirit-awards-2027-creation-d-un-digital-creator-award",
     "fallback_title": "Film Independent Spirit Awards 2027 : création d'un Digital Creator ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-08-19CEST15:32:21",
     "published_iso": "2026-08-19T15:32:21+02:00",
     "fetched_at": "2026-08-19T13:40:07.568855+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/misti-films-le-tournage-de-la-guerre-des-beaux-peres-a-debute-en-belgique": {
-    "url": "https://www.satellifacts.com/news/actualite/misti-films-le-tournage-de-la-guerre-des-beaux-peres-a-debute-en-belgique",
-    "fallback_title": "Misti Films : le tournage de la \"guerre des beaux ...",
-    "title": "Misti Films : le tournage de la \"guerre des beaux pères\"  a débuté en Belgique - SATELLIFACTS",
-    "description": "Selon nos informations, le réalisateur Vladimir Rodionov (Anges et Cie, sorti dans les salles le 7 mai 2025) tourne jusqu'au 24 septembre en Belgique de La Guerre des Beaux-Pères avec Arnaud Ducret, Emilie Caen, François Berléand, Romain Lancry, Clémentine Célarié. Une ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/7/6/5/7225673-1-fre-FR/b42490b9010d-df0b4538a94ed5260fcd5a95237b1b75.jpg",
-    "published_raw": "2026-08-19CEST15:29:19",
-    "published_iso": "2026-08-19T15:29:19+02:00",
-    "fetched_at": "2026-08-19T13:40:09.478301+00:00"
   }
 }
