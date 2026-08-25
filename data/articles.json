@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/audiences-24-08-2026-camping-paradis-et-l-amour-est-dans-le-pre-en-tete-arte-au-million": {
+    "url": "https://www.satellifacts.com/news/actualite/audiences-24-08-2026-camping-paradis-et-l-amour-est-dans-le-pre-en-tete-arte-au-million",
+    "fallback_title": "Audiences 24/08/2026 : \"Camping Paradis\" et \"L’amour est dans le pré\" ...",
+    "title": "Audiences 24/08/2026 : \"Camping Paradis\" et \"L’amour est dans le pré\" en tête, Arte au million - SATELLIFACTS",
+    "description": "TF1 s’inscrit en tête de la soirée lundi avec un inédit de la série Camping Paradis (JLA), regardée en moyenne par 2,89 millions de téléspectateurs pour 19 % de pda. La semaine dernière, une rediffusion en avait réuni 2,02 millions ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/6/5/9/7229568-1-fre-FR/3b5e4939000b-Camping-patisserie.png",
+    "published_raw": "2026-08-25CEST09:29:18",
+    "published_iso": "2026-08-25T09:29:18+02:00",
+    "fetched_at": "2026-08-25T08:08:32.723333+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-saison-bouvard-costume-habillage-black-mirror-boulot": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-saison-bouvard-costume-habillage-black-mirror-boulot",
     "fallback_title": "Au fil des (e)X (tweets) : saison, Bouvard, costume, habillage, \"Black Mirror\", boulot...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-08-17CEST10:53:43",
     "published_iso": "2026-08-17T10:53:43+02:00",
     "fetched_at": "2026-08-17T08:59:42.678094+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/satellifacts-reprise-du-fil-info": {
-    "url": "https://www.satellifacts.com/news/actualite/satellifacts-reprise-du-fil-info",
-    "fallback_title": "Satellifacts : reprise du fil info",
-    "title": "Satellifacts : reprise du fil info - SATELLIFACTS",
-    "description": "Ce lundi 17 août, Satellifacts reprend la publication de son fil d'info que vous pouvez consulter sur le site satellifacts.com ou sur l'appli SatellifactsLe numéro de rentrée sera, quant à lui, publié dès le lundi 24 août au matin.Toute l’équipe de Satellifacts ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/4/3944040-1-fre-FR/8329f7fe9137-logo_s_satellifax_satellifacts.png",
-    "published_raw": "2026-08-17CEST10:49:53",
-    "published_iso": "2026-08-17T10:49:53+02:00",
-    "fetched_at": "2026-08-17T08:59:44.661540+00:00"
   }
 }
