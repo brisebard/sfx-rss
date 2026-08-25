@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:52:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:19:09 +0000</lastBuildDate>
 
+    <item>
+      <title>Oscars 2027 : « Possible Love » de Lee Chang-dong candidat de la Corée du sud - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/oscars-2027-possible-love-de-lee-chang-dong-candidat-de-la-coree-du-sud</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/oscars-2027-possible-love-de-lee-chang-dong-candidat-de-la-coree-du-sud</guid>
+      <description>Possible Love de Lee Chang-dong a été choisi pour représenter la Corée du Sud à l’Oscar du meilleur film international, a annoncé le Korean Film Council, mardi 25 août. Le long métrage sera présenté en compétition à la prochaine Mostra de Venise, puis ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 25 Aug 2026 13:04:30 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/9/0/0/7230095-1-fre-FR/5e5ced7deffc-Possible-Love.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Etats-Unis : les médias allemands préoccupés par la réduction de la durée des visas des correspondants étrangers - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/etats-unis-les-medias-allemands-preoccupes-par-la-reduction-de-la-duree-des-visas-des-correspondants-etrangers</link>
@@ -803,14 +811,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Mercredi 19 août, la sortie en salles de la Palme d'or du festival de Cannes 2026, "Fjord" de Cristian Mungiu, ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 18 Aug 2026 10:45:22 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/3/5/4/7224530-1-fre-FR/54c4a827f845-Affiche-FJORD.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Interdiction des réseaux sociaux aux -15 ans : Macron demande un nouveau texte à Lecornu après la censure par le Conseil constitutionnel - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/interdiction-des-reseaux-sociaux-aux-15-ans-macron-demande-un-nouveau-texte-a-lecornu-apres-la-censure-par-le-conseil-constitutionnel</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/interdiction-des-reseaux-sociaux-aux-15-ans-macron-demande-un-nouveau-texte-a-lecornu-apres-la-censure-par-le-conseil-constitutionnel</guid>
-      <description>Emmanuel Macron a chargé Sébastien Lecornu de « travailler » à « une rédaction juridiquement robuste » de l'interdiction des réseaux sociaux aux moins de 15 ans, un engagement présidentiel de longue date, dont la version adoptée au Parlement a ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 17 Aug 2026 18:19:09 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/5/4/7224527-1-fre-FR/689118a94dd4-54452511637_6b0cf49548_c.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
