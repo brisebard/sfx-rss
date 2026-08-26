@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 05:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 05:45:28 +0000</lastBuildDate>
 
+    <item>
+      <title>Agence Intello : « Notre ambition ? Devenir un des grands vaisseaux de ce marché » (Vladimir Vinograd) - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/agence-intello-notre-ambition-devenir-un-des-grands-vaisseaux-de-ce-marche-vladimir-vinograd</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/agence-intello-notre-ambition-devenir-un-des-grands-vaisseaux-de-ce-marche-vladimir-vinograd</guid>
+      <description>Cinq ans après sa création, Intello est « installée sur le marché. Nous n’avons plus besoin de montrer les muscles », estime son DG, Vladimir Vinograd, auprès de Satellifacts. Cofondée en 2021 par Gaspard Guermonprez (alias Gaspard G) et Vladimir Vinograd, l’agence ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 26 Aug 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/3/4/3/7223436-1-fre-FR/4aff81e52632-OF_00267.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : Onfray, Morandini, Allen, radio ... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-onfray-morandini-allen-radio</link>
@@ -806,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Démarrage encourageant dans les salles franciliennes pour Fjord de Cristian Mungiu (Le Pacte), Palme d’or 2026, qui s’impose en tête du 14h Paris/périphérie (séances jusqu’à 14h59) mercredi 19 août, avec 3 334 entrées sur 95 séances, soit la meilleure moyenne ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 19 Aug 2026 17:23:02 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/4/8/5/7225844-1-fre-FR/4c929c29344b-FJORD-photos-001-OK-HD.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Toni Comiti Prod. : arrestation au Togo de deux réalisateurs en tournage de la collection documentaire "Les Routes de l'impossible" (France 5) - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/toni-comiti-prod.-arrestation-au-togo-de-deux-realisateurs-en-tournage-de-la-collection-documentaire-les-routes-de-l-impossible-france-5</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/toni-comiti-prod.-arrestation-au-togo-de-deux-realisateurs-en-tournage-de-la-collection-documentaire-les-routes-de-l-impossible-france-5</guid>
-      <description>Deux réalisateurs français travaillant pour la société de production Tony Comiti ont été arrêtés le 27 juillet au Togo, où ils sont actuellement détenus, selon des informations de médias locaux confirmées à l'AFP le 18 août au soir par le ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 19 Aug 2026 17:12:30 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/1/8/4/5564819-1-fre-FR/5252ac0e1ed0-tony_comiti_productions.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
