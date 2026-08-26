@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:56:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:31:55 +0000</lastBuildDate>
 
+    <item>
+      <title>Disney : le 1er "Created in LA", dédié à la creator economy, se tiendra les 17 et 18 septembre - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/disney-le-1er-created-in-la-dedie-a-la-creator-economy-se-tiendra-les-17-et-18-septembre</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/disney-le-1er-created-in-la-dedie-a-la-creator-economy-se-tiendra-les-17-et-18-septembre</guid>
+      <description>Disney a annoncé la création d'un nouvel événement dédié à la creator economy. "Created in LA" se déroulera à Los Angeles les 17 et 18 septembre, organisé et animé par Jon Youshaei. Après avoir travaillé huit ans chez YouTube et Instagram ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 26 Aug 2026 13:03:04 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/9/2/1/7231294-1-fre-FR/1bd38464c7a1-Created-in-LA-x-Disney-Logo-High-Res-2-1-1536x864.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Warner Bros. Animation : départ surprise du président Sam Register, non renouvelé par la direction - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/warner-bros.-animation-depart-surprise-du-president-sam-register-non-renouvele-par-la-direction</link>
@@ -806,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>La plainte visant le député UDR Charles Alloncle, rapporteur de la commission sur l’audiovisuel public, pour prise illégale d'intérêts et trafic d'influence a été classée sans suite, a indiqué le parquet national financier le 3 août. Cette plainte contre X avait ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 20 Aug 2026 16:28:24 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/3/3/4/6804335-1-fre-FR/85d8dfad261f-Capture-d-e-cran-2026-01-29-a-16.39.43.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Michel Dejeneffe : mort à 76 ans du ventriloque et créateur de la marionnette Tatayet - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/michel-dejeneffe-mort-a-76-ans-du-ventriloque-et-createur-de-la-marionnette-tatayet</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/michel-dejeneffe-mort-a-76-ans-du-ventriloque-et-createur-de-la-marionnette-tatayet</guid>
-      <description>Le ventriloque Michel Dejeneffe, papa de la célèbre marionnette Tatayet, un castor à la voix aigüe vêtu d'une salopette, est décédé le 7 août, à 76 ans, des suites de la maladie à corps de Lewy, dans une une clinique ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 20 Aug 2026 15:22:13 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/7/2/6/7226273-1-fre-FR/1b692050662e-Screenshot-2026-08-20-15.09.32.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>

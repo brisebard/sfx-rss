@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/disney-le-1er-created-in-la-dedie-a-la-creator-economy-se-tiendra-les-17-et-18-septembre": {
+    "url": "https://www.satellifacts.com/news/actualite/disney-le-1er-created-in-la-dedie-a-la-creator-economy-se-tiendra-les-17-et-18-septembre",
+    "fallback_title": "Disney : le 1er \"Created in LA\", dédié à la ...",
+    "title": "Disney : le 1er \"Created in LA\", dédié à la creator economy, se tiendra les 17 et 18 septembre - SATELLIFACTS",
+    "description": "Disney a annoncé la création d'un nouvel événement dédié à la creator economy. \"Created in LA\" se déroulera à Los Angeles les 17 et 18 septembre, organisé et animé par Jon Youshaei. Après avoir travaillé huit ans chez YouTube et Instagram ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/4/9/2/1/7231294-1-fre-FR/1bd38464c7a1-Created-in-LA-x-Disney-Logo-High-Res-2-1-1536x864.png",
+    "published_raw": "2026-08-26CEST13:03:04",
+    "published_iso": "2026-08-26T13:03:04+02:00",
+    "fetched_at": "2026-08-26T11:31:54.928134+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/warner-bros.-animation-depart-surprise-du-president-sam-register-non-renouvele-par-la-direction": {
     "url": "https://www.satellifacts.com/news/actualite/warner-bros.-animation-depart-surprise-du-president-sam-register-non-renouvele-par-la-direction",
     "fallback_title": "Warner Bros. Animation : départ surprise du président Sam Register, ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-08-20CEST16:28:24",
     "published_iso": "2026-08-20T16:28:24+02:00",
     "fetched_at": "2026-08-20T15:06:12.566194+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/michel-dejeneffe-mort-a-76-ans-du-ventriloque-et-createur-de-la-marionnette-tatayet": {
-    "url": "https://www.satellifacts.com/news/actualite/michel-dejeneffe-mort-a-76-ans-du-ventriloque-et-createur-de-la-marionnette-tatayet",
-    "fallback_title": "Michel Dejeneffe : mort à 76 ans du ventriloque et ...",
-    "title": "Michel Dejeneffe : mort à 76 ans du ventriloque et créateur de la marionnette Tatayet - SATELLIFACTS",
-    "description": "Le ventriloque Michel Dejeneffe, papa de la célèbre marionnette Tatayet, un castor à la voix aigüe vêtu d'une salopette, est décédé le 7 août, à 76 ans, des suites de la maladie à corps de Lewy, dans une une clinique ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/7/2/6/7226273-1-fre-FR/1b692050662e-Screenshot-2026-08-20-15.09.32.png",
-    "published_raw": "2026-08-20CEST15:22:13",
-    "published_iso": "2026-08-20T15:22:13+02:00",
-    "fetched_at": "2026-08-20T13:52:41.986002+00:00"
   }
 }
