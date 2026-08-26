@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:15:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:03:03 +0000</lastBuildDate>
 
+    <item>
+      <title>Audiences 25/08/2026 : France 3 leader avec le final de la série "OPJ" - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/audiences-25-08-2026-france-3-leader-avec-le-final-de-la-serie-opj</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-25-08-2026-france-3-leader-avec-le-final-de-la-serie-opj</guid>
+      <description>France 3 est en tête des audiences mardi soir grâce au final de la saison 7 de la série OPJ (Terence Films). Les deux épisodes ont réuni en moyenne 2,77 millions de téléspectateurs soit 18,75 % de pda, en hausse sur ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 26 Aug 2026 09:33:29 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/7/5/0/7160577-1-fre-FR/21e8fb508883-OPJ_-_STUDIO_-_S06E00_preview_2300_0.jpg.jpg-copie.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Agence Intello : « Notre ambition ? Devenir un des grands vaisseaux de ce marché » (Vladimir Vinograd) - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/agence-intello-notre-ambition-devenir-un-des-grands-vaisseaux-de-ce-marche-vladimir-vinograd</link>
@@ -806,14 +814,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Une information judiciaire pour "homicide involontaire par conducteur" a été ouverte mercredi 19 août après l'accident routier dans les Deux-Sèvres qui, le 17 août, a coûté la vie au producteur Nicolas Altmayer (Mandarin &amp; Compagnie) et à sa compagne Mathilde ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 19 Aug 2026 18:16:57 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/4/0/5/7225049-1-fre-FR/5997ac19a644-VS-YouTube-CannesStreamersForumNetflixFranceExclusiveHowtoProducewithStreamingServicesinFrance-YouTube-24-28-.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EXCLU – Box-office, 14h Paris/périphérie : « Fjord » fait mieux que les précédentes Palmes d'or - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/exclu-box-office-14h-paris-peripherie-fjord-fait-mieux-que-les-precedentes-palmes-d-or</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/exclu-box-office-14h-paris-peripherie-fjord-fait-mieux-que-les-precedentes-palmes-d-or</guid>
-      <description>Démarrage encourageant dans les salles franciliennes pour Fjord de Cristian Mungiu (Le Pacte), Palme d’or 2026, qui s’impose en tête du 14h Paris/périphérie (séances jusqu’à 14h59) mercredi 19 août, avec 3 334 entrées sur 95 séances, soit la meilleure moyenne ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 19 Aug 2026 17:23:02 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/4/8/5/7225844-1-fre-FR/4c929c29344b-FJORD-photos-001-OK-HD.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
