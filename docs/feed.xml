@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 15:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:33:17 +0000</lastBuildDate>
 
+    <item>
+      <title>Festival FFA 2026/Palmarès: Le Valois de diamant pour "Voilà, c'est fini" de Gustave Kervern - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/festival-ffa-2026-palmares-le-valois-de-diamant-pour-voila-c-est-fini-de-gustave-kervern</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/festival-ffa-2026-palmares-le-valois-de-diamant-pour-voila-c-est-fini-de-gustave-kervern</guid>
+      <description>A l’issue d’une compétition de haute tenue, le jury du 19ème Festival du film francophone d’Angoulême, présidé par l'acteur et réalisateur Franck Dubosc, a décerné le Valois de diamant, plus haute distinction de l’événement, à Voilà, c'est fini, le premier ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sat, 29 Aug 2026 19:40:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/4/6/7236440-1-fre-FR/45337eed86e4-voila-c-est-fini.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>RMC : le youtubeur Sam Zirah rejoint "Les Grandes Gueules" - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/rmc-le-youtubeur-sam-zirah-rejoint-les-grandes-gueules</link>
@@ -811,14 +819,6 @@ Aucun événement programméMercredi 26 août 
       <description>Corinne Maclou (Isabelle Huppert) hante depuis des années les plateaux de cinéma. Inlassablement, cette éternelle figurante distribue son CV et poursuit son rêve de décrocher un vrai rôle, jusqu’au jour où, sur un tournage, Sandrine Kiberlain (dans son propre rôle) ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 24 Aug 2026 19:20:34 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/2/1/9/7229129-1-fre-FR/252385e7d949-NiVueNiConnue_Affiche_120x160_2008_JPG.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>YouTube : la plateforme négocierait des accords d'exclusivité avec certains créateurs - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/youtube-la-plateforme-negocierait-des-accords-d-exclusivite-avec-certains-createurs</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/youtube-la-plateforme-negocierait-des-accords-d-exclusivite-avec-certains-createurs</guid>
-      <description>YouTube négocierait actuellement des accords de distribution exclusive avec certains créateurs populaires, selon plusieurs sources proches du dossier. Ces deals pourraient s'élever à plusieurs millions de dollars, selon ces sources citées par Bloomberg le 19 août.Pour la plateforme de Google ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 24 Aug 2026 19:16:26 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/1/7/4/7124711-1-fre-FR/84c6d3dce07f-AdobeStock_389011180_Editorial_Use_Only.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
