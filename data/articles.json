@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/rsf-des-chatbots-d-ia-donnent-acces-aux-contenus-de-medias-russes-interdits-enquete": {
+    "url": "https://www.satellifacts.com/news/actualite/rsf-des-chatbots-d-ia-donnent-acces-aux-contenus-de-medias-russes-interdits-enquete",
+    "fallback_title": "RSF : des chatbots d'IA donnent accès aux contenus de ...",
+    "title": "RSF : des chatbots d'IA donnent accès aux contenus de médias russes interdits (enquête) - SATELLIFACTS",
+    "description": "La plupart des chatbots d'intelligence artificielle générative grand public, comme ChatGPT d'OpenAI, permettent de consulter des contenus de médias officiels russes sous sanctions européennes et donc interdits de diffusion en Europe, selon une enquête publiée mercredi 2 septembre par Reporters ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/1/0/7/5857017-1-fre-FR/6428c3576fdb-reporters_sans_frontieres_rsf_-_logo.png",
+    "published_raw": "2026-09-02CEST19:11:51",
+    "published_iso": "2026-09-02T19:11:51+02:00",
+    "fetched_at": "2026-09-02T19:48:25.670237+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/netflix-tournage-en-cours-de-la-suite-d-ad-vitam": {
     "url": "https://www.satellifacts.com/news/actualite/netflix-tournage-en-cours-de-la-suite-d-ad-vitam",
     "fallback_title": "Netflix : tournage en cours de la suite d’« Ad Vitam »",
@@ -988,15 +998,5 @@
     "published_raw": "2026-08-26CEST19:21:06",
     "published_iso": "2026-08-26T19:21:06+02:00",
     "fetched_at": "2026-08-26T18:08:06.957574+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/festival-de-la-fiction-2026-la-selection-et-les-jurys-devoiles": {
-    "url": "https://www.satellifacts.com/news/actualite/festival-de-la-fiction-2026-la-selection-et-les-jurys-devoiles",
-    "fallback_title": "Festival de la fiction 2026 : la sélection et les jurys ...",
-    "title": "Festival de la fiction 2026 : la sélection et les jurys dévoilés - SATELLIFACTS",
-    "description": "La sélection de l’édition 2026 du Festival de la fiction de La Rochelle (15-20 septembre), dévoilée mercredi 26 août, présentera 35 séries et unitaires en compétition (voir ci-dessous), auxquelles s’ajoutent six fictions événements présentées en avant-première.« Nous avons rarement vu autant d’œuvres qui se confrontent ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/1/7/2/7232712-1-fre-FR/f1587cc0d1d7-Alessandro-CLEMENZA-Warner-Bros.-Discovery.jpg",
-    "published_raw": "2026-08-26CEST19:11:37",
-    "published_iso": "2026-08-26T19:11:37+02:00",
-    "fetched_at": "2026-08-26T18:08:08.468119+00:00"
   }
 }

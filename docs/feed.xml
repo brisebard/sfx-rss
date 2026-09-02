@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 17:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 19:48:26 +0000</lastBuildDate>
 
+    <item>
+      <title>RSF : des chatbots d'IA donnent accès aux contenus de médias russes interdits (enquête) - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/rsf-des-chatbots-d-ia-donnent-acces-aux-contenus-de-medias-russes-interdits-enquete</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/rsf-des-chatbots-d-ia-donnent-acces-aux-contenus-de-medias-russes-interdits-enquete</guid>
+      <description>La plupart des chatbots d'intelligence artificielle générative grand public, comme ChatGPT d'OpenAI, permettent de consulter des contenus de médias officiels russes sous sanctions européennes et donc interdits de diffusion en Europe, selon une enquête publiée mercredi 2 septembre par Reporters ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 02 Sep 2026 19:11:51 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/1/0/7/5857017-1-fre-FR/6428c3576fdb-reporters_sans_frontieres_rsf_-_logo.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Netflix : tournage en cours de la suite d’« Ad Vitam » - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/netflix-tournage-en-cours-de-la-suite-d-ad-vitam</link>
@@ -818,14 +826,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>DAZN a annoncé mercredi 26 août avoir conclu un accord portant sur l'acquisition d'EverPass Media, accélérant ainsi son expansion aux États-Unis via cette plateforme médiatique dédiée aux bars, restaurants, hôtels et autres établissements commerciaux, et détentrice d’un portefeuille attractif de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 26 Aug 2026 19:21:06 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/1/7/2/7232715-1-fre-FR/cd0a5862ab11-Screenshot-2026-08-26-19.05.52.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Festival de la fiction 2026 : la sélection et les jurys dévoilés - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/festival-de-la-fiction-2026-la-selection-et-les-jurys-devoiles</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/festival-de-la-fiction-2026-la-selection-et-les-jurys-devoiles</guid>
-      <description>La sélection de l’édition 2026 du Festival de la fiction de La Rochelle (15-20 septembre), dévoilée mercredi 26 août, présentera 35 séries et unitaires en compétition (voir ci-dessous), auxquelles s’ajoutent six fictions événements présentées en avant-première.« Nous avons rarement vu autant d’œuvres qui se confrontent ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 26 Aug 2026 19:11:37 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/1/7/2/7232712-1-fre-FR/f1587cc0d1d7-Alessandro-CLEMENZA-Warner-Bros.-Discovery.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
