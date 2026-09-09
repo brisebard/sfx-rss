@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 00:38:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 05:16:41 +0000</lastBuildDate>
 
+    <item>
+      <title>Timothée Vienne : en portant la création documentaire sur YouTube, « VideoClub Studio veut contribuer au changement de modèle » - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/timothee-vienne-en-portant-la-creation-documentaire-sur-youtube-videoclub-studio-veut-contribuer-au-changement-de-modele</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/timothee-vienne-en-portant-la-creation-documentaire-sur-youtube-videoclub-studio-veut-contribuer-au-changement-de-modele</guid>
+      <description>VideoClub Studio a ouvert cet été un « nouveau chapitre », explique son fondateur Timothée Vienne à Satellifacts. Six ans après sa création, la société compte huit collaborateurs et produit régulièrement des reportages pour 66 minutes, 50' Inside ou Zone interdite, ainsi ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 09 Sep 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/6/5/7/7247568-1-fre-FR/ff39cd273f3e-unnamed-2026-09-08T084828.900.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : télévision, viable, accueil, éducation, chips, "Bunker" ... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-television-viable-accueil-education-chips-bunker</link>
@@ -819,14 +827,6 @@ Aucun événement programmé.
       <description>Les salles de cinéma françaises ont attiré 19,94 millions de spectateurs en août 2026, soit le double de la fréquentation enregistrée l'an dernier sur la même période (9,96 millions) et le meilleur mois d'août depuis le début du suivi statistique ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 02 Sep 2026 14:27:00 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/5/1/7/7227158-1-fre-FR/deecd06860ab-Screenshot-2026-08-18-15.27.58.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Deadline TV Disruptor Award : Jeremy Zag lauréat de la 3e édition du prix - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/deadline-tv-disruptor-award-jeremy-zag-laureat-de-la-3e-edition-du-prix</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/deadline-tv-disruptor-award-jeremy-zag-laureat-de-la-3e-edition-du-prix</guid>
-      <description>Le producteur, auteur et réalisateur Jeremy Zag, fondateur et président du studio d’animation ZAG, à l’origine du phénomène mondial Miraculous, recevra un Deadline TV Disruptor Award à l'occasion des 32es Rendez-vous d’Unifrance au Havre, a indiqué l’organisme en charge de la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 02 Sep 2026 13:29:58 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/8/6/0/7240686-1-fre-FR/65e0de8fb89d-jeremy-zag-3e-laureat-francais-du-deadline-tv-disruptor-award-remis-lors-des-rendez-vous-d-unifrance-au-havre.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
