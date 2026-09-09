@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:47:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:03:37 +0000</lastBuildDate>
 
+    <item>
+      <title>Xilam : série de préventes mondiales pour les nouvelles saisons de plusieurs de ses "franchises emblématiques" - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/xilam-serie-de-preventes-mondiales-pour-les-nouvelles-saisons-de-plusieurs-de-ses-franchises-emblematiques</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/xilam-serie-de-preventes-mondiales-pour-les-nouvelles-saisons-de-plusieurs-de-ses-franchises-emblematiques</guid>
+      <description>Xilam Animation (Marc du Pontavice) a conclu une série de "préventes internationales" pour les "nouvelles saisons en production de plusieurs de ses franchises incontournables", a annoncé la société de production et de distribution mercredi 9 septembre. Il s'agit de la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 09 Sep 2026 20:08:35 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/3/5/0/7250536-1-fre-FR/cb60be074128-Screenshot-2026-09-09-18.26.35.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Groupe M6 / saison 2026-2027 : « une télévision qui se vit » - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/groupe-m6-saison-2026-2027-une-television-qui-se-vit</link>
@@ -819,14 +827,6 @@ Sommet Lumière à Saint-Paul-de-Vence
       <description>Canal+ va lancer plusieurs nouveaux formats digitaux autour du sport, a annoncé le groupe lors de la présentation de sa saison 2026-2027 le 3 septembre (Satellifacts, 3 septembre).Le journaliste Bertrand Latour animera une « interview sans concession » et le consultant rugby Sacha Valleau lancera ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 03 Sep 2026 17:57:54 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/5/0/3/7243053-1-fre-FR/687cf607f04e-Screenshot-2026-09-03-15.27.40.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Radio France : un préavis de grève pour les 13 et 14 septembre, après le refus de renoncer à l’édito de Charles Sapin (« Valeurs actuelles ») - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/radio-france-un-preavis-de-greve-pour-les-13-et-14-septembre-apres-le-refus-de-renoncer-a-l-edito-de-charles-sapin-valeurs-actuelles</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/radio-france-un-preavis-de-greve-pour-les-13-et-14-septembre-apres-le-refus-de-renoncer-a-l-edito-de-charles-sapin-valeurs-actuelles</guid>
-      <description>Le bras de fer se durcit entre la direction et l’intersyndicale de Radio France autour de l’éditorial politique de Charles Sapin, directeur adjoint de la rédaction de Valeurs actuelles, le dimanche matin sur France Inter. L’intersyndicale a déposé, jeudi 3 septembre, un ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 03 Sep 2026 17:54:18 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/4/8/4/6504847-1-fre-FR/86d20748a89f-intersyndicale_radio_france.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
