@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/rfi-renforcement-du-dispositif-de-lutte-contre-la-desinformation-en-moldavie": {
+    "url": "https://www.satellifacts.com/news/actualite/rfi-renforcement-du-dispositif-de-lutte-contre-la-desinformation-en-moldavie",
+    "fallback_title": "RFI : renforcement du dispositif de lutte contre la désinformation en Moldavie",
+    "title": "RFI : renforcement du dispositif de lutte contre la désinformation en Moldavie - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | L'émission de RFI România Moldova Zoom devient Focus Moldova et \"renforce son dispositif de lutte contre la désinformation\" en Moldavie, a indiqué la filiale roumaine de RFI jeudi 10 septembre. Diffusée du lundi au vendredi à 10h15 à 11h, elle a ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/4/6/9/2/7252964-1-fre-FR/32952458faa2-image002.png",
+    "published_raw": "2026-09-10CEST19:42:09",
+    "published_iso": "2026-09-10T19:42:09+02:00",
+    "fetched_at": "2026-09-10T19:52:28.976524+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/oscars-2027-cinq-films-preselectionnes-pour-representer-la-france": {
     "url": "https://www.satellifacts.com/news/actualite/oscars-2027-cinq-films-preselectionnes-pour-representer-la-france",
     "fallback_title": "Oscars 2027 : cinq films présélectionnés pour représenter la France",
@@ -988,15 +998,5 @@
     "published_raw": "2026-09-04CEST15:33:17",
     "published_iso": "2026-09-04T15:33:17+02:00",
     "fetched_at": "2026-09-04T15:04:17.065373+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/cnews-la-chroniqueuse-russe-pro-kremlin-xenia-fedorova-annoncee-de-retour-a-l-antenne-en-visio": {
-    "url": "https://www.satellifacts.com/news/actualite/cnews-la-chroniqueuse-russe-pro-kremlin-xenia-fedorova-annoncee-de-retour-a-l-antenne-en-visio",
-    "fallback_title": "CNews : la chroniqueuse russe pro-Kremlin Xenia Fedorova annoncée de retour ...",
-    "title": "CNews : la chroniqueuse russe pro-Kremlin Xenia Fedorova annoncée de retour à l’antenne en visio - SATELLIFACTS",
-    "description": "CNews s’apprête à refaire appel à sa chroniqueuse russe pro-Kremlin Xenia Fedorova, malgré son expulsion du territoire national dans le courant de l’été. Le présentateur de la chaîne Gauthier Le Bret a souligné, mercredi 2 septembre, que « Xenia Federova n’est pas empêchée ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/1/3/4/7244319-1-fre-FR/c536631b76d1-Screenshot-2026-09-04-13.11.07.png",
-    "published_raw": "2026-09-04CEST15:32:08",
-    "published_iso": "2026-09-04T15:32:08+02:00",
-    "fetched_at": "2026-09-04T15:04:19.555722+00:00"
   }
 }

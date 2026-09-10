@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 17:21:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 19:52:29 +0000</lastBuildDate>
 
+    <item>
+      <title>RFI : renforcement du dispositif de lutte contre la désinformation en Moldavie - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/rfi-renforcement-du-dispositif-de-lutte-contre-la-desinformation-en-moldavie</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/rfi-renforcement-du-dispositif-de-lutte-contre-la-desinformation-en-moldavie</guid>
+      <description>ACCÈS LIBRE | L'émission de RFI România Moldova Zoom devient Focus Moldova et "renforce son dispositif de lutte contre la désinformation" en Moldavie, a indiqué la filiale roumaine de RFI jeudi 10 septembre. Diffusée du lundi au vendredi à 10h15 à 11h, elle a ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 10 Sep 2026 19:42:09 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/6/9/2/7252964-1-fre-FR/32952458faa2-image002.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Oscars 2027 : cinq films présélectionnés pour représenter la France - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/oscars-2027-cinq-films-preselectionnes-pour-representer-la-france</link>
@@ -816,14 +824,6 @@ président du parti Les Républicains et candidat à l'élection présidentielle
       <description>Le poids économique direct de la culture (audiovisuel, spectacle vivant, arts visuels, patrimoine, architecture, livre, publicité, enseignement culturel et presse) s’est établi à 54,1 milliards d’euros en 2024, soit 2,1 % de l’ensemble de l’économie, un taux stable depuis 2021, selon un ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 04 Sep 2026 15:33:17 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/7/9/2/6792971-1-fre-FR/9192c1372d7c-AdobeStock_1112101515_Editorial_Use_Only.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>CNews : la chroniqueuse russe pro-Kremlin Xenia Fedorova annoncée de retour à l’antenne en visio - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/cnews-la-chroniqueuse-russe-pro-kremlin-xenia-fedorova-annoncee-de-retour-a-l-antenne-en-visio</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/cnews-la-chroniqueuse-russe-pro-kremlin-xenia-fedorova-annoncee-de-retour-a-l-antenne-en-visio</guid>
-      <description>CNews s’apprête à refaire appel à sa chroniqueuse russe pro-Kremlin Xenia Fedorova, malgré son expulsion du territoire national dans le courant de l’été. Le présentateur de la chaîne Gauthier Le Bret a souligné, mercredi 2 septembre, que « Xenia Federova n’est pas empêchée ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 04 Sep 2026 15:32:08 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/1/3/4/7244319-1-fre-FR/c536631b76d1-Screenshot-2026-09-04-13.11.07.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
