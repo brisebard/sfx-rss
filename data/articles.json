@@ -1,4 +1,44 @@
 {
+  "https://www.satellifacts.com/news/agenda/agenda-lundi-14-et-mardi-15-septembre-2026": {
+    "url": "https://www.satellifacts.com/news/agenda/agenda-lundi-14-et-mardi-15-septembre-2026",
+    "fallback_title": "Agenda : lundi 14 et mardi 15 septembre 2026",
+    "title": "Agenda : lundi 14 et mardi 15 septembre 2026 - SATELLIFACTS",
+    "description": "Du 10 au 20 septembre : 51e édition du Toronto International Film Festival (TIFF)\nDu 14 au 17 septembre : 37e Cartoon Forum à ToulouseLundi 15 et Mardi 15 septembre\nAucun événement programmé\n  © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
+    "published_raw": "2026-09-13CEST23:00:00",
+    "published_iso": "2026-09-13T23:00:00+02:00",
+    "fetched_at": "2026-09-13T21:09:25.751064+00:00"
+  },
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-alloncle-notre-salut-80-ternus-alice-cm": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-alloncle-notre-salut-80-ternus-alice-cm",
+    "fallback_title": "Au fil des (e)X (tweets) : Alloncle, « Notre salut », 80, Ternus, \"Alice\", CM...",
+    "title": "Au fil des (e)X (tweets) : Alloncle, « Notre salut », 80, Ternus, \"Alice\", CM... - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | Le Canard enchaîné @canardenchaine Charles Alloncle va enfin pouvoir crier à la censure ! Le député du parti d’Eric Ciotti voulait faire l’actu de cette rentrée en sortant un livre revenant sur son aventure de rapporteur de la commission d’enquête ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-09-13CEST23:00:00",
+    "published_iso": "2026-09-13T23:00:00+02:00",
+    "fetched_at": "2026-09-13T21:09:27.573320+00:00"
+  },
+  "https://www.satellifacts.com/news/actualite/box-office-monde-les-ensorceleuses-2-prend-la-premiere-place": {
+    "url": "https://www.satellifacts.com/news/actualite/box-office-monde-les-ensorceleuses-2-prend-la-premiere-place",
+    "fallback_title": "Box-office monde : « Les Ensorceleuses 2 » prend la ...",
+    "title": "Box-office monde : « Les Ensorceleuses 2 » prend la première place - SATELLIFACTS",
+    "description": "Pour sa première semaine en salles, Les Ensorceleuses 2 (Warner Bros. International) prend la première place du box-office international. À l'issue du week-end, le film distribué dans 78 territoires enregistre 46 millions de dollars de recettes (39,67 M€). Ce succès relègue ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/9/8/4/7254898-1-fre-FR/e002e22608c2-Ensorceleuses-2-.jpg",
+    "published_raw": "2026-09-13CEST22:36:37",
+    "published_iso": "2026-09-13T22:36:37+02:00",
+    "fetched_at": "2026-09-13T21:09:29.405783+00:00"
+  },
+  "https://www.satellifacts.com/news/actualite/samuel-goldwyn-films-acquisition-des-droits-us-de-la-bataille-de-gaulle": {
+    "url": "https://www.satellifacts.com/news/actualite/samuel-goldwyn-films-acquisition-des-droits-us-de-la-bataille-de-gaulle",
+    "fallback_title": "Samuel Goldwyn Films : acquisition des droits US de « ...",
+    "title": "Samuel Goldwyn Films : acquisition des droits US de « La Bataille de Gaulle » - SATELLIFACTS",
+    "description": "Samuel Goldwyn Films a acquis les droits de distribution aux États-Unis de La Bataille de Gaulle (Pathé Films), la fresque historique en deux volets d'Antonin Baudry, présentée hors compétition à Cannes et dont la première partie (La Bataille De Gaulle ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/1/7/2/7132719-1-fre-FR/3bdb1af47581-Capture-d-e-cran-2026-06-26-a-17.50.53.png",
+    "published_raw": "2026-09-13CEST22:26:03",
+    "published_iso": "2026-09-13T22:26:03+02:00",
+    "fetched_at": "2026-09-13T21:09:31.055491+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-les-ensorceleuses-2-en-tete-spider-man-brand-new-day-en-passe-de-devenir-le-plus-gros-succes-de-l-histoi": {
     "url": "https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-les-ensorceleuses-2-en-tete-spider-man-brand-new-day-en-passe-de-devenir-le-plus-gros-succes-de-l-histoi",
     "fallback_title": "Box-office Etats-Unis & Canada : « Les Ensorceleuses 2 » ...",
@@ -958,45 +998,5 @@
     "published_raw": "2026-09-08CEST11:31:06",
     "published_iso": "2026-09-08T11:31:06+02:00",
     "fetched_at": "2026-09-08T13:35:54.615281+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/eicar-directeur-et-chef-d-etablissement-du-campus-lyonnais-de-l-ecole": {
-    "url": "https://www.satellifacts.com/news/actualite/eicar-directeur-et-chef-d-etablissement-du-campus-lyonnais-de-l-ecole",
-    "fallback_title": "Eicar : directeur et chef d'établissement du campus lyonnais de ...",
-    "title": "Eicar : directeur et chef d'établissement du campus lyonnais de l'Ecole - SATELLIFACTS",
-    "description": "Stéphane Annequin, ex-directeur général du 3iS à Lyon, a pris la tête du campus lyonnais de l'Eicar afin d'en renforcer la place au sein de l'écosystème audiovisuel et créatif régional, a annoncé l'école internationale de cinéma et d'audiovisuel dirigée par ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/4/7/7/7247745-1-fre-FR/ab9e7c45fa24-Stephane-Annequin.png",
-    "published_raw": "2026-09-08CEST10:58:16",
-    "published_iso": "2026-09-08T10:58:16+02:00",
-    "fetched_at": "2026-09-08T09:08:29.303180+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/mediawan-accord-avec-le-studio-sud-coreen-sll-pour-des-remakes-et-des-coproductions": {
-    "url": "https://www.satellifacts.com/news/actualite/mediawan-accord-avec-le-studio-sud-coreen-sll-pour-des-remakes-et-des-coproductions",
-    "fallback_title": "Mediawan : accord avec le studio sud-coréen SLL pour des ...",
-    "title": "Mediawan : accord avec le studio sud-coréen SLL pour des remakes et des coproductions - SATELLIFACTS",
-    "description": "Mediawan et le studio sud-coréen SLL ont conclu un partenariat stratégique pour des remakes et des coproductions entre l'Europe et la Corée du Sud, à l'occasion du Sommet Lumière, lundi 7 septembre. Il portera principalement sur des séries, mais les ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/4/6/8/0/6790864-1-fre-FR/4cd25dbdeb3d-Screenshot-2026-01-19-11.54.24.png",
-    "published_raw": "2026-09-08CEST10:57:20",
-    "published_iso": "2026-09-08T10:57:20+02:00",
-    "fetched_at": "2026-09-08T09:08:30.783215+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/audiences-07-09-2026-demarrage-en-tete-pour-la-serie-la-cible-le-rouge-et-le-noir-s-effondre-en-deuxieme-semaine": {
-    "url": "https://www.satellifacts.com/news/actualite/audiences-07-09-2026-demarrage-en-tete-pour-la-serie-la-cible-le-rouge-et-le-noir-s-effondre-en-deuxieme-semaine",
-    "fallback_title": "Audiences 07/09/2026 : démarrage en tête pour la série \"La Cible\", ...",
-    "title": "Audiences 07/09/2026 : démarrage en tête pour la série \"La Cible\", \"Le Rouge et le Noir\" s’effondre en deuxième semaine - SATELLIFACTS",
-    "description": "TF1 arrive en tête des audiences de la soirée lundi avec le lancement de la série La Cible (DEMD Productions / Mediawan) avec Tomer Sisley et Fauve Hautot, qui réunit en moyenne 3,66 millions de téléspectateurs pour une pda de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/7/5/7/7247571-1-fre-FR/60081f867eb6-La-Cible.png",
-    "published_raw": "2026-09-08CEST09:29:40",
-    "published_iso": "2026-09-08T09:29:40+02:00",
-    "fetched_at": "2026-09-08T09:08:32.176434+00:00"
-  },
-  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-dati-information-savin-sapin-prison-diversite-deneuve-bond": {
-    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-dati-information-savin-sapin-prison-diversite-deneuve-bond",
-    "fallback_title": "Au fil des (e)X (tweets) : Dati, information, Savin, Sapin, ...",
-    "title": "Au fil des (e)X (tweets) : Dati, information, Savin, Sapin, prison, diversité, Deneuve, Bond... - SATELLIFACTS",
-    "description": "Le Canard enchaîné @canardenchaine « Le Canard » vous l’avait bien dit. Dès le 9 juin nous vous annoncions le retour de Rachida Dati dans la magistrature. Elle venait alors de demander à Gérald Darmanin de lui retrouver un poste ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
-    "published_raw": "2026-09-07CEST23:06:00",
-    "published_iso": "2026-09-07T23:06:00+02:00",
-    "fetched_at": "2026-09-07T22:01:41.616483+00:00"
   }
 }
