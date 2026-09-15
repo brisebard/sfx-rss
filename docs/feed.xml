@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:03:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 04:47:00 +0000</lastBuildDate>
 
+    <item>
+      <title>Satellifacts : chaque mardi retrouvez la nouvelle newsletter consacrée au cinéma - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/satellifacts-chaque-mardi-retrouvez-la-nouvelle-newsletter-consacree-au-cinema</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/satellifacts-chaque-mardi-retrouvez-la-nouvelle-newsletter-consacree-au-cinema</guid>
+      <description>Bonne nouvelle pour nos abonnés : Satellifacts lance aujourd’hui sa newsletter hebdomadaire consacrée au cinéma, venant ainsi enrichir son offre d’information.Chaque mardi matin, retrouvez l’essentiel de l’actualité du secteur en France et à l’international : stratégies des producteurs, des distributeurs et des ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Tue, 15 Sep 2026 04:15:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/9/9/6/5486992-1-fre-FR/39af706d0763-logo_satellifacts.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : camarade, Cunk, précommandes, précipitation, Benatia... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-camarade-cunk-precommandes-precipitation-benatia</link>
@@ -820,14 +828,6 @@ Le lundi 21 septembre, cinq films seront proposés :
       <description>Madi Makambu de Machérie Ekwa Bahango, coproduction entre la RDC, la France et la Belgique (CL1 D’œil Studio, Boucan Films) a reçu le prix du meilleur film en postproduction, mardi 8 septembre, lors de la 14e édition du programme Final ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 09 Sep 2026 10:58:02 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/6/3/9/7249369-1-fre-FR/3a58a101bd4b-8-settembre-spazio-incontri-final-cut-in-venice-award1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Piratage sportif : le blocage en temps réel des adresses IP opérationnel en janvier 2027 du côté de l'Arcom - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/revue-de-presse/piratage-sportif-le-blocage-en-temps-reel-des-adresses-ip-operationnel-en-janvier-2027-du-cote-de-l-arcom</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/revue-de-presse/piratage-sportif-le-blocage-en-temps-reel-des-adresses-ip-operationnel-en-janvier-2027-du-cote-de-l-arcom</guid>
-      <description>(Florent Vairet, "Les Echos", mercredi 9 septembre 2026)[Alors que la loi relative à l'organisation, à la gestion et au financement du sport professionnel, adoptée à l'unanimité au Parlement courant juillet, renforce le dispositif de lutte contre le piratage sportif, autorisant ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 09 Sep 2026 10:34:58 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/9/4/0/4210499-1-fre-FR/129667969b5a-les_echos.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

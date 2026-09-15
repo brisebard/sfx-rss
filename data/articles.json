@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/satellifacts-chaque-mardi-retrouvez-la-nouvelle-newsletter-consacree-au-cinema": {
+    "url": "https://www.satellifacts.com/news/actualite/satellifacts-chaque-mardi-retrouvez-la-nouvelle-newsletter-consacree-au-cinema",
+    "fallback_title": "Satellifacts : chaque mardi retrouvez la nouvelle newsletter consacrée au cinéma",
+    "title": "Satellifacts : chaque mardi retrouvez la nouvelle newsletter consacrée au cinéma - SATELLIFACTS",
+    "description": "Bonne nouvelle pour nos abonnés : Satellifacts lance aujourd’hui sa newsletter hebdomadaire consacrée au cinéma, venant ainsi enrichir son offre d’information.Chaque mardi matin, retrouvez l’essentiel de l’actualité du secteur en France et à l’international : stratégies des producteurs, des distributeurs et des ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/9/9/6/5486992-1-fre-FR/39af706d0763-logo_satellifacts.jpg",
+    "published_raw": "2026-09-15CEST04:15:00",
+    "published_iso": "2026-09-15T04:15:00+02:00",
+    "fetched_at": "2026-09-15T04:46:59.847135+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-camarade-cunk-precommandes-precipitation-benatia": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-camarade-cunk-precommandes-precipitation-benatia",
     "fallback_title": "Au fil des (e)X (tweets) : camarade, Cunk, précommandes, précipitation, Benatia...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-09-09CEST10:58:02",
     "published_iso": "2026-09-09T10:58:02+02:00",
     "fetched_at": "2026-09-09T09:52:52.795485+00:00"
-  },
-  "https://www.satellifacts.com/news/revue-de-presse/piratage-sportif-le-blocage-en-temps-reel-des-adresses-ip-operationnel-en-janvier-2027-du-cote-de-l-arcom": {
-    "url": "https://www.satellifacts.com/news/revue-de-presse/piratage-sportif-le-blocage-en-temps-reel-des-adresses-ip-operationnel-en-janvier-2027-du-cote-de-l-arcom",
-    "fallback_title": "Piratage sportif : le blocage en temps réel des adresses ...",
-    "title": "Piratage sportif : le blocage en temps réel des adresses IP opérationnel en janvier 2027 du côté de l'Arcom - SATELLIFACTS",
-    "description": "(Florent Vairet, \"Les Echos\", mercredi 9 septembre 2026)[Alors que la loi relative à l'organisation, à la gestion et au financement du sport professionnel, adoptée à l'unanimité au Parlement courant juillet, renforce le dispositif de lutte contre le piratage sportif, autorisant ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/9/4/0/4210499-1-fre-FR/129667969b5a-les_echos.jpg",
-    "published_raw": "2026-09-09CEST10:34:58",
-    "published_iso": "2026-09-09T10:34:58+02:00",
-    "fetched_at": "2026-09-09T09:52:54.604330+00:00"
   }
 }
