@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 00:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:00:59 +0000</lastBuildDate>
 
+    <item>
+      <title>EXCLU - Netflix : 1er financeur privé de la création française (audiovisuel et cinéma) en 2025 - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/exclu-netflix-1er-financeur-prive-de-la-creation-francaise-audiovisuel-et-cinema-en-2025</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/exclu-netflix-1er-financeur-prive-de-la-creation-francaise-audiovisuel-et-cinema-en-2025</guid>
+      <description>Selon nos informations, Netflix a été en 2025 le premier financeur privé de la création française (audiovisuel + cinéma) avec plus de 300 millions d'euros investis, derrière le groupe public France Télévisions. Ce chiffre devrait être dévoilé ce vendredi 18 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Fri, 18 Sep 2026 04:30:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/3/5/6/6136535-2-fre-FR/7d0edb97b030-netflix-logo-copie.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : évidence, surprise, régie, Huppert, joker, string - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-evidence-surprise-regie-huppert-joker-string</link>
@@ -823,14 +831,6 @@ Aucun événement programmé
       <description>Le producteur de cinéma britannique oscarisé Jeremy Thomas, dont la filmographie comprend notamment Le Dernier Empereur, Crash et Sexy Beast, est décédé vendredi 11 septembre à l'âge de 77 ans. Il s'est « éteint paisiblement », entouré de sa famille ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Sun, 13 Sep 2026 19:50:47 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/0/9/4/7254901-1-fre-FR/dcf126b19fd2-Screenshot-2026-09-13-19.49.31.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Rachat de SFR : le CSE d'Altice France assigne la direction en justice pour obtenir des documents - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/rachat-de-sfr-le-cse-d-altice-france-assigne-la-direction-en-justice-pour-obtenir-des-documents</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/rachat-de-sfr-le-cse-d-altice-france-assigne-la-direction-en-justice-pour-obtenir-des-documents</guid>
-      <description>Le CSE central d'Altice France, maison mère de SFR, a assigné en justice la direction du groupe pour obtenir des documents relatifs au projet de cession de l'opérateur, ont annoncé vendredi 11 septembre plusieurs sources internes à l'AFP. « La ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Sun, 13 Sep 2026 18:49:52 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/9/0/4/7034092-1-fre-FR/95a554c20a57-AdobeStock_422163667_Editorial_Use_Only.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/exclu-netflix-1er-financeur-prive-de-la-creation-francaise-audiovisuel-et-cinema-en-2025": {
+    "url": "https://www.satellifacts.com/news/actualite/exclu-netflix-1er-financeur-prive-de-la-creation-francaise-audiovisuel-et-cinema-en-2025",
+    "fallback_title": "EXCLU - Netflix : 1er financeur privé de la création ...",
+    "title": "EXCLU - Netflix : 1er financeur privé de la création française (audiovisuel et cinéma) en 2025 - SATELLIFACTS",
+    "description": "Selon nos informations, Netflix a été en 2025 le premier financeur privé de la création française (audiovisuel + cinéma) avec plus de 300 millions d'euros investis, derrière le groupe public France Télévisions. Ce chiffre devrait être dévoilé ce vendredi 18 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/3/5/6/6136535-2-fre-FR/7d0edb97b030-netflix-logo-copie.png",
+    "published_raw": "2026-09-18CEST04:30:00",
+    "published_iso": "2026-09-18T04:30:00+02:00",
+    "fetched_at": "2026-09-18T05:00:58.202149+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-evidence-surprise-regie-huppert-joker-string": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-evidence-surprise-regie-huppert-joker-string",
     "fallback_title": "Au fil des (e)X (tweets) : évidence, surprise, régie, Huppert, joker, string",
@@ -988,15 +998,5 @@
     "published_raw": "2026-09-13CEST19:50:47",
     "published_iso": "2026-09-13T19:50:47+02:00",
     "fetched_at": "2026-09-13T18:48:04.054987+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/rachat-de-sfr-le-cse-d-altice-france-assigne-la-direction-en-justice-pour-obtenir-des-documents": {
-    "url": "https://www.satellifacts.com/news/actualite/rachat-de-sfr-le-cse-d-altice-france-assigne-la-direction-en-justice-pour-obtenir-des-documents",
-    "fallback_title": "Rachat de SFR : le CSE d'Altice France assigne la ...",
-    "title": "Rachat de SFR : le CSE d'Altice France assigne la direction en justice pour obtenir des documents - SATELLIFACTS",
-    "description": "Le CSE central d'Altice France, maison mère de SFR, a assigné en justice la direction du groupe pour obtenir des documents relatifs au projet de cession de l'opérateur, ont annoncé vendredi 11 septembre plusieurs sources internes à l'AFP. « La ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/9/0/4/7034092-1-fre-FR/95a554c20a57-AdobeStock_422163667_Editorial_Use_Only.jpeg",
-    "published_raw": "2026-09-13CEST18:49:52",
-    "published_iso": "2026-09-13T18:49:52+02:00",
-    "fetched_at": "2026-09-13T18:48:05.446276+00:00"
   }
 }
