@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/festival-de-la-fiction-le-palmares-de-l-edition-2026": {
+    "url": "https://www.satellifacts.com/news/actualite/festival-de-la-fiction-le-palmares-de-l-edition-2026",
+    "fallback_title": "Festival de la fiction : le palmarès de l'édition 2026",
+    "title": "Festival de la fiction : le palmarès de l'édition 2026 - SATELLIFACTS",
+    "description": "19 prix ont été attribué lors de la cérémonie du palmarès du Festival de la fiction 2026, samedi 19 septembre à La Rochelle. 35 séries et unitaires étaient en compétition lors de cette édition du festival, qui s’est ouverte le ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/8/2/7/7237283-1-fre-FR/7eb7b3507c4a-FFTV2026-1.png",
+    "published_raw": "2026-09-19CEST23:31:22",
+    "published_iso": "2026-09-19T23:31:22+02:00",
+    "fetched_at": "2026-09-19T22:30:46.539977+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/festival-de-la-fiction-2026-france-tv-une-ambition-editoriale-confirmee-a-l-ere-du-streaming-first-et-des-coupes-budgetaires": {
     "url": "https://www.satellifacts.com/news/actualite/festival-de-la-fiction-2026-france-tv-une-ambition-editoriale-confirmee-a-l-ere-du-streaming-first-et-des-coupes-budgetaires",
     "fallback_title": "Festival de la fiction 2026 - France TV : une ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-09-14CEST20:24:47",
     "published_iso": "2026-09-14T20:24:47+02:00",
     "fetched_at": "2026-09-14T21:51:48.662743+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/amazon-netflix-youtube-alliance-pour-defendre-l-acces-aux-contenus-en-streaming": {
-    "url": "https://www.satellifacts.com/news/actualite/amazon-netflix-youtube-alliance-pour-defendre-l-acces-aux-contenus-en-streaming",
-    "fallback_title": "Amazon / Netflix/ YouTube : alliance pour défendre l'accès aux ...",
-    "title": "Amazon / Netflix/ YouTube : alliance pour défendre l'accès aux contenus en streaming - SATELLIFACTS",
-    "description": "Amazon, maison mère de Prime Video, Netflix et YouTube (Google) unissent leurs forces pour défendre l'accès des consommateurs aux contenus en ligne et ont créé à Washington une nouvelle alliance baptisée Streaming Access and Choice Alliance (SACA), piloté par le ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/1/3/7/7257312-1-fre-FR/9d62555b9fc4-Screenshot-2026-09-14-20.13.48.png",
-    "published_raw": "2026-09-14CEST20:24:10",
-    "published_iso": "2026-09-14T20:24:10+02:00",
-    "fetched_at": "2026-09-14T21:51:50.282399+00:00"
   }
 }
