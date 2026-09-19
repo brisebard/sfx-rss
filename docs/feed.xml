@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 19 Sep 2026 11:57:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 15:43:26 +0000</lastBuildDate>
 
+    <item>
+      <title>Festival de la fiction 2026 - France TV : une ambition éditoriale confirmée à l'ère du "streaming first" et des coupes budgétaires - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/festival-de-la-fiction-2026-france-tv-une-ambition-editoriale-confirmee-a-l-ere-du-streaming-first-et-des-coupes-budgetaires</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/festival-de-la-fiction-2026-france-tv-une-ambition-editoriale-confirmee-a-l-ere-du-streaming-first-et-des-coupes-budgetaires</guid>
+      <description>Dans un environnement budgétaire incertain, au centre de tous les débats à La Rochelle, et une nouvelle stratégie de « streaming first », France Télévisions a présenté vendredi 18 septembre ses orientations pour la fiction, genre le plus plébiscité sur sa plateforme ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sat, 19 Sep 2026 14:31:31 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/5/2/4/7264259-1-fre-FR/2373989c0dc5-WhatsApp-Image-2026-09-19-at-12.04.05.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>Festival de la fiction 2026 - France TV : "Toucher à la création est pour moi un crève-cœur" (Delphine Ernotte Cunci) - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/festival-de-la-fiction-2026-france-tv-toucher-a-la-creation-est-pour-moi-un-creve-caeur-delphine-ernotte-cunci</link>
@@ -820,14 +828,6 @@ Du 14 au 17 septembre : 37e Cartoon Forum à ToulouseMardi 15 et mercredi ... ©
       <description>Amazon, maison mère de Prime Video, Netflix et YouTube (Google) unissent leurs forces pour défendre l'accès des consommateurs aux contenus en ligne et ont créé à Washington une nouvelle alliance baptisée Streaming Access and Choice Alliance (SACA), piloté par le ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 14 Sep 2026 20:24:10 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/1/3/7/7257312-1-fre-FR/9d62555b9fc4-Screenshot-2026-09-14-20.13.48.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mediawan : le groupe a dégagé un Ebitda de 13 % en 2025 - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/revue-de-presse/mediawan-le-groupe-a-degage-un-ebitda-de-13-en-2025</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/revue-de-presse/mediawan-le-groupe-a-degage-un-ebitda-de-13-en-2025</guid>
-      <description>(Emmanuel Paquette et Jamal Henni, "L'informé", lundi 14 septembre 2026) [...] Le groupe créé par Pierre-Antoine Capton, Matthieu Pigasse et Xavier Niel (par ailleurs actionnaire de l’Informé) est loin d’être une martingale. En 2025, il a dégagé une marge brute d’exploitation ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 14 Sep 2026 20:12:32 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/3/2/5/5485230-1-fre-FR/eb00a62655d3-l_informe_logo.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>

@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/festival-de-la-fiction-2026-france-tv-une-ambition-editoriale-confirmee-a-l-ere-du-streaming-first-et-des-coupes-budgetaires": {
+    "url": "https://www.satellifacts.com/news/actualite/festival-de-la-fiction-2026-france-tv-une-ambition-editoriale-confirmee-a-l-ere-du-streaming-first-et-des-coupes-budgetaires",
+    "fallback_title": "Festival de la fiction 2026 - France TV : une ...",
+    "title": "Festival de la fiction 2026 - France TV : une ambition éditoriale confirmée à l'ère du \"streaming first\" et des coupes budgétaires - SATELLIFACTS",
+    "description": "Dans un environnement budgétaire incertain, au centre de tous les débats à La Rochelle, et une nouvelle stratégie de « streaming first », France Télévisions a présenté vendredi 18 septembre ses orientations pour la fiction, genre le plus plébiscité sur sa plateforme ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/5/2/4/7264259-1-fre-FR/2373989c0dc5-WhatsApp-Image-2026-09-19-at-12.04.05.jpeg",
+    "published_raw": "2026-09-19CEST14:31:31",
+    "published_iso": "2026-09-19T14:31:31+02:00",
+    "fetched_at": "2026-09-19T15:43:25.521282+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/festival-de-la-fiction-2026-france-tv-toucher-a-la-creation-est-pour-moi-un-creve-caeur-delphine-ernotte-cunci": {
     "url": "https://www.satellifacts.com/news/actualite/festival-de-la-fiction-2026-france-tv-toucher-a-la-creation-est-pour-moi-un-creve-caeur-delphine-ernotte-cunci",
     "fallback_title": "Festival de la fiction 2026 - France TV : \"Toucher ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-09-14CEST20:24:10",
     "published_iso": "2026-09-14T20:24:10+02:00",
     "fetched_at": "2026-09-14T21:51:50.282399+00:00"
-  },
-  "https://www.satellifacts.com/news/revue-de-presse/mediawan-le-groupe-a-degage-un-ebitda-de-13-en-2025": {
-    "url": "https://www.satellifacts.com/news/revue-de-presse/mediawan-le-groupe-a-degage-un-ebitda-de-13-en-2025",
-    "fallback_title": "Mediawan : le groupe a dégagé un Ebitda de 13 ...",
-    "title": "Mediawan : le groupe a dégagé un Ebitda de 13 % en 2025 - SATELLIFACTS",
-    "description": "(Emmanuel Paquette et Jamal Henni, \"L'informé\", lundi 14 septembre 2026) [...] Le groupe créé par Pierre-Antoine Capton, Matthieu Pigasse et Xavier Niel (par ailleurs actionnaire de l’Informé) est loin d’être une martingale. En 2025, il a dégagé une marge brute d’exploitation ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/3/2/5/5485230-1-fre-FR/eb00a62655d3-l_informe_logo.png",
-    "published_raw": "2026-09-14CEST20:12:32",
-    "published_iso": "2026-09-14T20:12:32+02:00",
-    "fetched_at": "2026-09-14T21:51:52.249172+00:00"
   }
 }
