@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/exclu-l-esprit-sorcier-tv-la-chaine-devient-vasco-et-ouvre-sa-ligne-editoriale-a-la-culture-et-la-decouverte": {
+    "url": "https://www.satellifacts.com/news/actualite/exclu-l-esprit-sorcier-tv-la-chaine-devient-vasco-et-ouvre-sa-ligne-editoriale-a-la-culture-et-la-decouverte",
+    "fallback_title": "EXCLU - L’Esprit Sorcier TV : la chaîne devient Vasco et ...",
+    "title": "EXCLU - L’Esprit Sorcier TV : la chaîne devient Vasco et ouvre sa ligne éditoriale à la culture et la découverte - SATELLIFACTS",
+    "description": "Selon nos informations, L’Esprit Sorcier TV, « la chaîne de la science et de l’environnement » distribuée par les FAI et accessible sur YouTube, change de nom et devient Vasco à compter de ce lundi 21 septembre. Cette évolution témoigne d’une ambition renouvelée pour ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/0/9/3/7263902-1-fre-FR/e224d357635e-Screenshot-2026-09-18-16.22.39.png",
+    "published_raw": "2026-09-21CEST04:00:00",
+    "published_iso": "2026-09-21T04:00:00+02:00",
+    "fetched_at": "2026-09-21T07:05:42.738524+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-chefs-d-oeuvre-surfer-suspension-sabotage-goal-lucas-boyard": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-chefs-d-oeuvre-surfer-suspension-sabotage-goal-lucas-boyard",
     "fallback_title": "Au fil des (e)X (tweets) : chefs-d'oeuvre, surfer, suspension, sabotage, goal, Lucas, Boyard...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-09-15CEST12:27:23",
     "published_iso": "2026-09-15T12:27:23+02:00",
     "fetched_at": "2026-09-15T14:28:12.869021+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/nostalgie-philippe-vandel-arrive-a-l-antenne-pour-un-rendez-vous-hebdomadaire-decline-sur-youtube": {
-    "url": "https://www.satellifacts.com/news/actualite/nostalgie-philippe-vandel-arrive-a-l-antenne-pour-un-rendez-vous-hebdomadaire-decline-sur-youtube",
-    "fallback_title": "Nostalgie : Philippe Vandel arrive à l'antenne pour un rendez-vous ...",
-    "title": "Nostalgie : Philippe Vandel arrive à l'antenne pour un rendez-vous hebdomadaire décliné sur YouTube - SATELLIFACTS",
-    "description": "Philippe Vandel arrive au micro de Nostalgie pour animer Nostalgie Vinyle Club, une nouvelle émission hebdomadaire déclinée en format audio, vidéo et podcast, a annoncé la station du groupe NRJ, lundi 14 septembre. Chaque dimanche à 20h, Philippe Vandel reçoit ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/3/9/7/7257939-1-fre-FR/08bb50b8d33b-Screenshot-2026-09-15-11.48.43.png",
-    "published_raw": "2026-09-15CEST12:20:00",
-    "published_iso": "2026-09-15T12:20:00+02:00",
-    "fetched_at": "2026-09-15T14:28:14.596090+00:00"
   }
 }

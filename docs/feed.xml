@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 21 Sep 2026 01:34:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:05:43 +0000</lastBuildDate>
 
+    <item>
+      <title>EXCLU - L’Esprit Sorcier TV : la chaîne devient Vasco et ouvre sa ligne éditoriale à la culture et la découverte - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/exclu-l-esprit-sorcier-tv-la-chaine-devient-vasco-et-ouvre-sa-ligne-editoriale-a-la-culture-et-la-decouverte</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/exclu-l-esprit-sorcier-tv-la-chaine-devient-vasco-et-ouvre-sa-ligne-editoriale-a-la-culture-et-la-decouverte</guid>
+      <description>Selon nos informations, L’Esprit Sorcier TV, « la chaîne de la science et de l’environnement » distribuée par les FAI et accessible sur YouTube, change de nom et devient Vasco à compter de ce lundi 21 septembre. Cette évolution témoigne d’une ambition renouvelée pour ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 21 Sep 2026 04:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/0/9/3/7263902-1-fre-FR/e224d357635e-Screenshot-2026-09-18-16.22.39.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : chefs-d'oeuvre, surfer, suspension, sabotage, goal, Lucas, Boyard... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-chefs-d-oeuvre-surfer-suspension-sabotage-goal-lucas-boyard</link>
@@ -819,14 +827,6 @@ Du 14 au 17 septembre : 37e Cartoon Forum à ToulouseJeudi 17 septembre
 série médicale The Pitt (HBO Max) a été élue meilleure série dramatique pour la deuxième année consécutive, lundi 14 septembre lors de la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 15 Sep 2026 12:27:23 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/4/8/7/7257840-1-fre-FR/df7990446c41-Screenshot-2026-09-15-10.36.52.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nostalgie : Philippe Vandel arrive à l'antenne pour un rendez-vous hebdomadaire décliné sur YouTube - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/nostalgie-philippe-vandel-arrive-a-l-antenne-pour-un-rendez-vous-hebdomadaire-decline-sur-youtube</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/nostalgie-philippe-vandel-arrive-a-l-antenne-pour-un-rendez-vous-hebdomadaire-decline-sur-youtube</guid>
-      <description>Philippe Vandel arrive au micro de Nostalgie pour animer Nostalgie Vinyle Club, une nouvelle émission hebdomadaire déclinée en format audio, vidéo et podcast, a annoncé la station du groupe NRJ, lundi 14 septembre. Chaque dimanche à 20h, Philippe Vandel reçoit ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 15 Sep 2026 12:20:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/3/9/7/7257939-1-fre-FR/08bb50b8d33b-Screenshot-2026-09-15-11.48.43.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
