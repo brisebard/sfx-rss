@@ -1,4 +1,24 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-privatiser-matinale-europe-2-moula-edito": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-privatiser-matinale-europe-2-moula-edito",
+    "fallback_title": "Au fil des (e)X (tweets) : 9h, privatiser, matinale, Europe 2, moula, édito ...",
+    "title": "Au fil des (e)X (tweets) : 9h, privatiser, matinale, Europe 2, moula, édito ... - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | UGC @UGCcinemas 579 spectateurs matinaux pour ce #9hdesHalles du 23 septembre 2026 ! [103 entrées pour Avengers : Endgame extended, 75 pour Primetime, 73 pour Garance]France Inter @franceinter Faut-il privatiser l’audiovisuel public ? Pour Nicolas de Tavernost, créateur et ancien ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-09-23CEST23:00:00",
+    "published_iso": "2026-09-23T23:00:00+02:00",
+    "fetched_at": "2026-09-23T21:53:57.502542+00:00"
+  },
+  "https://www.satellifacts.com/news/agenda/agenda-jeudi-24-et-vendredi-25-septembre": {
+    "url": "https://www.satellifacts.com/news/agenda/agenda-jeudi-24-et-vendredi-25-septembre",
+    "fallback_title": "Agenda : jeudi 24 et vendredi 25 septembre",
+    "title": "Agenda : jeudi 24 et vendredi 25 septembre - SATELLIFACTS",
+    "description": "Parmi les invités médias : \nFrance Inter - 9h05, Le grand portrait de Sonia Devillers : Emmanuel Marre, réalisateur du film Notre salut, en salles le 30 septembreDu 18 au 26 septembre : 74e édition du Festival de San Sebastián\nDu 21 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
+    "published_raw": "2026-09-23CEST22:00:00",
+    "published_iso": "2026-09-23T22:00:00+02:00",
+    "fetched_at": "2026-09-23T21:53:59.259634+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/budget-france-tv-la-sacd-le-blic-ainsi-que-la-boucle-documentaire-associe-a-la-garrd-interpellent-le-gouvernement": {
     "url": "https://www.satellifacts.com/news/actualite/budget-france-tv-la-sacd-le-blic-ainsi-que-la-boucle-documentaire-associe-a-la-garrd-interpellent-le-gouvernement",
     "fallback_title": "Budget France TV : la SACD, le Blic ainsi que ...",
@@ -8,6 +28,16 @@
     "published_raw": "2026-09-23CEST20:44:31",
     "published_iso": "2026-09-23T20:44:31+02:00",
     "fetched_at": "2026-09-23T18:52:28.196278+00:00"
+  },
+  "https://www.satellifacts.com/news/actualite/budget-france-tv-la-sacd-le-blic-ainsi-que-la-boucle-documentaire-associee-a-la-garrd-interpellent-le-gouvernement": {
+    "url": "https://www.satellifacts.com/news/actualite/budget-france-tv-la-sacd-le-blic-ainsi-que-la-boucle-documentaire-associee-a-la-garrd-interpellent-le-gouvernement",
+    "fallback_title": "Budget France TV : la SACD, le Blic ainsi que ...",
+    "title": "Budget France TV : la SACD, le Blic ainsi que la Boucle documentaire, associée à la Garrd, interpellent le gouvernement - SATELLIFACTS",
+    "description": "Les réactions à la baisse de 47 millions d’euros de la dotation publique allouée à France Télévisions pour 2027, qui se traduira par une économie de 90 M€ (notre \"Confidentiel\" du 17 septembre), se sont poursuivis ce mercredi, avec les ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/0/0/1/6991009-1-fre-FR/ee8ec4305e42-unnamed.jpg",
+    "published_raw": "2026-09-23CEST20:44:31",
+    "published_iso": "2026-09-23T20:44:31+02:00",
+    "fetched_at": "2026-09-23T21:54:00.865179+00:00"
   },
   "https://www.satellifacts.com/news/actualite/youtube-nouvelles-fonctionnalites-pour-les-createurs-et-les-spectateurs": {
     "url": "https://www.satellifacts.com/news/actualite/youtube-nouvelles-fonctionnalites-pour-les-createurs-et-les-spectateurs",
@@ -968,35 +998,5 @@
     "published_raw": "2026-09-18CEST09:37:14",
     "published_iso": "2026-09-18T09:37:14+02:00",
     "fetched_at": "2026-09-18T09:36:55.443405+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/audiences-17-09-2026-tf1-en-tete-avec-la-fin-du-mystere-de-la-chambre-jaune-envoye-special-mobilise-sur-france-2": {
-    "url": "https://www.satellifacts.com/news/actualite/audiences-17-09-2026-tf1-en-tete-avec-la-fin-du-mystere-de-la-chambre-jaune-envoye-special-mobilise-sur-france-2",
-    "fallback_title": "Audiences 17/09/2026 : TF1 en tête avec la fin du \"Mystère ...",
-    "title": "Audiences 17/09/2026 : TF1 en tête avec la fin du \"Mystère de la chambre jaune\" ; \"Envoyé spécial\" mobilise sur France 2 - SATELLIFACTS",
-    "description": "TF1 est en tête des audiences jeudi soir avec la suite et fin de la minisérie Le Mystère de la chambre jaune (Incognita Télévision). Les deux épisodes inédits sont regardés par environ 2,7 millions de téléspectateurs en moyenne pour 19,2 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/2/6/3/7243623-1-fre-FR/b39c075db18f-Screenshot-2026-09-04-09.25.09.png",
-    "published_raw": "2026-09-18CEST09:24:58",
-    "published_iso": "2026-09-18T09:24:58+02:00",
-    "fetched_at": "2026-09-18T09:36:56.851726+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/exclu-netflix-1er-financeur-prive-de-la-creation-francaise-audiovisuel-et-cinema-en-2025": {
-    "url": "https://www.satellifacts.com/news/actualite/exclu-netflix-1er-financeur-prive-de-la-creation-francaise-audiovisuel-et-cinema-en-2025",
-    "fallback_title": "EXCLU - Netflix : 1er financeur privé de la création ...",
-    "title": "EXCLU - Netflix : 1er financeur privé de la création française (audiovisuel et cinéma) en 2025 - SATELLIFACTS",
-    "description": "Selon nos informations, Netflix a été en 2025 le premier financeur privé de la création française (audiovisuel + cinéma) avec plus de 300 millions d'euros investis, derrière le groupe public France Télévisions. Ce chiffre devrait être dévoilé ce vendredi 18 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/3/5/6/6136535-2-fre-FR/7d0edb97b030-netflix-logo-copie.png",
-    "published_raw": "2026-09-18CEST04:30:00",
-    "published_iso": "2026-09-18T04:30:00+02:00",
-    "fetched_at": "2026-09-18T05:00:58.202149+00:00"
-  },
-  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-evidence-surprise-regie-huppert-joker-string": {
-    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-evidence-surprise-regie-huppert-joker-string",
-    "fallback_title": "Au fil des (e)X (tweets) : évidence, surprise, régie, Huppert, joker, string",
-    "title": "Au fil des (e)X (tweets) : évidence, surprise, régie, Huppert, joker, string - SATELLIFACTS",
-    "description": "ACCÈS LIBRE | Didier Allouch @CanalDidier Alors qu'il y avait l'évidence De Gaulle dans la course, la France a décidé d'envoyer un autre film aux Oscars. Ok, alors… Même si c'est tout à son honneur d'envoyer un réalisateur russe dissident dans la course ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
-    "published_raw": "2026-09-17CEST23:00:00",
-    "published_iso": "2026-09-17T23:00:00+02:00",
-    "fetched_at": "2026-09-17T22:15:19.411148+00:00"
   }
 }
