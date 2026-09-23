@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/prime-video-les-createurs-de-contenu-viennent-vers-nous-pour-depasser-le-plafond-de-verre-du-financement-thomas-dubois": {
+    "url": "https://www.satellifacts.com/news/actualite/prime-video-les-createurs-de-contenu-viennent-vers-nous-pour-depasser-le-plafond-de-verre-du-financement-thomas-dubois",
+    "fallback_title": "Prime Video : « Les créateurs de contenu viennent vers nous pour ...",
+    "title": "Prime Video : « Les créateurs de contenu viennent vers nous pour dépasser le plafond de verre du financement » (Thomas Dubois) - SATELLIFACTS",
+    "description": "A l’heure où les collaborations de l’audiovisuel avec les créateurs de contenu s’accélèrent, Prime Video fait figure de pionnier. « La force du digital, c’est de faire tomber les barrières », résume pour Satellifacts Thomas Dubois, directeur d’Amazon MGM Studios France. C’est ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/0/1/1/7261103-1-fre-FR/8bd05a60afb0-Thomas-HD-horizontal.jpg",
+    "published_raw": "2026-09-23CEST07:00:00",
+    "published_iso": "2026-09-23T07:00:00+02:00",
+    "fetched_at": "2026-09-23T05:13:15.006920+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-sortie-trafic-proximite-salariee-after-foot-noel": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-sortie-trafic-proximite-salariee-after-foot-noel",
     "fallback_title": "Au fil des (e)X (tweets) : sortie, trafic, proximité, salariée, \"After foot\", noël",
@@ -988,15 +998,5 @@
     "published_raw": "2026-09-17CEST12:51:12",
     "published_iso": "2026-09-17T12:51:12+02:00",
     "fetched_at": "2026-09-17T11:31:02.395983+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/cst-lancement-d-une-formation-aux-premiers-secours-en-sante-mentale": {
-    "url": "https://www.satellifacts.com/news/actualite/cst-lancement-d-une-formation-aux-premiers-secours-en-sante-mentale",
-    "fallback_title": "CST : lancement d'une formation aux premiers secours en santé ...",
-    "title": "CST : lancement d'une formation aux premiers secours en santé mentale - SATELLIFACTS",
-    "description": "La CST va lancer une formation aux premiers secours en santé mentale, avec une première session à Paris les 19 et 20 novembre a-t-elle annoncé, jeudi 17 septembre. L'ambition est de donner « des clés concrètes pour apporter un premier soutien ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/4/5/9/7/5957954-1-fre-FR/7811c583992b-cst_logo.png",
-    "published_raw": "2026-09-17CEST11:49:05",
-    "published_iso": "2026-09-17T11:49:05+02:00",
-    "fetched_at": "2026-09-17T11:31:04.273967+00:00"
   }
 }

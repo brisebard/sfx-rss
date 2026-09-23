@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 23 Sep 2026 00:41:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 05:13:16 +0000</lastBuildDate>
 
+    <item>
+      <title>Prime Video : « Les créateurs de contenu viennent vers nous pour dépasser le plafond de verre du financement » (Thomas Dubois) - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/prime-video-les-createurs-de-contenu-viennent-vers-nous-pour-depasser-le-plafond-de-verre-du-financement-thomas-dubois</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/prime-video-les-createurs-de-contenu-viennent-vers-nous-pour-depasser-le-plafond-de-verre-du-financement-thomas-dubois</guid>
+      <description>A l’heure où les collaborations de l’audiovisuel avec les créateurs de contenu s’accélèrent, Prime Video fait figure de pionnier. « La force du digital, c’est de faire tomber les barrières », résume pour Satellifacts Thomas Dubois, directeur d’Amazon MGM Studios France. C’est ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 23 Sep 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/0/1/1/7261103-1-fre-FR/8bd05a60afb0-Thomas-HD-horizontal.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : sortie, trafic, proximité, salariée, "After foot", noël - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-sortie-trafic-proximite-salariee-after-foot-noel</link>
@@ -813,14 +821,6 @@ Parmi les ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Po
       <description>Didier Varrod, directeur musical des antennes, quittera Radio France à la fin de la saison, a-t-il indiqué dans Le Parisien le 16 septembre, information confirmée à Satellifacts par le groupe public."Je ne suis absolument pas fatigué, bien au contraire j’ai ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 17 Sep 2026 12:51:12 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/7/8/1/7261877-1-fre-FR/aff3d6a802cc-Screenshot-2026-09-17-12.29.36.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>CST : lancement d'une formation aux premiers secours en santé mentale - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/cst-lancement-d-une-formation-aux-premiers-secours-en-sante-mentale</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/cst-lancement-d-une-formation-aux-premiers-secours-en-sante-mentale</guid>
-      <description>La CST va lancer une formation aux premiers secours en santé mentale, avec une première session à Paris les 19 et 20 novembre a-t-elle annoncé, jeudi 17 septembre. L'ambition est de donner « des clés concrètes pour apporter un premier soutien ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 17 Sep 2026 11:49:05 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/5/9/7/5957954-1-fre-FR/7811c583992b-cst_logo.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
