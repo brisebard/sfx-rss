@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 24 Sep 2026 00:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:53:57 +0000</lastBuildDate>
 
+    <item>
+      <title>EXCLU - Michou : la saison 2 de "Terminal" coproduite et distribuée à l'international par Dreamspark - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/exclu-michou-la-saison-2-de-terminal-coproduite-et-distribuee-a-l-international-par-dreamspark</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/exclu-michou-la-saison-2-de-terminal-coproduite-et-distribuee-a-l-international-par-dreamspark</guid>
+      <description>Selon nos informations, Dreamspark coproduit avec MichouCorp, société de production de Michou, la saison 2 du jeu Terminal. Le format, réinventé, sera également distribué à l'international par le studio dirigé par Moe Bennani. Dreamspark assure la production artistique.Terminal a été ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 24 Sep 2026 04:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/6/2/0/7270260-1-fre-FR/c2d8eca62f3c-Terminal-New-season-Cover.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : 9h, privatiser, matinale, Europe 2, moula, édito ... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-privatiser-matinale-europe-2-moula-edito</link>
@@ -809,14 +817,6 @@ Aucun événement programmé
       <description>The American French Film Festival (TAFFF) a dévoilé le 17 septembre les douze séries et documentaires français en compétition pour sa 30e édition (3 au 8 novembre à Los Angeles).Les séries sélectionnées sont : L’Affaire Laura Stern (Tetra Media Fiction et Torcello Productions ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 18 Sep 2026 09:39:03 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/5/8/2/7262852-1-fre-FR/d3e39b51650d-unnamed-1-.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EXCLU - Contenus : 65 % de Français regardent des vidéos de créateurs pour apprendre (Odoxa / influx) - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/exclu-contenus-65-de-francais-regardent-des-videos-de-createurs-pour-apprendre-odoxa-influx</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/exclu-contenus-65-de-francais-regardent-des-videos-de-createurs-pour-apprendre-odoxa-influx</guid>
-      <description>Au cours des douze derniers mois, 65 % des Français ont regardé la vidéo d'un créateur de contenu (YouTube, podcast, Facebook, Instagram, LinkedIn, TikTok...) pour apprendre ou comprendre quelque chose, selon le baromètre mensuel pour septembre d'Odoxa pour l’agence /influx.Chaque ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 18 Sep 2026 09:37:14 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/7/0/3/7263074-1-fre-FR/011ab0d1ad42-Screenshot-2026-09-18-08.43.29.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>

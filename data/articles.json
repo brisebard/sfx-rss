@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/exclu-michou-la-saison-2-de-terminal-coproduite-et-distribuee-a-l-international-par-dreamspark": {
+    "url": "https://www.satellifacts.com/news/actualite/exclu-michou-la-saison-2-de-terminal-coproduite-et-distribuee-a-l-international-par-dreamspark",
+    "fallback_title": "EXCLU - Michou : la saison 2 de \"Terminal\" coproduite ...",
+    "title": "EXCLU - Michou : la saison 2 de \"Terminal\" coproduite et distribuée à l'international par Dreamspark - SATELLIFACTS",
+    "description": "Selon nos informations, Dreamspark coproduit avec MichouCorp, société de production de Michou, la saison 2 du jeu Terminal. Le format, réinventé, sera également distribué à l'international par le studio dirigé par Moe Bennani. Dreamspark assure la production artistique.Terminal a été ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/6/2/0/7270260-1-fre-FR/c2d8eca62f3c-Terminal-New-season-Cover.png",
+    "published_raw": "2026-09-24CEST04:00:00",
+    "published_iso": "2026-09-24T04:00:00+02:00",
+    "fetched_at": "2026-09-24T04:53:56.219622+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-privatiser-matinale-europe-2-moula-edito": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-privatiser-matinale-europe-2-moula-edito",
     "fallback_title": "Au fil des (e)X (tweets) : 9h, privatiser, matinale, Europe 2, moula, édito ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-09-18CEST09:39:03",
     "published_iso": "2026-09-18T09:39:03+02:00",
     "fetched_at": "2026-09-18T09:36:53.856767+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/exclu-contenus-65-de-francais-regardent-des-videos-de-createurs-pour-apprendre-odoxa-influx": {
-    "url": "https://www.satellifacts.com/news/actualite/exclu-contenus-65-de-francais-regardent-des-videos-de-createurs-pour-apprendre-odoxa-influx",
-    "fallback_title": "EXCLU - Contenus : 65 % de Français regardent des ...",
-    "title": "EXCLU - Contenus : 65 % de Français regardent des vidéos de créateurs pour apprendre (Odoxa / influx) - SATELLIFACTS",
-    "description": "Au cours des douze derniers mois, 65 % des Français ont regardé la vidéo d'un créateur de contenu (YouTube, podcast, Facebook, Instagram, LinkedIn, TikTok...) pour apprendre ou comprendre quelque chose, selon le baromètre mensuel pour septembre d'Odoxa pour l’agence /influx.Chaque ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/4/7/0/3/7263074-1-fre-FR/011ab0d1ad42-Screenshot-2026-09-18-08.43.29.png",
-    "published_raw": "2026-09-18CEST09:37:14",
-    "published_iso": "2026-09-18T09:37:14+02:00",
-    "fetched_at": "2026-09-18T09:36:55.443405+00:00"
   }
 }
