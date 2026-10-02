@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 02 Oct 2026 00:48:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:19:52 +0000</lastBuildDate>
 
+    <item>
+      <title>EXCLU - DAZN France : directrice de l'éditorial et de la production - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/exclu-dazn-france-directrice-de-l-editorial-et-de-la-production</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/exclu-dazn-france-directrice-de-l-editorial-et-de-la-production</guid>
+      <description>Selon nos informations, la journaliste Aude Baron, ex-Eurosport, a rejoint DAZN France au poste de directrice de l'éditorial et de la production. Rattachée à Brice Daumin, directeur général de DAZN France, elle succède à Stefano Bernabino avec un champ de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Fri, 02 Oct 2026 04:20:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/0/9/0/7280902-1-fre-FR/b9330b5f9920-Screenshot-2026-10-01-16.13.17.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : agression, "Wanted", rentrée, Sarandos, Rai... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-agression-wanted-rentree-sarandos-rai</link>
@@ -811,14 +819,6 @@ Parmi les nommés de cette 54e édition, quatre sont français :le reportage 
       <description>Les Pays-Bas, qui ont boycotté l'Eurovision cette année, participeront finalement à l'édition 2027, a annoncé mercredi 23 septembre le groupe public NPO malgré l'annonce du retrait de sa filiale, Avrotros en août.Avrotros est historiquement, le membre de la NPO chargé ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 25 Sep 2026 16:08:36 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/9/0/8/7228094-1-fre-FR/addf91901901-Screenshot-2026-08-24-11.05.26.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Emmanuel Macron : 8,6 millions de téléspectateurs en cumul pour l'interview retransmise dans les "20h" de TF1 et de France 2 - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/emmanuel-macron-8-6-millions-de-telespectateurs-en-cumul-pour-l-interview-retransmise-dans-les-20h-de-tf1-et-de-france-2</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/emmanuel-macron-8-6-millions-de-telespectateurs-en-cumul-pour-l-interview-retransmise-dans-les-20h-de-tf1-et-de-france-2</guid>
-      <description>L'interview d'Emmanuel Macron a été suivie par 8,6 millions de téléspectateurs en moyenne et en cumul pour une part d'audience de 47,6% sur TF1 et France 2 jeudi 24 septembre, selon les chiffres de Médiamétrie publiés le lendemain. Ils agrègent ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 25 Sep 2026 11:24:46 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/9/9/1/7271993-1-fre-FR/f7ecc8d0c609-Capture-d-e-cran-2026-09-25-a-10.41.51.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
