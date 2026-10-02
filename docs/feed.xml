@@ -6,8 +6,24 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 02 Oct 2026 18:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:11:11 +0000</lastBuildDate>
 
+    <item>
+      <title>LaScam : "18 %" des auteurs ont "régulièrement" recours à l'IA - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/lascam-18-des-auteurs-ont-regulierement-recours-a-l-ia</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/lascam-18-des-auteurs-ont-regulierement-recours-a-l-ia</guid>
+      <description>"Deux tiers des auteurs ont déjà expérimenté l'utilisation de l'IA", selon les premiers chiffres d'un sondage réalisé en interne par LaScam dévoilés par son DG, Hervé Rony, vendredi 2 octobre lors d'un panel sur la technologie et la création au ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Fri, 02 Oct 2026 21:29:35 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/1/0/3/7283015-1-fre-FR/9b60b709d1bd-Capture-d-e-cran-2026-10-02-a-17.44.42.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Martin Ajdari / Arcom : quatre chantiers pour "mieux rémunérer ceux qui produisent" - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/martin-ajdari-arcom-quatre-chantiers-pour-mieux-remunerer-ceux-qui-produisent</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/martin-ajdari-arcom-quatre-chantiers-pour-mieux-remunerer-ceux-qui-produisent</guid>
+      <description>Martin Ajdari, président de l'Arcom, a mis en avant deux principes à retenir s’appliquant à l’univers de la télévision comme à l’IA, lors de son intervention en conclusion du colloque NPA, vendredi 2 octobre : "lier la visibilité à la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Fri, 02 Oct 2026 21:26:34 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/8/5/1/7131589-1-fre-FR/2f0667a5264f-Screenshot-2026-06-25-20.59.22.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Paramount-Warner : le nom du nouveau groupe est Skydance, départ des dirigeants de Warner Bros. Pictures - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/paramount-warner-le-nom-du-nouveau-groupe-est-skydance-depart-des-dirigeants-de-warner-bros.-pictures</link>
@@ -803,22 +819,6 @@ Parmi les nommés de cette 54e édition, quatre sont français :le reportage 
       <description>Hadrien Brachet, rédacteur en chef adjoint du service politique de l’hebdomadaire Le Point, prend désormais en charge l'édito politique de 7h40 sur France Inter le dimanche en remplacement de Charles Sapin,  directeur adjoint de la rédaction du magazine Valeurs actuelles ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Sun, 27 Sep 2026 15:24:51 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/2/4/4/6724428-1-fre-FR/55fc740c3dd4-AdobeStock_1394536703_Editorial_Use_Only.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Audiences 26/09/2026 : France 3 toujours en tête avec « Cassandre » en inédit - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/audiences-26-09-2026-france-3-toujours-en-tete-avec-cassandre-en-inedit</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-26-09-2026-france-3-toujours-en-tete-avec-cassandre-en-inedit</guid>
-      <description>France 3 arrive en tête samedi soir avec un inédit de Cassandre (Barjac Production - Studio TF1) qui mobilise 3,54 millions de téléspectateurs pour une pda de 23,3 %, en légère baisse de 40 000 par rapport à celui de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Sun, 27 Sep 2026 09:30:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/6/3/6/7266362-1-fre-FR/bf013064767e-unnamed-23-.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>EXCLU - Radio France : en baisse, la dotation publique pour 2027 ressort à 645 M€ - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/exclu-radio-france-en-baisse-la-dotation-publique-pour-2027-ressort-a-645-m</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/exclu-radio-france-en-baisse-la-dotation-publique-pour-2027-ressort-a-645-m</guid>
-      <description>Selon nos informations, la dotation publique de fonctionnement de Radio France pour 2027 devrait être de 645 millions d'euros, soit 2,5 M€ de moins sur un an (647,5 M€). Cette enveloppe est en repli de 49 M€ par rapport au ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Sat, 26 Sep 2026 12:18:17 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/4/9/6/6796945-1-fre-FR/8258c3067138-vignette-radio-france.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
