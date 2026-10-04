@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/capa-studio-tf1-3-questions-a-myriam-weil-ex-federation-directrice-adjointe": {
+    "url": "https://www.satellifacts.com/news/actualite/capa-studio-tf1-3-questions-a-myriam-weil-ex-federation-directrice-adjointe",
+    "fallback_title": "CAPA (STUDIO TF1) : 3 questions à Myriam Weil (ex-Federation), ...",
+    "title": "CAPA (STUDIO TF1) : 3 questions à Myriam Weil (ex-Federation), directrice adjointe - SATELLIFACTS",
+    "description": "CAPA vient de renforcer sa direction avec la nomination de deux directrices adjointes, Sally Blake (promue) et Myriam Weil aux côtés de son directeur Patrice Lorton. Ex-directrice du pôle documentaire de Federation Studios, Myriam Weil rejoint le prestigieux label de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/6/0/7/7267061-1-fre-FR/887e6f9be6ae-Screenshot-2026-09-21-20.27.06.png",
+    "published_raw": "2026-10-04CEST13:07:03",
+    "published_iso": "2026-10-04T13:07:03+02:00",
+    "fetched_at": "2026-10-04T12:33:40.388741+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/lascam-18-des-auteurs-ont-regulierement-recours-a-l-ia": {
     "url": "https://www.satellifacts.com/news/actualite/lascam-18-des-auteurs-ont-regulierement-recours-a-l-ia",
     "fallback_title": "LaScam : \"18 %\" des auteurs ont \"régulièrement\" recours à ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-09-27CEST15:46:43",
     "published_iso": "2026-09-27T15:46:43+02:00",
     "fetched_at": "2026-09-27T17:34:44.471499+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/france-inter-le-journaliste-hadrien-brachet-le-point-remplace-charles-sapin-pour-l-edito-politique-du-dimanche": {
-    "url": "https://www.satellifacts.com/news/actualite/france-inter-le-journaliste-hadrien-brachet-le-point-remplace-charles-sapin-pour-l-edito-politique-du-dimanche",
-    "fallback_title": "France Inter : le journaliste Hadrien Brachet (\"Le Point\") remplace ...",
-    "title": "France Inter : le journaliste Hadrien Brachet (\"Le Point\") remplace Charles Sapin pour l'édito politique du dimanche - SATELLIFACTS",
-    "description": "Hadrien Brachet, rédacteur en chef adjoint du service politique de l’hebdomadaire Le Point, prend désormais en charge l'édito politique de 7h40 sur France Inter le dimanche en remplacement de Charles Sapin,  directeur adjoint de la rédaction du magazine Valeurs actuelles ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/2/4/4/6724428-1-fre-FR/55fc740c3dd4-AdobeStock_1394536703_Editorial_Use_Only.jpeg",
-    "published_raw": "2026-09-27CEST15:24:51",
-    "published_iso": "2026-09-27T15:24:51+02:00",
-    "fetched_at": "2026-09-27T17:34:46.083334+00:00"
   }
 }
