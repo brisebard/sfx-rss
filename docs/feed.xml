@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:51:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:52:44 +0000</lastBuildDate>
 
+    <item>
+      <title>Audiences 04/10/2026 : "Marie-Line et son juge" loin devant - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/audiences-04-10-2026-marie-line-et-son-juge-loin-devant</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-04-10-2026-marie-line-et-son-juge-loin-devant</guid>
+      <description>France 2 arrive largement en tête de la soirée, dimanche, avec le film inédit Marie-Line et son juge de Jean-Pierre Améris avec Louane Emera et Michel Blanc, qui mobilise 3,04 millions de téléspectateurs pour une pda de 18,2 %. Lors ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 05 Oct 2026 09:24:56 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/6/6/3/7283663-1-fre-FR/6c56038b97ec-Marie-Line.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : taquin, IA, déclinaison, concours ... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-taquin-ia-declinaison-concours</link>
@@ -814,14 +822,6 @@ Europe 1 - 8h10, La Grande interview : le député Charles Alloncle (UDR), pour 
       <description>TF1, France 2 et M6 marquent les plus fortes variations de la semaine, selon les résultats du Médiamat hebdo portant sur la période du 21 au 27 septembre, publiés lundi 28 septembre par Médiamétrie. TF1 signe une forte hausse (+0,7 point) et atteint 19,7 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 28 Sep 2026 17:12:45 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/7/3/3/7273370-1-fre-FR/97625a7768e2-HTDYNscX0AACdHU.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Grand Rex / « Avengers Doomsday » : le cinéma programme une séance à 4h du matin le jour de la sortie du film - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/grand-rex-avengers-doomsday-le-cinema-programme-une-seance-a-4h-du-matin-le-jour-de-la-sortie-du-film</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/grand-rex-avengers-doomsday-le-cinema-programme-une-seance-a-4h-du-matin-le-jour-de-la-sortie-du-film</guid>
-      <description>Le Grand Rex se prépare à une affluence exceptionnelle pour la sortie d’Avengers: Doomsday le 16 décembre. Lundi 28 septembre à minuit, le cinéma a mis en vente les premiers billets pour le film distribué par Disney, dont une séance ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 28 Sep 2026 17:06:14 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/5/5/5/7275558-1-fre-FR/73407ddbae24-HTSQzOoXAAAzrmz.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
