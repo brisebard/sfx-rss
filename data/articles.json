@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/candela-prod.-la-societe-bretonne-historique-en-negociation-pour-sa-reprise-tout-en-gardant-son-catalogue": {
+    "url": "https://www.satellifacts.com/news/actualite/candela-prod.-la-societe-bretonne-historique-en-negociation-pour-sa-reprise-tout-en-gardant-son-catalogue",
+    "fallback_title": "Candela Prod. : la société bretonne historique en négociation pour ...",
+    "title": "Candela Prod. : la société bretonne historique en négociation pour sa reprise tout en gardant son catalogue - SATELLIFACTS",
+    "description": "Candela Productions, parmi les sociétés historiques en Bretagne, est actuellement en négociation pour une \"reprise de la structure\" créée à Rennes en 1993, ont indiqué ses fondateurs Marie-Laurence et Franck Delaunay à Satellifacts, vendredi 9 octobre, confirmant les informations d'un ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/2/2/2/7292220-1-fre-FR/4e24983eff18-Capture-d-e-cran-2026-10-09-a-19.10.58.png",
+    "published_raw": "2026-10-09CEST23:21:42",
+    "published_iso": "2026-10-09T23:21:42+02:00",
+    "fetched_at": "2026-10-10T00:44:16.791300+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/mia-2026-mercato-internazionale-audiovisivo-les-temps-forts-et-les-nouveautes-de-la-12e-edition": {
     "url": "https://www.satellifacts.com/news/actualite/mia-2026-mercato-internazionale-audiovisivo-les-temps-forts-et-les-nouveautes-de-la-12e-edition",
     "fallback_title": "MIA 2026 ( Mercato Internazionale Audiovisivo) : les temps forts ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-10-04CEST15:29:13",
     "published_iso": "2026-10-04T15:29:13+02:00",
     "fetched_at": "2026-10-04T17:01:05.670757+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/audiences-03-10-2026-cassandre-en-rediffusion-devant-les-finales-de-the-voice-kids-et-the-floor": {
-    "url": "https://www.satellifacts.com/news/actualite/audiences-03-10-2026-cassandre-en-rediffusion-devant-les-finales-de-the-voice-kids-et-the-floor",
-    "fallback_title": "Audiences 03/10/2026 : \"Cassandre\" en rediffusion devant les finales de \"The ...",
-    "title": "Audiences 03/10/2026 : \"Cassandre\" en rediffusion devant les finales de \"The Voice Kids\" et \"The Floor\" - SATELLIFACTS",
-    "description": "France 3 arrive en tête samedi soir avec une rediffusion de Cassandre (Barjac Production - Studio TF1), regardée par 2,86 millions de téléspectateurs pour une pda de 18,8 %. La semaine précédente, un inédit en avait mobilisé 3,54 millions pour ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/0/2/3/7283208-1-fre-FR/e8b518977ced-Cassandre-l-etoile-du-berger.png",
-    "published_raw": "2026-10-04CEST15:09:28",
-    "published_iso": "2026-10-04T15:09:28+02:00",
-    "fetched_at": "2026-10-04T17:01:07.760193+00:00"
   }
 }

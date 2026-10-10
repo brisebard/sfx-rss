@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 09 Oct 2026 21:03:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:44:17 +0000</lastBuildDate>
 
+    <item>
+      <title>Candela Prod. : la société bretonne historique en négociation pour sa reprise tout en gardant son catalogue - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/candela-prod.-la-societe-bretonne-historique-en-negociation-pour-sa-reprise-tout-en-gardant-son-catalogue</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/candela-prod.-la-societe-bretonne-historique-en-negociation-pour-sa-reprise-tout-en-gardant-son-catalogue</guid>
+      <description>Candela Productions, parmi les sociétés historiques en Bretagne, est actuellement en négociation pour une "reprise de la structure" créée à Rennes en 1993, ont indiqué ses fondateurs Marie-Laurence et Franck Delaunay à Satellifacts, vendredi 9 octobre, confirmant les informations d'un ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Fri, 09 Oct 2026 23:21:42 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/2/2/2/7292220-1-fre-FR/4e24983eff18-Capture-d-e-cran-2026-10-09-a-19.10.58.png" type="image/jpeg" />
+    </item>
     <item>
       <title>MIA 2026 ( Mercato Internazionale Audiovisivo) : les temps forts et les nouveautés de la 12e édition - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/mia-2026-mercato-internazionale-audiovisivo-les-temps-forts-et-les-nouveautes-de-la-12e-edition</link>
@@ -813,14 +821,6 @@ Aucun événement programmé  © 2026 FRÉQUENCES. Tous droits réservés. Cont
       <description>Le président de l'Arcom Martin Ajdari a abordé dans un entretien à La Tribune Dimanche du 4 octobre, les polémiques sur le rôle de l’autorité et les réflexions en cours dans le cadre de la présidentielle. L'évolution des usages et de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Sun, 04 Oct 2026 15:29:13 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/8/5/1/7131589-1-fre-FR/2f0667a5264f-Screenshot-2026-06-25-20.59.22.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Audiences 03/10/2026 : "Cassandre" en rediffusion devant les finales de "The Voice Kids" et "The Floor" - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/audiences-03-10-2026-cassandre-en-rediffusion-devant-les-finales-de-the-voice-kids-et-the-floor</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-03-10-2026-cassandre-en-rediffusion-devant-les-finales-de-the-voice-kids-et-the-floor</guid>
-      <description>France 3 arrive en tête samedi soir avec une rediffusion de Cassandre (Barjac Production - Studio TF1), regardée par 2,86 millions de téléspectateurs pour une pda de 18,8 %. La semaine précédente, un inédit en avait mobilisé 3,54 millions pour ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Sun, 04 Oct 2026 15:09:28 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/0/2/3/7283208-1-fre-FR/e8b518977ced-Cassandre-l-etoile-du-berger.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
