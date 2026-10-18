@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 18 Oct 2026 09:37:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 13:32:24 +0000</lastBuildDate>
 
+    <item>
+      <title>Audiences 16/10/2026 : « Simon Coleman » de nouveau en tête sur France 2 - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/audiences-16-10-2026-simon-coleman-de-nouveau-en-tete-sur-france-2</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-16-10-2026-simon-coleman-de-nouveau-en-tete-sur-france-2</guid>
+      <description>France 2 arrive largement en tête du prime time vendredi avec un épisode inédit de la saison 4 de Simon Coleman (Episode Productions/JLA Groupe). Celui-ci rassemble 3,47 millions de téléspectateurs pour une pda de 21 %. La semaine dernière, le ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sat, 17 Oct 2026 09:30:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/9/3/2/7292398-1-fre-FR/c5cc535d9ad3-2026-FTV-JLA-Simon-COLEMAN-S04EP06-038.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>MIFC 2026 / Conversation avec le CNC : des enjeux pour la filière et des revendications multiples - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/mifc-2026-conversation-avec-le-cnc-des-enjeux-pour-la-filiere-et-des-revendications-multiples</link>
@@ -813,14 +821,6 @@ Aucun événement
       <description>ACCÈS LIBRE | Netflix France @NetflixFR On a toujours besoin d’un bon avocat. UN BON AVOCAT le nouveau film de Tristan Séguéla, avec Laurent Lafitte, Anthony Bajon, Mélanie Laurent et Carole Bouquet, le 9 novembre [bande-annonce]Sacha Nokovitch @SachaNoko La nouvelle entité Skydance (Paramount ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Sun, 11 Oct 2026 23:00:00 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Box-office monde : les films d'horreur à l'honneur avec « Resident Evil » et « Other Mommy » au sommet - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/box-office-monde-les-films-d-horreur-a-l-honneur-avec-resident-evil-et-other-mommy-au-sommet</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/box-office-monde-les-films-d-horreur-a-l-honneur-avec-resident-evil-et-other-mommy-au-sommet</guid>
-      <description>Alors que la saison est aux films d'horreur, Resident Evil (Sony Pictures Entertainment) est de retour au sommet du box-office international du week-end pour sa quatrième semaine d'exploitation. Exploité désormais dans 68 territoires, le long métrage de Zach Cregger engrange ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Sun, 11 Oct 2026 22:49:53 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/2/5/4/7264526-1-fre-FR/5308029b0829-Resident-EVIL-2.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
