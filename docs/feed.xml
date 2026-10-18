@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 18 Oct 2026 16:49:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:01:41 +0000</lastBuildDate>
 
+    <item>
+      <title>Box-office Etats-Unis &amp; Canada : « Street Fighters » signe un bon démarrage, « You Can See Everything » crée la suprise - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-street-fighters-signe-un-bon-demarrage-you-can-see-everything-cree-la-suprise</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-street-fighters-signe-un-bon-demarrage-you-can-see-everything-cree-la-suprise</guid>
+      <description>Pour sa première semaine sur grand écran, Street Fighter (Paramount) assure un bon démarrage, avec 31 millions de dollars de recettes (27,59 M€) à l'issue du week-end, correspondant aux estimations de la presse spécialisée. L'adaptation en live-action du jeu vidéo ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 18 Oct 2026 20:30:14 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/7/6/2/7302671-1-fre-FR/25abe8f6f4a5-fc20187ddbbd4af991999e32c9a03fb4.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Radio Nova : la station prend ses distances avec un sketch sur Vincent Bolloré et Bernard Arnault - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/radio-nova-la-station-prend-ses-distances-avec-un-sketch-sur-vincent-bollore-et-bernard-arnault</link>
@@ -813,14 +821,6 @@ Aucun événement
       <description>« En tant que plateforme, YouTube ne s'investit pas dans la production de contenu ». C'est le message que Pedro Pina, vice-président de YouTube EMEA, a fait passer au MipCom, lundi 12 octobre. « Notre engagement, c'est la distribution. Nous nous ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 12 Oct 2026 19:34:36 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/3/7293827-1-fre-FR/a5109cf62b25-WhatsApp-Image-2026-10-12-at-12.55.25.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Rakuten TV Enterprise : première expansion hors Europe, aux Etats-Unis, au Moyen-Orient et au Japon - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/rakuten-tv-enterprise-premiere-expansion-hors-europe-aux-etats-unis-au-moyen-orient-et-au-japon</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/rakuten-tv-enterprise-premiere-expansion-hors-europe-aux-etats-unis-au-moyen-orient-et-au-japon</guid>
-      <description>Rakuten TV Enterprise, entité créée il y a deux ans au sein de Rakuten TV (Satellifacts, 22 octobre 2024), va se développer progressivement hors d'Europe et déployer ses services FAST sur trois nouveaux marchés, les Etats-Unis, le Moyen-Orient et le ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 12 Oct 2026 19:31:46 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/6/0/4/5/7295406-1-fre-FR/22b24d1db5b0-Cedric-Dufour-MIPCOM2026-2.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
