@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/exclu-groupe-tf1-depart-de-sophie-danis-directrice-de-la-communication-des-programmes-et-du-business": {
+    "url": "https://www.satellifacts.com/news/actualite/exclu-groupe-tf1-depart-de-sophie-danis-directrice-de-la-communication-des-programmes-et-du-business",
+    "fallback_title": "EXCLU - Groupe TF1 : départ de Sophie Danis, directrice ...",
+    "title": "EXCLU - Groupe TF1 : départ de Sophie Danis, directrice de la communication des programmes et du business - SATELLIFACTS",
+    "description": "Selon nos informations, Sophie Danis, directrice de la communication en charge des programmes et du business du groupe TF1, adjointe d'Anne-Gabrielle Dauba-Pantanacce, directrice de la communication et des marques du groupe, va quitter prochainement ses fonctions. Elle rejoindra Bouygues Bâtiments France ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/4/7/6/2/7302674-1-fre-FR/7d209c491334-Screenshot-2026-10-18-18.54.42.png",
+    "published_raw": "2026-10-19CEST04:20:00",
+    "published_iso": "2026-10-19T04:20:00+02:00",
+    "fetched_at": "2026-10-19T06:46:28.559781+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-journalistes-drahi-record-bollore": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-journalistes-drahi-record-bollore",
     "fallback_title": "Au fil des (e)X (tweets) : journalistes, Drahi, record, Bolloré ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-10-12CEST20:23:46",
     "published_iso": "2026-10-12T20:23:46+02:00",
     "fetched_at": "2026-10-12T19:23:11.451348+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/figra-appel-a-films-pour-l-edition-2027-du-festival-de-grands-reportages-et-de-documentaires": {
-    "url": "https://www.satellifacts.com/news/actualite/figra-appel-a-films-pour-l-edition-2027-du-festival-de-grands-reportages-et-de-documentaires",
-    "fallback_title": "Figra : appel à films pour l’édition 2027 du festival ...",
-    "title": "Figra : appel à films pour l’édition 2027 du festival de grands reportages et de documentaires - SATELLIFACTS",
-    "description": "Le Figra, Festival international du grand reportage d’actualité et du documentaire de société, a lancé son appel à films pour la sélection officielle de son édition 2027, qui se tiendra du 5 au 10 avril  2027 à Douai. Ouvert jusqu’au ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/9/4/5/7295498-1-fre-FR/f9e1ab5f7e4d-Figra.png",
-    "published_raw": "2026-10-12CEST20:00:38",
-    "published_iso": "2026-10-12T20:00:38+02:00",
-    "fetched_at": "2026-10-12T19:23:13.043531+00:00"
   }
 }

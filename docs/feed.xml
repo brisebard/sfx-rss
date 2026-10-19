@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 19 Oct 2026 01:35:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:46:29 +0000</lastBuildDate>
 
+    <item>
+      <title>EXCLU - Groupe TF1 : départ de Sophie Danis, directrice de la communication des programmes et du business - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/exclu-groupe-tf1-depart-de-sophie-danis-directrice-de-la-communication-des-programmes-et-du-business</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/exclu-groupe-tf1-depart-de-sophie-danis-directrice-de-la-communication-des-programmes-et-du-business</guid>
+      <description>Selon nos informations, Sophie Danis, directrice de la communication en charge des programmes et du business du groupe TF1, adjointe d'Anne-Gabrielle Dauba-Pantanacce, directrice de la communication et des marques du groupe, va quitter prochainement ses fonctions. Elle rejoindra Bouygues Bâtiments France ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 19 Oct 2026 04:20:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/7/6/2/7302674-1-fre-FR/7d209c491334-Screenshot-2026-10-18-18.54.42.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : journalistes, Drahi, record, Bolloré ... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-journalistes-drahi-record-bollore</link>
@@ -814,14 +822,6 @@ Aucun événement
       <description>Les députés entament ce mardi 13 octobre l’examen en séance publique de la première partie du PLF 2027. De nombreux amendements ont été déposés sur l’article 12, qui modifie le calcul de la TSV-G, taxe appliquée aux plateformes gratuites financées ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 12 Oct 2026 20:23:46 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/7/0/9/6959078-1-fre-FR/0d0ce22546f2-Screenshot-2026-02-13-10.32.34.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Figra : appel à films pour l’édition 2027 du festival de grands reportages et de documentaires - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/figra-appel-a-films-pour-l-edition-2027-du-festival-de-grands-reportages-et-de-documentaires</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/figra-appel-a-films-pour-l-edition-2027-du-festival-de-grands-reportages-et-de-documentaires</guid>
-      <description>Le Figra, Festival international du grand reportage d’actualité et du documentaire de société, a lancé son appel à films pour la sélection officielle de son édition 2027, qui se tiendra du 5 au 10 avril  2027 à Douai. Ouvert jusqu’au ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 12 Oct 2026 20:00:38 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/8/9/4/5/7295498-1-fre-FR/f9e1ab5f7e4d-Figra.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
