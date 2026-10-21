@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:51:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:46:15 +0000</lastBuildDate>
 
+    <item>
+      <title>Banijay Entertainment / Creator economy : « Notre volonté, c'est d'explorer toutes les opportunités » (James Townley) - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/banijay-entertainment-creator-economy-notre-volonte-c-est-d-explorer-toutes-les-opportunites-james-townley</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/banijay-entertainment-creator-economy-notre-volonte-c-est-d-explorer-toutes-les-opportunites-james-townley</guid>
+      <description>Partenariats avec des youtubeurs, acquisitions de formats nés sur les plateformes sociales, développements de podcasts vidéo, déploiement de ses marques sur le digital… Sur tous ses territoires, Banijay Entertainment a accéléré ses ambitions autour de la creator economy. James Townley ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/8/2/4/7304287-1-fre-FR/573e47a3cac8-Screenshot-2026-10-19-12.09.14.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Netflix : la plateforme ne rassure pas Wall Street malgré de bons résultats au 3T - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/netflix-la-plateforme-ne-rassure-pas-wall-street-malgre-de-bons-resultats-au-3t</link>
@@ -811,14 +819,6 @@ Du 13 au 18 octobre : 6e Festival du ... © 2026 FRÉQUENCES. Tous droits réser
       <description>Le Restaurant de la Maison de la radio, placé en liquidation judiciaire le 10 septembre, pourrait être repris par ses salariés : quatre d’entre eux ont déposé une offre de reprise auprès du tribunal des affaires économiques (TAE) de Paris, consultée par ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Wed, 14 Oct 2026 20:13:09 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/1/1/9/7299113-1-fre-FR/147f613024b6-radioeat" type="image/jpeg" />
-    </item>
-    <item>
-      <title>MipCom 2026 : léger repli de la fréquentation, le MipJunior en forte baisse - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/mipcom-2026-leger-repli-de-la-frequentation-le-mipjunior-en-forte-baisse</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/mipcom-2026-leger-repli-de-la-frequentation-le-mipjunior-en-forte-baisse</guid>
-      <description>L’édition 2026 du MipCom, qui s’achève jeudi 15 octobre, a accueilli 10 100 participants, ont annoncé les organisateurs à la veille de la clôture. Un chiffre en repli par rapport aux 10 600 participants présents en 2025 (Satellifacts, 15 octobre 2025). 3 150 acheteurs ont participé à l’événement, un ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 14 Oct 2026 20:12:05 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/2/5/9/7289529-1-fre-FR/5973588ef685-MIPCOM2025-0815.JPG-800px.JPG" type="image/jpeg" />
     </item>
   </channel>
 </rss>
