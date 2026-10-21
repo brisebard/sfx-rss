@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 21 Oct 2026 20:52:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 23:49:05 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : 9h, USA, Mylène, Netflix, "Loups Garous", excuses, "Les Bleus"... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-usa-mylene-netflix-loups-garous-excuses-les-bleus</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-usa-mylene-netflix-loups-garous-excuses-les-bleus</guid>
+      <description>ACCÈS LIBRE | UGC @UGCcinemas 464 spectateurs et spectatrices matinaux pour ce #9hdeshalles du 21 octobre 2026 ! [85 entrées pour "La Gradiva", 64 pour "Karma", 61 pour "Clayface"]Boby @AudiencesUSA_P 📈 18/10/2007 vs 15/10/2026 La première année où je publiais les audiences quotidiennes ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Wed, 21 Oct 2026 23:00:00 +0200</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Agenda : jeudi 22 et vendredi 23 octobre - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/agenda/agenda-jeudi-22-et-vendredi-23-octobre</link>
@@ -810,14 +818,6 @@ Aucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Conten
       <description>Récemment nommé directeur des programmes, de la création et du développement du flux chez Mediawan, Eric Hannezo entend accélérer les synergies entre les labels du groupe (Réservoir Prod, 909 Productions, Mediawan HOT, Black Dynamite, Story Nation et Mediawan Sport) pour ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 15 Oct 2026 15:14:12 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/7/2/1/2781272-1-fre-FR/f950a7d1ce29-eric_hannezo.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>BFM Business / « La Tribune » : lancement des « Territoires Awards », événement combinant économie et local - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/bfm-business-la-tribune-lancement-des-territoires-awards-evenement-combinant-economie-et-local</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/bfm-business-la-tribune-lancement-des-territoires-awards-evenement-combinant-economie-et-local</guid>
-      <description>BFM Business et La Tribune lancent les Territoires Awards, un événement dédié à « ceux qui font l’économie et le rayonnement du territoire », ont-ils annoncé jeudi 15 octobre, à quelques jours de la 1re édition organisée à Marseille mardi prochain. Conçu par le ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 15 Oct 2026 15:03:16 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/2/7/5/0/7300572-1-fre-FR/adf067a0cfdc-Screenshot-2026-10-15-14.26.37.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
