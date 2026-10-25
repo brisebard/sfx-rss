@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-clayface-prend-le-lead-you-can-see-everything-reste-tres-solide-pour-sa-deuxieme-semaine": {
+    "url": "https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-clayface-prend-le-lead-you-can-see-everything-reste-tres-solide-pour-sa-deuxieme-semaine",
+    "fallback_title": "Box-office Etats-Unis & Canada : « Clayface » prend le ...",
+    "title": "Box-office Etats-Unis & Canada : « Clayface » prend le lead, « You Can See Everything » reste très solide pour sa deuxième semaine - SATELLIFACTS",
+    "description": "Sans surprise, Clayface (Warner Bros.), le nouveau film porté par les studios DC, prend le lead du box-office nord-américain avec une diffusion sur 3 458 écrans à travers le territoire. Pour sa première semaine, le film réalisé par James Watkins ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/2/8/1/7311821-1-fre-FR/21ca69679239-Clayface.jpg",
+    "published_raw": "2026-10-25CET19:37:34",
+    "published_iso": "2026-10-25T19:37:34+01:00",
+    "fetched_at": "2026-10-25T19:08:10.381027+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/republique-tcheque-les-deputes-votent-l-abolition-de-la-redevance-audiovisuelle": {
     "url": "https://www.satellifacts.com/news/actualite/republique-tcheque-les-deputes-votent-l-abolition-de-la-redevance-audiovisuelle",
     "fallback_title": "République tchèque : les députés votent l’abolition de la redevance ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-10-19CEST04:20:00",
     "published_iso": "2026-10-19T04:20:00+02:00",
     "fetched_at": "2026-10-19T06:46:28.559781+00:00"
-  },
-  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-journalistes-drahi-record-bollore": {
-    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-journalistes-drahi-record-bollore",
-    "fallback_title": "Au fil des (e)X (tweets) : journalistes, Drahi, record, Bolloré ...",
-    "title": "Au fil des (e)X (tweets) : journalistes, Drahi, record, Bolloré ... - SATELLIFACTS",
-    "description": "ACCÈS LIBRE | Catherine Pégard @catherinepegard J’apporte mon soutien à l’ensemble des journalistes qui, chaque jour, exercent leur métier pour informer nos concitoyens et qui sont empêchés. Les violences dont on été victimes ces dernières semaines sur le terrain plusieurs journalistes de BFM ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
-    "published_raw": "2026-10-18CEST23:00:00",
-    "published_iso": "2026-10-18T23:00:00+02:00",
-    "fetched_at": "2026-10-18T21:25:44.654004+00:00"
   }
 }

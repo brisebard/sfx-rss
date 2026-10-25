@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 25 Oct 2026 16:20:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:08:11 +0000</lastBuildDate>
 
+    <item>
+      <title>Box-office Etats-Unis &amp; Canada : « Clayface » prend le lead, « You Can See Everything » reste très solide pour sa deuxième semaine - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-clayface-prend-le-lead-you-can-see-everything-reste-tres-solide-pour-sa-deuxieme-semaine</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-clayface-prend-le-lead-you-can-see-everything-reste-tres-solide-pour-sa-deuxieme-semaine</guid>
+      <description>Sans surprise, Clayface (Warner Bros.), le nouveau film porté par les studios DC, prend le lead du box-office nord-américain avec une diffusion sur 3 458 écrans à travers le territoire. Pour sa première semaine, le film réalisé par James Watkins ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 25 Oct 2026 19:37:34 +0100</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/2/8/1/7311821-1-fre-FR/21ca69679239-Clayface.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>République tchèque : les députés votent l’abolition de la redevance audiovisuelle - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/republique-tcheque-les-deputes-votent-l-abolition-de-la-redevance-audiovisuelle</link>
@@ -809,14 +817,6 @@ Guillaume Champeau @gchampeau ... © 2026 FRÉQUENCES. Tous droits réservés. C
       <description>Selon nos informations, Sophie Danis, directrice de la communication en charge des programmes et du business du groupe TF1, adjointe d'Anne-Gabrielle Dauba-Pantanacce, directrice de la communication et des marques du groupe, va quitter prochainement ses fonctions. Elle rejoindra Bouygues Bâtiments France ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 19 Oct 2026 04:20:00 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/7/6/2/7302674-1-fre-FR/7d209c491334-Screenshot-2026-10-18-18.54.42.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Au fil des (e)X (tweets) : journalistes, Drahi, record, Bolloré ... - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-journalistes-drahi-record-bollore</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-journalistes-drahi-record-bollore</guid>
-      <description>ACCÈS LIBRE | Catherine Pégard @catherinepegard J’apporte mon soutien à l’ensemble des journalistes qui, chaque jour, exercent leur métier pour informer nos concitoyens et qui sont empêchés. Les violences dont on été victimes ces dernières semaines sur le terrain plusieurs journalistes de BFM ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Sun, 18 Oct 2026 23:00:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
