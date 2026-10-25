@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 25 Oct 2026 21:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:35:57 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : Potter, redevance, Carolis, application, crossover, cavale... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-potter-redevance-carolis-application-crossover-cavale</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-potter-redevance-carolis-application-crossover-cavale</guid>
+      <description>ACCÈS LIBRE | Deadline @DEADLINE ‘Harry Potter’ is on course to be among the most expensive series ever made by HBO. A source familiar with the adaptation of J.K. Rowling’s beloved books confirmed that the Potter series will rank alongside the final season ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 25 Oct 2026 23:00:00 +0100</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Box-office monde : « Clayface » s'offre la première place - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/box-office-monde-clayface-s-offre-la-premiere-place</link>
@@ -812,14 +820,6 @@ Guillaume Champeau @gchampeau ... © 2026 FRÉQUENCES. Tous droits réservés. C
       <description>Pour 2027, l'Arcom devrait bénéficier d'une subvention publique de 49,98 millions d'euros, un montant identique à celui prévu par la loi de finances initiale pour 2026, selon le Rapport sur les autorités administratives et publiques indépendantes, "jaune budgétaire" annexé au ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 19 Oct 2026 15:13:27 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/9/4/8/5258495-3-fre-FR/0ff3382e0c9d-arcom.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>L'ARP : Jérôme Enrico, réélu à la présidence - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/l-arp-jerome-enrico-reelu-a-la-presidence</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/l-arp-jerome-enrico-reelu-a-la-presidence</guid>
-      <description>Jérôme Enrico a été réélu président de la Société civile des auteurs réalisateurs producteurs (ARP) lors de son Assemblée Générale qui s’est tenue le 15 octobre, a annoncé l'organisation lundi 19 octobre. Claude Lelouch reste président d'honneur.  Les réalisatrices et scénaristes Eva ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 19 Oct 2026 13:13:25 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/1/3/8/6588314-1-fre-FR/9ec0b9918e7a-jerome_enrico_president_de_l_arp.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
