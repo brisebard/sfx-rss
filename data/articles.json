@@ -1,4 +1,24 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-micro-trottoir-plateforme-lions-casimir": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-micro-trottoir-plateforme-lions-casimir",
+    "fallback_title": "Au fil des (e)X (tweets) : 9h, micro-trottoir, plateforme, lions, Casimir...",
+    "title": "Au fil des (e)X (tweets) : 9h, micro-trottoir, plateforme, lions, Casimir... - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | UGC @UGCcinemas 665 spectateurs matinaux pour ce #9hdeshalles du mercredi 28 octobre 2026 ! Et bravo à @Nico_tine84 pour ce remarquable premier 9h des Halles [130 entrées pour \"Papa où t'es\", 83 entrées pour \"Hope\", 74 pour \"Moulin\"]Adrien Schwyter @Adschwyter ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-10-28CET23:00:00",
+    "published_iso": "2026-10-28T23:00:00+01:00",
+    "fetched_at": "2026-10-29T00:12:24.717902+00:00"
+  },
+  "https://www.satellifacts.com/news/agenda/agenda-jeudi-29-et-vendredi-30-octobre2": {
+    "url": "https://www.satellifacts.com/news/agenda/agenda-jeudi-29-et-vendredi-30-octobre2",
+    "fallback_title": "Agenda : jeudi 29 et vendredi 30 octobre",
+    "title": "Agenda : jeudi 29 et vendredi 30 octobre - SATELLIFACTS",
+    "description": "Jeudi 29 octobre\n18h : Collège de France, leçon inaugurale de la chaire Cinéma par Claire DenisVendredi 30 octobre\nAucun événement programmé © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
+    "published_raw": "2026-10-28CET22:00:00",
+    "published_iso": "2026-10-28T22:00:00+01:00",
+    "fetched_at": "2026-10-29T00:12:26.487390+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/rencontres-de-l-arp-le-programme-de-l-edition-2026-finalise": {
     "url": "https://www.satellifacts.com/news/actualite/rencontres-de-l-arp-le-programme-de-l-edition-2026-finalise",
     "fallback_title": "Rencontres de l'ARP : le programme de l'édition 2026 finalisé",
@@ -978,25 +998,5 @@
     "published_raw": "2026-10-21CEST23:00:00",
     "published_iso": "2026-10-21T23:00:00+02:00",
     "fetched_at": "2026-10-21T23:49:04.850992+00:00"
-  },
-  "https://www.satellifacts.com/news/agenda/agenda-jeudi-22-et-vendredi-23-octobre": {
-    "url": "https://www.satellifacts.com/news/agenda/agenda-jeudi-22-et-vendredi-23-octobre",
-    "fallback_title": "Agenda : jeudi 22 et vendredi 23 octobre",
-    "title": "Agenda : jeudi 22 et vendredi 23 octobre - SATELLIFACTS",
-    "description": "Du 21 au 27 octobre : 22e édition de Mon Premier FestivalJeudi 22 octobre\n9h30 : Assemblée nationale / commission des Affaires culturelles, audition de la ministre de la Culture Catherine Pégard dans le cadre du PLF 2027Vendredi 23 octobre\nAucun événement ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
-    "published_raw": "2026-10-21CEST22:00:00",
-    "published_iso": "2026-10-21T22:00:00+02:00",
-    "fetched_at": "2026-10-21T20:52:12.884392+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/inevitable-le-studio-de-cinema-francais-par-ia-fait-une-levee-de-fonds": {
-    "url": "https://www.satellifacts.com/news/actualite/inevitable-le-studio-de-cinema-francais-par-ia-fait-une-levee-de-fonds",
-    "fallback_title": "InévitAble : le studio de cinéma français par IA fait ...",
-    "title": "InévitAble : le studio de cinéma français par IA fait une levée de fonds - SATELLIFACTS",
-    "description": "Le  studio de cinéma français InevitAble, spécialisé dans la production de films par intelligence artificielle, a annoncé mercredi 21 octobre avoir levé 15 millions d’euros auprès d’investisseurs privés.  Ce financement va permettre au studio cofondé fin 2025 par Jean Mach ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/8/5/0/6580581-1-fre-FR/9ac8094f52c0-inevitable.jpg",
-    "published_raw": "2026-10-21CEST19:33:14",
-    "published_iso": "2026-10-21T19:33:14+02:00",
-    "fetched_at": "2026-10-21T20:52:14.615146+00:00"
   }
 }
