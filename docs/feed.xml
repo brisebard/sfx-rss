@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 29 Oct 2026 00:12:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:51:52 +0000</lastBuildDate>
 
+    <item>
+      <title>Le Meilleur du Cinéma / Sooner : lancement d'une activité de distribution en salles - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/le-meilleur-du-cinema-sooner-lancement-d-une-activite-de-distribution-en-salles</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/le-meilleur-du-cinema-sooner-lancement-d-une-activite-de-distribution-en-salles</guid>
+      <description>Le Meilleur du Cinéma, société éditrice de la plateforme Sooner, se lance dans la distribution en salles en créant Sooner Distribution, a-t-elle annoncé, jeudi 29 octobre. Son objectif est de sortir trois à quatre films par an.Pour accompagner ses premières ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Thu, 29 Oct 2026 04:25:00 +0100</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/9/8/7/7317890-1-fre-FR/c47c72e73860-image-w856_two_one.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : 9h, micro-trottoir, plateforme, lions, Casimir... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-micro-trottoir-plateforme-lions-casimir</link>
@@ -810,14 +818,6 @@ Aucun événement programmé
       <description>La BBC poursuit la mise en œuvre de son plan d’économies. Après avoir confirmé la fermeture de plusieurs antennes linéaires, dont BBC Three (Satellifacts, 20 octobre), le groupe public britannique a annoncé cette semaine, par un mémo interne signé de sa ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 22 Oct 2026 11:25:31 +0200</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/9/0/5/6725099-1-fre-FR/c0d05421eddb-AdobeStock_369985571_Editorial_Use_Only.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Au fil des (e)X (tweets) : 9h, USA, Mylène, Netflix, "Loups Garous", excuses, "Les Bleus"... - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-usa-mylene-netflix-loups-garous-excuses-les-bleus</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-usa-mylene-netflix-loups-garous-excuses-les-bleus</guid>
-      <description>ACCÈS LIBRE | UGC @UGCcinemas 464 spectateurs et spectatrices matinaux pour ce #9hdeshalles du 21 octobre 2026 ! [85 entrées pour "La Gradiva", 64 pour "Karma", 61 pour "Clayface"]Boby @AudiencesUSA_P 📈 18/10/2007 vs 15/10/2026 La première année où je publiais les audiences quotidiennes ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Wed, 21 Oct 2026 23:00:00 +0200</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

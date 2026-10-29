@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/le-meilleur-du-cinema-sooner-lancement-d-une-activite-de-distribution-en-salles": {
+    "url": "https://www.satellifacts.com/news/actualite/le-meilleur-du-cinema-sooner-lancement-d-une-activite-de-distribution-en-salles",
+    "fallback_title": "Le Meilleur du Cinéma / Sooner : lancement d'une activité ...",
+    "title": "Le Meilleur du Cinéma / Sooner : lancement d'une activité de distribution en salles - SATELLIFACTS",
+    "description": "Le Meilleur du Cinéma, société éditrice de la plateforme Sooner, se lance dans la distribution en salles en créant Sooner Distribution, a-t-elle annoncé, jeudi 29 octobre. Son objectif est de sortir trois à quatre films par an.Pour accompagner ses premières ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/9/8/7/7317890-1-fre-FR/c47c72e73860-image-w856_two_one.jpg",
+    "published_raw": "2026-10-29CET04:25:00",
+    "published_iso": "2026-10-29T04:25:00+01:00",
+    "fetched_at": "2026-10-29T05:51:51.485010+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-micro-trottoir-plateforme-lions-casimir": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-micro-trottoir-plateforme-lions-casimir",
     "fallback_title": "Au fil des (e)X (tweets) : 9h, micro-trottoir, plateforme, lions, Casimir...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-10-22CEST11:25:31",
     "published_iso": "2026-10-22T11:25:31+02:00",
     "fetched_at": "2026-10-22T13:06:38.422239+00:00"
-  },
-  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-usa-mylene-netflix-loups-garous-excuses-les-bleus": {
-    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-9h-usa-mylene-netflix-loups-garous-excuses-les-bleus",
-    "fallback_title": "Au fil des (e)X (tweets) : 9h, USA, Mylène, Netflix, \"Loups Garous\", excuses, \"Les Bleus\"...",
-    "title": "Au fil des (e)X (tweets) : 9h, USA, Mylène, Netflix, \"Loups Garous\", excuses, \"Les Bleus\"... - SATELLIFACTS",
-    "description": "ACCÈS LIBRE | UGC @UGCcinemas 464 spectateurs et spectatrices matinaux pour ce #9hdeshalles du 21 octobre 2026 ! [85 entrées pour \"La Gradiva\", 64 pour \"Karma\", 61 pour \"Clayface\"]Boby @AudiencesUSA_P 📈 18/10/2007 vs 15/10/2026 La première année où je publiais les audiences quotidiennes ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
-    "published_raw": "2026-10-21CEST23:00:00",
-    "published_iso": "2026-10-21T23:00:00+02:00",
-    "fetched_at": "2026-10-21T23:49:04.850992+00:00"
   }
 }
