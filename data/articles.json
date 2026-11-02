@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/audiences-01-11-2026-les-enquetes-de-vera-leader-en-rediffusion-devant-le-film-inedit-ici-et-la-bas": {
+    "url": "https://www.satellifacts.com/news/actualite/audiences-01-11-2026-les-enquetes-de-vera-leader-en-rediffusion-devant-le-film-inedit-ici-et-la-bas",
+    "fallback_title": "Audiences 01/11/2026 : \"Les Enquêtes de Véra\" leader en rediffusion devant ...",
+    "title": "Audiences 01/11/2026 : \"Les Enquêtes de Véra\" leader en rediffusion devant le film inédit \"Ici et là-bas\" - SATELLIFACTS",
+    "description": "Comme dimanche dernier, France 3 arrive en tête de la soirée avec Les Enquêtes de Véra, dont l’épisode en rediffusion attire 2,61 millions de téléspectateurs pour une pda de 14,9 %, en baisse de 260 000 par rapport à l’inédit ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/9/3/3/4053391-1-fre-FR/b3e0af193596-les_enquetes_de_vera.jpg",
+    "published_raw": "2026-11-02CET09:27:38",
+    "published_iso": "2026-11-02T09:27:38+01:00",
+    "fetched_at": "2026-11-02T08:52:27.862914+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-banderole-viginum-claude-antennes-lot": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-banderole-viginum-claude-antennes-lot",
     "fallback_title": "Au fil des (e)X (tweets) : banderole, Viginum, claude, antennes, lot...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-10-26CET14:05:41",
     "published_iso": "2026-10-26T14:05:41+01:00",
     "fetched_at": "2026-10-26T14:06:16.271519+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/europe-1-la-station-mise-en-demeure-pour-manquements-lors-d-une-emission-de-christine-kelly": {
-    "url": "https://www.satellifacts.com/news/actualite/europe-1-la-station-mise-en-demeure-pour-manquements-lors-d-une-emission-de-christine-kelly",
-    "fallback_title": "Europe 1 : la station mise en demeure pour manquements ...",
-    "title": "Europe 1 : la station mise en demeure pour manquements lors d'une émission de Christine Kelly - SATELLIFACTS",
-    "description": "L'Arcom a adressé une mise en demeure à Europe 1 (Lagardère News) après avoir constaté des propos \"de nature à inciter à la haine et à encourager des comportements discriminatoires\" lors de l'émission Christine Kelly et vous diffusée le 26 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/6/5/2/7312565-1-fre-FR/41a7a30e3ce2-Screenshot-2026-10-26-12.00.29.png",
-    "published_raw": "2026-10-26CET12:48:16",
-    "published_iso": "2026-10-26T12:48:16+01:00",
-    "fetched_at": "2026-10-26T14:06:17.956436+00:00"
   }
 }

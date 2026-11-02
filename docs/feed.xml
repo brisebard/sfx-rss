@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 02 Nov 2026 01:54:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:52:28 +0000</lastBuildDate>
 
+    <item>
+      <title>Audiences 01/11/2026 : "Les Enquêtes de Véra" leader en rediffusion devant le film inédit "Ici et là-bas" - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/audiences-01-11-2026-les-enquetes-de-vera-leader-en-rediffusion-devant-le-film-inedit-ici-et-la-bas</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-01-11-2026-les-enquetes-de-vera-leader-en-rediffusion-devant-le-film-inedit-ici-et-la-bas</guid>
+      <description>Comme dimanche dernier, France 3 arrive en tête de la soirée avec Les Enquêtes de Véra, dont l’épisode en rediffusion attire 2,61 millions de téléspectateurs pour une pda de 14,9 %, en baisse de 260 000 par rapport à l’inédit ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 02 Nov 2026 09:27:38 +0100</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/9/3/3/4053391-1-fre-FR/b3e0af193596-les_enquetes_de_vera.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : banderole, Viginum, claude, antennes, lot... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-banderole-viginum-claude-antennes-lot</link>
@@ -810,14 +818,6 @@ Aucun événement programmé
       <description>"Le 25 octobre 1946, au sortir de la guerre, le gouvernement français créait le CNC, alors que le ministère de la culture n'existait pas encore". Lundi 26 octobre au Sénat, Catherine Pégard, la ministre de la Culture a ouvert un ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Mon, 26 Oct 2026 14:05:41 +0100</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/1/4/1/6/7076141-1-fre-FR/dc63cf5604ba-WhatsApp-Image-2026-05-16-at-12.52.28.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Europe 1 : la station mise en demeure pour manquements lors d'une émission de Christine Kelly - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/europe-1-la-station-mise-en-demeure-pour-manquements-lors-d-une-emission-de-christine-kelly</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/europe-1-la-station-mise-en-demeure-pour-manquements-lors-d-une-emission-de-christine-kelly</guid>
-      <description>L'Arcom a adressé une mise en demeure à Europe 1 (Lagardère News) après avoir constaté des propos "de nature à inciter à la haine et à encourager des comportements discriminatoires" lors de l'émission Christine Kelly et vous diffusée le 26 ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Mon, 26 Oct 2026 12:48:16 +0100</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/6/5/2/7312565-1-fre-FR/41a7a30e3ce2-Screenshot-2026-10-26-12.00.29.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
