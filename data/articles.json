@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-ligue-1-simulation-bond-humour-canap-fiori": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-ligue-1-simulation-bond-humour-canap-fiori",
+    "fallback_title": "Au fil des (e)X (tweets) : Ligue 1, simulation, Bond, humour, Canap', Fiori...",
+    "title": "Au fil des (e)X (tweets) : Ligue 1, simulation, Bond, humour, Canap', Fiori... - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | Anaël @anael_tw Bien que le nouvel appel d'offres de la #Ligue1 regroupe l'ensemble des matches dans un lot unique, le futur lauréat aura la possibilité d'en sous-licencier une partie afin de partager les coûts avec un autre diffuseur. Du sur-mesure ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-11-03CET23:00:00",
+    "published_iso": "2026-11-03T23:00:00+01:00",
+    "fetched_at": "2026-11-04T01:52:09.413084+00:00"
+  },
   "https://www.satellifacts.com/news/agenda/agenda-mercredi-4-et-jeudi-5-novembre2": {
     "url": "https://www.satellifacts.com/news/agenda/agenda-mercredi-4-et-jeudi-5-novembre2",
     "fallback_title": "Agenda : mercredi 4 et jeudi 5 novembre",
@@ -988,15 +998,5 @@
     "published_raw": "2026-10-27CET18:30:41",
     "published_iso": "2026-10-27T18:30:41+01:00",
     "fetched_at": "2026-10-27T19:32:13.131951+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/gulli-la-serie-animee-mortelle-adele-a-l-antenne-a-compter-du-14-novembre": {
-    "url": "https://www.satellifacts.com/news/actualite/gulli-la-serie-animee-mortelle-adele-a-l-antenne-a-compter-du-14-novembre",
-    "fallback_title": "Gulli : la série animée « Mortelle Adèle » à l’antenne à compter ...",
-    "title": "Gulli : la série animée « Mortelle Adèle » à l’antenne à compter du 14 novembre - SATELLIFACTS",
-    "description": "Après 30 millions d’albums vendus, le phénomène Mortelle Adèle (78 x 7’) arrive en série animée sur l’antenne de Gulli. La chaîne jeunesse du groupe M6 diffusera cette série produite par Go-N Productions (groupe Federation) chaque samedi à partir de 9h45 à ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/3/5/0/6/7316053-1-fre-FR/c316d178bcf8-Mortelle-Adele.png",
-    "published_raw": "2026-10-27CET18:00:14",
-    "published_iso": "2026-10-27T18:00:14+01:00",
-    "fetched_at": "2026-10-27T19:32:14.975450+00:00"
   }
 }
