@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 08 Nov 2026 15:45:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 19:59:25 +0000</lastBuildDate>
 
+    <item>
+      <title>Box-office nord-américain : « Godzilla Minus Zero » bat un record pour un film non-américain en prise de vues réelles - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/box-office-nord-americain-godzilla-minus-zero-bat-un-record-pour-un-film-non-americain-en-prise-de-vues-reelles</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/box-office-nord-americain-godzilla-minus-zero-bat-un-record-pour-un-film-non-americain-en-prise-de-vues-reelles</guid>
+      <description>Sorti en salles ce vendredi 6 novembre, Godzilla Minus Zero (GKIDS) explose le box-office nord-américain avec 31,6 millions de dollars (28,37 M€) récoltés dans 3 254 salles, s'emparant ainsi de la première place du classement hebdomadaire. Avec une moyenne de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Sun, 08 Nov 2026 20:35:05 +0100</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/1/8/9/7329817-1-fre-FR/3b9dba54bbff-Godzilla.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EXCLU - Why Not Productions : tournage en janvier 2027 pour « La Décision » de Roschdy Zem - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/actualite/exclu-why-not-productions-tournage-en-janvier-2027-pour-la-decision-de-roschdy-zem</link>
@@ -805,14 +813,6 @@ Du 3 au 8 novembre : 30e édition de The American French Film FestivalMardi ... 
       <description>Eutelsat Group a publié jeudi 29 octobre un chiffre d'affaires de 286,0 millions d'euros, en recul de 2,4 % en données publiées, au titre du premier trimestre de son exercice 2026-2027 (clos au 30 septembre 2026).Les revenus issus de ses ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Thu, 29 Oct 2026 20:30:59 +0100</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/9/6/5/6755699-1-fre-FR/878be5902987-AdobeStock_422163886_Editorial_Use_Only.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>TF1 : le groupe maintient ses objectifs 2026 malgré une très forte baisse de la pub sur neuf mois - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/tf1-le-groupe-maintient-ses-objectifs-2026-malgre-une-tres-forte-baisse-de-la-pub-sur-neuf-mois</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/tf1-le-groupe-maintient-ses-objectifs-2026-malgre-une-tres-forte-baisse-de-la-pub-sur-neuf-mois</guid>
-      <description>Le groupe TF1 a publié jeudi 29 octobre un chiffre d’affaires consolidé de 1,45 milliards d'euros sur les neuf premiers mois 2026, en retrait de 9 % sur un an.  Le recul est de 7% à 461 millions d'euros au ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Thu, 29 Oct 2026 20:02:41 +0100</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/0/5/9/8/7318950-1-fre-FR/8596fd236f88-Screenshot-2026-10-29-17.45.31.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
