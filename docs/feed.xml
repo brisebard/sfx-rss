@@ -6,8 +6,17 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 09 Nov 2026 21:27:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:44:15 +0000</lastBuildDate>
 
+    <item>
+      <title>Au fil des (e)X (tweets) : intox, Papotin, confrontation, acteur, Riner ... - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-intox-papotin-confrontation-acteur-riner</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-intox-papotin-confrontation-acteur-riner</guid>
+      <description>ACCÈS LIBRE | Reuters World @ReutersWorld EXCLUSIF : Un réseau russe clandestin a exploité les émeutes françaises sur les réseaux sociaux, selon un rapport de l'UE https://reut.rs/4BPExzV
+jean marc manach @manhack Sur X, les intox racistes sur les émeutes émanaient de réseaux russes, israéliens ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Mon, 09 Nov 2026 23:00:00 +0100</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Agenda : mardi 10 novembre - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/agenda/agenda-mardi-10-novembre</link>
@@ -808,14 +817,6 @@ Du 3 au 8 novembre : 30e édition de The American French Film FestivalMardi ... 
       <description>Les députés ont adopté vendredi 30 octobre en séance publique un amendement RN à l’article 12 qui prévoit la suppression totale de l’abattement de 66 % sur la taxe TSV-G applicable aux plateformes gratuites financées par la publicité et aux plateformes de partage de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Fri, 30 Oct 2026 19:11:55 +0100</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/4/2/7/2/7112724-1-fre-FR/d8383b6a38af-Screenshot-2026-06-12-09.52.51.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>RN : quatorze directions de médias demandent au parti de « garantir la liberté d’information » - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/rn-quatorze-directions-de-medias-demandent-au-parti-de-garantir-la-liberte-d-information</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/rn-quatorze-directions-de-medias-demandent-au-parti-de-garantir-la-liberte-d-information</guid>
-      <description>La chaîne Public Sénat, Le Monde, Mediapart ou Ouest-France : 14 directions de médias ont demandé vendredi 30 octobre au Rassemblement national de « garantir la liberté d’information » en dénonçant les « graves violences » subies par certains journalistes lors du congrès du parti d’extrême droite ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Fri, 30 Oct 2026 17:45:53 +0100</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/9/5/0/6/7316059-1-fre-FR/78869a1d5943-AdobeStock_145502787.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-intox-papotin-confrontation-acteur-riner": {
+    "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-intox-papotin-confrontation-acteur-riner",
+    "fallback_title": "Au fil des (e)X (tweets) : intox, Papotin, confrontation, acteur, Riner ...",
+    "title": "Au fil des (e)X (tweets) : intox, Papotin, confrontation, acteur, Riner ... - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | Reuters World @ReutersWorld EXCLUSIF : Un réseau russe clandestin a exploité les émeutes françaises sur les réseaux sociaux, selon un rapport de l'UE https://reut.rs/4BPExzV\njean marc manach @manhack Sur X, les intox racistes sur les émeutes émanaient de réseaux russes, israéliens ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/2/8/4/5964827-1-fre-FR/1d7f7c5fbb31-logo_x_ex-twitter.jpg",
+    "published_raw": "2026-11-09CET23:00:00",
+    "published_iso": "2026-11-09T23:00:00+01:00",
+    "fetched_at": "2026-11-10T03:44:14.595081+00:00"
+  },
   "https://www.satellifacts.com/news/agenda/agenda-mardi-10-novembre": {
     "url": "https://www.satellifacts.com/news/agenda/agenda-mardi-10-novembre",
     "fallback_title": "Agenda : mardi 10 novembre",
@@ -988,15 +998,5 @@
     "published_raw": "2026-10-30CET19:11:55",
     "published_iso": "2026-10-30T19:11:55+01:00",
     "fetched_at": "2026-10-30T19:57:55.751265+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/rn-quatorze-directions-de-medias-demandent-au-parti-de-garantir-la-liberte-d-information": {
-    "url": "https://www.satellifacts.com/news/actualite/rn-quatorze-directions-de-medias-demandent-au-parti-de-garantir-la-liberte-d-information",
-    "fallback_title": "RN : quatorze directions de médias demandent au parti de « garantir ...",
-    "title": "RN : quatorze directions de médias demandent au parti de « garantir la liberté d’information » - SATELLIFACTS",
-    "description": "La chaîne Public Sénat, Le Monde, Mediapart ou Ouest-France : 14 directions de médias ont demandé vendredi 30 octobre au Rassemblement national de « garantir la liberté d’information » en dénonçant les « graves violences » subies par certains journalistes lors du congrès du parti d’extrême droite ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/5/0/6/7316059-1-fre-FR/78869a1d5943-AdobeStock_145502787.jpeg",
-    "published_raw": "2026-10-30CET17:45:53",
-    "published_iso": "2026-10-30T17:45:53+01:00",
-    "fetched_at": "2026-10-30T19:57:57.510809+00:00"
   }
 }
