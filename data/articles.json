@@ -1,4 +1,44 @@
 {
+  "https://www.satellifacts.com/news/actualite/netflix-le-documentaire-francais-ninho-le-prix-a-payer-dans-le-top-10-mondial": {
+    "url": "https://www.satellifacts.com/news/actualite/netflix-le-documentaire-francais-ninho-le-prix-a-payer-dans-le-top-10-mondial",
+    "fallback_title": "Netflix : le documentaire français « Ninho : Le prix à payer » ...",
+    "title": "Netflix : le documentaire français « Ninho : Le prix à payer » dans le Top 10 mondial - SATELLIFACTS",
+    "description": "Le documentaire français Ninho : Le prix à payer sur le rappeur français William Nzobazola, alias Ninho, a fait son entrée dans le Top 10 mondial des films non anglophones les plus vus sur Netflix la semaine du 2 au 8 novembre ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/5/3/3/7333357-1-fre-FR/f0eb548fad5b-Screenshot-2026-11-10-18.02.52.png",
+    "published_raw": "2026-11-10CET20:55:00",
+    "published_iso": "2026-11-10T20:55:00+01:00",
+    "fetched_at": "2026-11-10T23:56:16.736395+00:00"
+  },
+  "https://www.satellifacts.com/news/actualite/taiwan-creative-content-festival-le-projet-francais-saga-grand-prix-dans-la-categorie-serie": {
+    "url": "https://www.satellifacts.com/news/actualite/taiwan-creative-content-festival-le-projet-francais-saga-grand-prix-dans-la-categorie-serie",
+    "fallback_title": "Taïwan Creative Content Festival : le projet français \"Saga\", grand prix dans la catégorie Série",
+    "title": "Taïwan Creative Content Festival : le projet français \"Saga\", grand prix dans la catégorie Série - SATELLIFACTS",
+    "description": "ACCÈS LIBRE | Le projet de série Saga, adaptation du roman du même titre de Tonino Benacquista coproduite par BiZ Productions (Ottavia Di franco et Tim Newman) et Elephant Story (Guillaume Renouil et Gaëlle Cholet), a remporté le grand prix dans la catégorie ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/5/4/6/3/7333645-1-fre-FR/69b8890395fe-Screenshot-2026-11-10-20.40.07.png",
+    "published_raw": "2026-11-10CET20:43:04",
+    "published_iso": "2026-11-10T20:43:04+01:00",
+    "fetched_at": "2026-11-10T23:56:18.303069+00:00"
+  },
+  "https://www.satellifacts.com/news/actualite/disney-meilleur-lancement-mondial-pour-la-serie-coreenne-l-imperatrice-remariee": {
+    "url": "https://www.satellifacts.com/news/actualite/disney-meilleur-lancement-mondial-pour-la-serie-coreenne-l-imperatrice-remariee",
+    "fallback_title": "Disney+ : meilleur lancement mondial pour la série coréenne \"L'Impératrice ...",
+    "title": "Disney+ : meilleur lancement mondial pour la série coréenne \"L'Impératrice remariée\" - SATELLIFACTS",
+    "description": "Lancée le 3 novembre sur Disney+, la série coréenne L'Impératrice remariée  (adaptation en live-action du  webtoon de Naver) est devenue la série originale locale la plus regardée de l’histoire de la plateforme à l’échelle mondiale, sur la base des audiences ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/4/6/3/7333642-1-fre-FR/270febead3ce-Screenshot-2026-11-10-20.16.06.png",
+    "published_raw": "2026-11-10CET20:27:34",
+    "published_iso": "2026-11-10T20:27:34+01:00",
+    "fetched_at": "2026-11-10T23:56:19.744592+00:00"
+  },
+  "https://www.satellifacts.com/news/actualite/elephant-story-flechette-production-la-miniserie-un-ete-en-tournage-pour-canal": {
+    "url": "https://www.satellifacts.com/news/actualite/elephant-story-flechette-production-la-miniserie-un-ete-en-tournage-pour-canal",
+    "fallback_title": "Elephant Story / Fléchette Production : la minisérie « Un ...",
+    "title": "Elephant Story / Fléchette Production : la minisérie « Un été » en tournage pour Canal+ - SATELLIFACTS",
+    "description": "Elephant Story et Fléchette Production ont débuté le tournage pour Canal+ de la nouvelle Création originale Un été (6 x 52'), a annoncé la chaîne mardi 10 novembre. Il est prévu pour durer quatre mois en Nouvelle-Aquitaine, au Portugal et ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/8/4/5/3/7333548-1-fre-FR/d5e03e6a9743-unnamed-11-.jpg",
+    "published_raw": "2026-11-10CET20:04:50",
+    "published_iso": "2026-11-10T20:04:50+01:00",
+    "fetched_at": "2026-11-10T23:56:21.160628+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/groupe-m6-filiere-documentaire-accord-sur-un-guide-des-bonnes-pratiques-dans-la-production": {
     "url": "https://www.satellifacts.com/news/actualite/groupe-m6-filiere-documentaire-accord-sur-un-guide-des-bonnes-pratiques-dans-la-production",
     "fallback_title": "Groupe M6 / Filière documentaire : accord sur un guide ...",
@@ -958,45 +998,5 @@
     "published_raw": "2026-11-01CET22:23:08",
     "published_iso": "2026-11-01T22:23:08+01:00",
     "fetched_at": "2026-11-01T22:47:54.677185+00:00"
-  },
-  "https://www.satellifacts.com/news/agenda/agenda-lundi-2-et-mardi-3-novembre-2026": {
-    "url": "https://www.satellifacts.com/news/agenda/agenda-lundi-2-et-mardi-3-novembre-2026",
-    "fallback_title": "Agenda : lundi 2 et mardi 3 novembre 2026",
-    "title": "Agenda : lundi 2 et mardi 3 novembre 2026 - SATELLIFACTS",
-    "description": "Du 2 au 7 novembre : 15e Fifib - Festival international du film indépendant de Bordeaux \nDu 3 au 7 novembre : 35e Festival du film de Sarlat\nDu 3 au 8 novembre : 30e édition de The American French Film FestivalMardi ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/4/0/8/4278040-1-fre-FR/3443c7c2461f-logo_agenda_a_partir_11_juillet_2018.jpg",
-    "published_raw": "2026-11-01CET22:00:00",
-    "published_iso": "2026-11-01T22:00:00+01:00",
-    "fetched_at": "2026-11-01T22:47:56.061768+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-le-documentaire-you-can-see-everything-passe-en-tete": {
-    "url": "https://www.satellifacts.com/news/actualite/box-office-etats-unis-canada-le-documentaire-you-can-see-everything-passe-en-tete",
-    "fallback_title": "Box-office Etats-Unis & Canada : le documentaire « You Can ...",
-    "title": "Box-office Etats-Unis & Canada : le documentaire « You Can See Everything » passe en tête - SATELLIFACTS",
-    "description": "Véritable phénomène, le documentaire You Can See Everything (A24) passe un nouveau cap cette semaine en prenant la tête du box-office nord-américain. Grâce à une diffusion élargie à 3 243 écrans, contre 2 655 la semaine dernière, le film de ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/4/1/5/7315142-1-fre-FR/d5d22bc873dc-120x160-YCSE-26_10-HD.c82b8453-c7e4-4042-a5e3-fd3a535bec44.jpg",
-    "published_raw": "2026-11-01CET19:53:13",
-    "published_iso": "2026-11-01T19:53:13+01:00",
-    "fetched_at": "2026-11-01T19:09:13.146500+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/plf-2027-les-amendements-sur-les-evolutions-des-credits-d-impot-rejetes-en-seance": {
-    "url": "https://www.satellifacts.com/news/actualite/plf-2027-les-amendements-sur-les-evolutions-des-credits-d-impot-rejetes-en-seance",
-    "fallback_title": "PLF 2027 : les amendements sur les évolutions des crédits ...",
-    "title": "PLF 2027 : les amendements sur les évolutions des crédits d'impôt rejetés en séance - SATELLIFACTS",
-    "description": "Plusieurs amendements concernant les crédits d'impôts de l'audiovisuel et du cinéma (Satellifacts, 12 octobre), et visant à insérer des dispositions après l'article 15 du projet de loi de Finances (PLF) 2027, ont été rejetés, vendredi 30 octobre lors de la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/1/5/0/7320519-1-fre-FR/3ecd282bde22-Assemblee-nationale-30-octobre.png",
-    "published_raw": "2026-11-01CET19:25:00",
-    "published_iso": "2026-11-01T19:25:00+01:00",
-    "fetched_at": "2026-11-01T19:09:14.760942+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/m6-la-serie-le-seigneur-des-anneaux-de-prime-video-a-l-antenne-a-partir-du-samedi-14-novembre": {
-    "url": "https://www.satellifacts.com/news/actualite/m6-la-serie-le-seigneur-des-anneaux-de-prime-video-a-l-antenne-a-partir-du-samedi-14-novembre",
-    "fallback_title": "M6 : la série \"Le Seigneur des anneaux\" de Prime ...",
-    "title": "M6 : la série \"Le Seigneur des anneaux\" de Prime Video, à l'antenne à partir du samedi 14 novembre - SATELLIFACTS",
-    "description": "La saison 1 de la série Le Seigneur des Anneaux : Les Anneaux de pouvoir (8 épisodes) sera diffusée pour la première fois en clair sur M6 à partir du samedi 14 novembre en prime time.Cette série adaptée de la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/2/5/0/7320522-1-fre-FR/ef476b715efb-Screenshot-2026-11-01-19.11.09.png",
-    "published_raw": "2026-11-01CET19:12:01",
-    "published_iso": "2026-11-01T19:12:01+01:00",
-    "fetched_at": "2026-11-01T19:09:16.590259+00:00"
   }
 }
