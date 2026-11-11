@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/skydance-54-anciens-salaries-de-mtv-france-et-game-one-saisissent-le-conseil-de-prud-hommes": {
+    "url": "https://www.satellifacts.com/news/actualite/skydance-54-anciens-salaries-de-mtv-france-et-game-one-saisissent-le-conseil-de-prud-hommes",
+    "fallback_title": "Skydance : 54 anciens salariés de MTV France et Game ...",
+    "title": "Skydance : 54 anciens salariés de MTV France et Game One saisissent le conseil de prud’hommes - SATELLIFACTS",
+    "description": "Le collectif Lost Signal, qui rassemble d'anciens salariés de MTV Networks France et de Game One, médias du groupe américain Paramount passé sous le contrôle de Skydance (David Ellison) en août 2025, a annoncé, mardi 10 novembre avoir saisi le ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/7/0/1/3/7283107-1-fre-FR/e8fefc7f1147-VS-DavidEllisonsurXWhatoncewasthepeakisnowjustthebeginningParamountandWarnerBrosshapedoveracenturyofcultureBycombiningthemwearentrewritinghistorywereequippingtheseiconicstudioswithamorepowerfulengineTogetherweareS.jpg",
+    "published_raw": "2026-11-11CET19:27:54",
+    "published_iso": "2026-11-11T19:27:54+01:00",
+    "fetched_at": "2026-11-11T19:53:01.005436+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/netflix-le-documentaire-francais-ninho-le-prix-a-payer-dans-le-top-10-mondial": {
     "url": "https://www.satellifacts.com/news/actualite/netflix-le-documentaire-francais-ninho-le-prix-a-payer-dans-le-top-10-mondial",
     "fallback_title": "Netflix : le documentaire français « Ninho : Le prix à payer » ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-11-01CET23:00:00",
     "published_iso": "2026-11-01T23:00:00+01:00",
     "fetched_at": "2026-11-01T22:47:53.270140+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/box-office-monde-clayface-toujours-devant-resident-evil-atteint-les-400-m-de-recettes": {
-    "url": "https://www.satellifacts.com/news/actualite/box-office-monde-clayface-toujours-devant-resident-evil-atteint-les-400-m-de-recettes",
-    "fallback_title": "Box-office monde : « Clayface » toujours devant, « Resident ...",
-    "title": "Box-office monde : « Clayface » toujours devant,  « Resident Evil » atteint les 400 M$ de recettes - SATELLIFACTS",
-    "description": "Deuxième week-end en salles et toujours au sommet du box-office international, Clayface (Warner Bros.), disponible au cinéma dans 80 territoires, continue son chemin en ajoutant cette semaine 22,8 millions de dollars de recettes (20,43 M€) à ses recettes totales, fixées ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/2/8/1/7311821-4-fre-FR/9b684a918c33-clayface-affiche-officielle-scaled.jpg",
-    "published_raw": "2026-11-01CET22:23:08",
-    "published_iso": "2026-11-01T22:23:08+01:00",
-    "fetched_at": "2026-11-01T22:47:54.677185+00:00"
   }
 }
