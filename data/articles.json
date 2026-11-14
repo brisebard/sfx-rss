@@ -39,6 +39,16 @@
     "published_iso": "2026-11-13T18:25:14+01:00",
     "fetched_at": "2026-11-13T18:07:57.457561+00:00"
   },
+  "https://www.satellifacts.com/news/actualite/audiovisuel-public-matignon-demande-a-la-cour-des-comptes-une-mission-flash-sur-france-televisions": {
+    "url": "https://www.satellifacts.com/news/actualite/audiovisuel-public-matignon-demande-a-la-cour-des-comptes-une-mission-flash-sur-france-televisions",
+    "fallback_title": "Audiovisuel public : Matignon demande à la Cour des comptes une ...",
+    "title": "Audiovisuel public : Matignon demande à la Cour des comptes une mission flash sur France Télévisions - SATELLIFACTS",
+    "description": "La Cour des comptes a été missionnée « en urgence » par Sébastien Lecornu pour « réaliser une mission flash sur France Télévisions », selon des informations de La Lettre. Le Premier ministre « attend les conclusions à la fin du mois, avant que ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/0/7/5/1/7011570-1-fre-FR/42ab1fdd2159-AdobeStock_536808481_Editorial_Use_Only.jpeg",
+    "published_raw": "2026-11-13CET18:25:14",
+    "published_iso": "2026-11-13T18:25:14+01:00",
+    "fetched_at": "2026-11-14T16:45:57.057832+00:00"
+  },
   "https://www.satellifacts.com/news/actualite/waveborn-nouvelle-plateforme-d-investissement-dediee-a-la-creator-economy": {
     "url": "https://www.satellifacts.com/news/actualite/waveborn-nouvelle-plateforme-d-investissement-dediee-a-la-creator-economy",
     "fallback_title": "Waveborn : nouvelle plateforme d'investissement dédiée à la creator economy",
@@ -988,15 +998,5 @@
     "published_raw": "2026-11-03CET20:55:00",
     "published_iso": "2026-11-03T20:55:00+01:00",
     "fetched_at": "2026-11-03T21:54:21.785620+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/groupe-m6-evolution-de-la-gouvernance": {
-    "url": "https://www.satellifacts.com/news/actualite/groupe-m6-evolution-de-la-gouvernance",
-    "fallback_title": "Groupe M6 : évolution de la gouvernance",
-    "title": "Groupe M6 :  évolution de la gouvernance - SATELLIFACTS",
-    "description": "À la suite de la démission de Björn Bauer et d'Ingrid Heisserer de leurs mandats de membres du Conseil de Surveillance du groupe M6, l'instance présidée par Clément Schwebig, CEO de RTL Group, a décidé, sur proposition du Comité des ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/2/1/9/4/7324912-1-fre-FR/dba18fd9b2a2-Screenshot-2026-11-03-20.55.55.png",
-    "published_raw": "2026-11-03CET20:36:23",
-    "published_iso": "2026-11-03T20:36:23+01:00",
-    "fetched_at": "2026-11-03T21:54:23.437640+00:00"
   }
 }
