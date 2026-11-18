@@ -1,4 +1,14 @@
 {
+  "https://www.satellifacts.com/news/actualite/exclu-dreamspark-lancement-de-dreamspark-featuring-nouveau-label-de-production-digitale": {
+    "url": "https://www.satellifacts.com/news/actualite/exclu-dreamspark-lancement-de-dreamspark-featuring-nouveau-label-de-production-digitale",
+    "fallback_title": "EXCLU - Dreamspark : lancement de Dreamspark Featuring, nouveau label ...",
+    "title": "EXCLU - Dreamspark : lancement de Dreamspark Featuring, nouveau label de production digitale - SATELLIFACTS",
+    "description": "Selon nos informations, Dreamspark a créé Dreamspark Featuring, marquant une nouvelle étape dans la stratégie « YouTube First » mise en place par la société de création et de production spécialisée dans le flux.Featuring est un label de production digitale qui a ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
+    "image": "https://www.satellifacts.com/var/sfx/storage/images/9/5/1/6/7336159-1-fre-FR/244766b6aa7d-Moe-Bennani-Dreamspark.jpg",
+    "published_raw": "2026-11-18CET04:30:00",
+    "published_iso": "2026-11-18T04:30:00+01:00",
+    "fetched_at": "2026-11-18T03:53:04.942770+00:00"
+  },
   "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-f1-second-chapter-booth-ici-marronnier-demarrage-chaussettes": {
     "url": "https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-f1-second-chapter-booth-ici-marronnier-demarrage-chaussettes",
     "fallback_title": "Au fil des (e)X (tweets) : F1, Second Chapter, Booth, Ici, marronnier, démarrage, chaussettes ...",
@@ -988,15 +998,5 @@
     "published_raw": "2026-11-06CET18:25:35",
     "published_iso": "2026-11-06T18:25:35+01:00",
     "fetched_at": "2026-11-06T17:40:08.916128+00:00"
-  },
-  "https://www.satellifacts.com/news/actualite/france-televisions-procedure-disciplinaire-a-l-encontre-d-une-editorialiste-de-franceinfo": {
-    "url": "https://www.satellifacts.com/news/actualite/france-televisions-procedure-disciplinaire-a-l-encontre-d-une-editorialiste-de-franceinfo",
-    "fallback_title": "France Télévisions : procédure disciplinaire à l’encontre d’une éditorialiste de franceinfo",
-    "title": "France Télévisions : procédure disciplinaire à l’encontre d’une éditorialiste de franceinfo - SATELLIFACTS",
-    "description": "Une procédure disciplinaire est en cours à l’encontre d’Alix Bouilhaguet, éditorialiste politique de franceinfo, après ses propos litigieux notamment sur Jean-Luc Mélenchon, a-t-on appris vendredi 6 novembre auprès de France Télévisions. « Elle a été convoquée à un entretien », a indiqué la direction ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com",
-    "image": "https://www.satellifacts.com/var/sfx/storage/images/1/7/1/9/7329171-1-fre-FR/1b166d7dcadd-Screenshot-2026-11-06-17.29.52.png",
-    "published_raw": "2026-11-06CET17:46:44",
-    "published_iso": "2026-11-06T17:46:44+01:00",
-    "fetched_at": "2026-11-06T17:40:10.829388+00:00"
   }
 }
