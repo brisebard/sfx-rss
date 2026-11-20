@@ -6,8 +6,16 @@
     <atom:link href="https://brisebard.github.io/sfx-rss/feed.xml" rel="self" type="application/rss+xml" />
     <description>Flux RSS non officiel généré à partir de https://www.satellifacts.com/api/news-feed</description>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 20 Nov 2026 01:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:33:31 +0000</lastBuildDate>
 
+    <item>
+      <title>Audiences 19/11/2026 : la rediffusion de l'unitaire « Les bois maudits » sur France 3 juste devant le spectacle de Jarry sur TF1 - SATELLIFACTS</title>
+      <link>https://www.satellifacts.com/news/actualite/audiences-19-11-2026-la-rediffusion-de-l-unitaire-les-bois-maudits-sur-france-3-juste-devant-le-spectacle-de-jarry-sur-tf1</link>
+      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/audiences-19-11-2026-la-rediffusion-de-l-unitaire-les-bois-maudits-sur-france-3-juste-devant-le-spectacle-de-jarry-sur-tf1</guid>
+      <description>France 3 est leader de la soirée mercredi grâce à la rediffusion du téléfilm Les bois maudits (Scarlett Production) avec Blandine Bellavoir et Samir Boitard, suivi par 2,64 millions de téléspectateurs pour 16,9 % de pda. La semaine dernière, la ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
+      <pubDate>Fri, 20 Nov 2026 09:23:02 +0100</pubDate>
+      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/0/5/4/7344503-1-fre-FR/2336f6d36ed1-Screenshot-2026-11-20-09.12.55.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Au fil des (e)X (tweets) : Méheut, Bouygues, Cannes, déontologie, accessibilité, projection... - SATELLIFACTS</title>
       <link>https://www.satellifacts.com/news/au-fil-des-e-x-tweets/au-fil-des-e-x-tweets-meheut-bouygues-cannes-deontologie-accessibilite-projection</link>
@@ -827,14 +835,6 @@ Lancé avec la banque Palatine, le prix est doté de 5 000 euros et sera rem
       <description>Selon nos informations, le tribunal des affaires économiques de Paris a validé, lundi 9 novembre, l'unique offre de reprise du Restaurant de la Maison de la radio, permettant la poursuite de ses activités le jour-même. L'établissement, composé d'un restaurant (Radio ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
       <pubDate>Tue, 10 Nov 2026 11:26:24 +0100</pubDate>
       <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/3/1/1/9/7299113-1-fre-FR/147f613024b6-radioeat" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Netflix / Nord-Ouest Audiovisuel : tournage du thriller "La Frontière" réalisé par Édouard Bergeon avec Anthony Bajon - SATELLIFACTS</title>
-      <link>https://www.satellifacts.com/news/actualite/netflix-nord-ouest-audiovisuel-tournage-du-thriller-la-frontiere-realise-par-edouard-bergeon-avec-anthony-bajon</link>
-      <guid isPermaLink="true">https://www.satellifacts.com/news/actualite/netflix-nord-ouest-audiovisuel-tournage-du-thriller-la-frontiere-realise-par-edouard-bergeon-avec-anthony-bajon</guid>
-      <description>Netflix a annoncé lundi 9 novembre le lancement du tournage du film La Frontière, un thriller produit par Christophe Rossignon (Nord-Ouest Audiovisuel) et réalisé par Édouard Bergeon,Après Au nom de la terre (2019) et La Promesse verte (2024), Édouard Bergeon ... © 2026 FRÉQUENCES. Tous droits réservés. Contenu protégé. Pour accéder à l'article complet : https://abonnement.satellifacts.com</description>
-      <pubDate>Tue, 10 Nov 2026 10:47:55 +0100</pubDate>
-      <enclosure url="https://www.satellifacts.com/var/sfx/storage/images/5/3/5/6/6136535-2-fre-FR/7d0edb97b030-netflix-logo-copie.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
